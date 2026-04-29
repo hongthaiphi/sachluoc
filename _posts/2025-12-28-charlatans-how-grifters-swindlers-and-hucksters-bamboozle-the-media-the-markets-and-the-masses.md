@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Charlatans – How Grifters, Swindlers, and Hucksters Bamboozle the Media, the Markets, and the Masses
-date: 2025-12-28
+layout: "post"
+title: "Charlatans – How Grifters, Swindlers, and Hucksters Bamboozle the Media, the Markets, and the Masses"
+date: "2025-12-28"
 published: true
 ---
 

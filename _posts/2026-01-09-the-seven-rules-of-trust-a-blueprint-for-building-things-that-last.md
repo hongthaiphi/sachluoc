@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Seven Rules of Trust – A Blueprint for Building Things That Last
-date: 2026-01-09
+layout: "post"
+title: "The Seven Rules of Trust – A Blueprint for Building Things That Last"
+date: "2026-01-09"
 published: true
 ---
 

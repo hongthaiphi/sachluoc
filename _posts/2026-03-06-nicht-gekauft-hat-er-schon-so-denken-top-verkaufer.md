@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Nicht gekauft hat er schon – So denken Top-Verkäufer
-date: 2026-03-06
+layout: "post"
+title: "Nicht gekauft hat er schon – So denken Top-Verkäufer"
+date: "2026-03-06"
 published: true
 categories:
   - Psychology

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Click Here – The Art and Science of Digital Marketing and Advertising
-date: 2025-12-18
+layout: "post"
+title: "Click Here – The Art and Science of Digital Marketing and Advertising"
+date: "2025-12-18"
 published: true
 categories:
   - Technology

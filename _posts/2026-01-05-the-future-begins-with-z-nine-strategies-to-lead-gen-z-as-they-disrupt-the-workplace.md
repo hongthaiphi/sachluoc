@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Future Begins with Z – Nine Strategies to Lead Gen Z as They Disrupt the Workplace
-date: 2026-01-05
+layout: "post"
+title: "The Future Begins with Z – Nine Strategies to Lead Gen Z as They Disrupt the Workplace"
+date: "2026-01-05"
 published: true
 ---
 

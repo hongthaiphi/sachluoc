@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Mit mir sein – Selbstliebe als Basis für Begegnung und Beziehung
-date: 2026-04-07
+layout: "post"
+title: "Mit mir sein – Selbstliebe als Basis für Begegnung und Beziehung"
+date: "2026-04-07"
 published: true
 ---
 

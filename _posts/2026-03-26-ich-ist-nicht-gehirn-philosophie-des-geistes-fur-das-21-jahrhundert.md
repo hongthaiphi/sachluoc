@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Ich ist nicht Gehirn – Philosophie des Geistes für das 21. Jahrhundert
-date: 2026-03-26
+layout: "post"
+title: "Ich ist nicht Gehirn – Philosophie des Geistes für das 21. Jahrhundert"
+date: "2026-03-26"
 published: true
 categories:
   - Psychology

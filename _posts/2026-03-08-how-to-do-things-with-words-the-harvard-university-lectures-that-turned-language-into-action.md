@@ -1,7 +1,7 @@
 ---
-layout: post
-title: How to Do Things with Words – The Harvard University Lectures that Turned Language into Action
-date: 2026-03-08
+layout: "post"
+title: "How to Do Things with Words – The Harvard University Lectures that Turned Language into Action"
+date: "2026-03-08"
 published: true
 ---
 

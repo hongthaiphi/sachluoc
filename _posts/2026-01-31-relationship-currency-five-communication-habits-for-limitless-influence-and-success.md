@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Relationship Currency – Five Communication Habits For Limitless Influence and Success
-date: 2026-01-31
+layout: "post"
+title: "Relationship Currency – Five Communication Habits For Limitless Influence and Success"
+date: "2026-01-31"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Startup! – Die Wissensquelle für deine erfolgreiche Gründung
-date: 2026-02-25
+layout: "post"
+title: "Startup! – Die Wissensquelle für deine erfolgreiche Gründung"
+date: "2026-02-25"
 published: true
 categories:
   - Business

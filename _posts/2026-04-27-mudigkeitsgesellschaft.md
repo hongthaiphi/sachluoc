@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Müdigkeitsgesellschaft
-date: 2026-04-27
+layout: "post"
+title: "Müdigkeitsgesellschaft"
+date: "2026-04-27"
 published: true
 ---
 

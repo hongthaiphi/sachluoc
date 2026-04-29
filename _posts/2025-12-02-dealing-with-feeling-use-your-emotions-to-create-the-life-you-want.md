@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Dealing with Feeling – Use Your Emotions to Create the Life You Want
-date: 2025-12-02
+layout: "post"
+title: "Dealing with Feeling – Use Your Emotions to Create the Life You Want"
+date: "2025-12-02"
 published: true
 categories:
   - Psychology

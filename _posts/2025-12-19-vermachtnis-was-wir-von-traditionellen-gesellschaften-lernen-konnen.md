@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Vermächtnis – Was wir von traditionellen Gesellschaften lernen können
-date: 2025-12-19
+layout: "post"
+title: "Vermächtnis – Was wir von traditionellen Gesellschaften lernen können"
+date: "2025-12-19"
 published: true
 categories:
   - Learning

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 1929 – Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation
-date: 2025-12-16
+layout: "post"
+title: "1929 – Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation"
+date: "2025-12-16"
 published: true
 ---
 

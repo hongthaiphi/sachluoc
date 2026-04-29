@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Art of Less – How to Focus on What Really Matters at Work
-date: 2026-01-03
+layout: "post"
+title: "The Art of Less – How to Focus on What Really Matters at Work"
+date: "2026-01-03"
 published: true
 ---
 

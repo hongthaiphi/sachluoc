@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Switch – Veränderungen wagen und dadurch gewinnen!
-date: 2026-03-13
+layout: "post"
+title: "Switch – Veränderungen wagen und dadurch gewinnen!"
+date: "2026-03-13"
 published: true
 ---
 

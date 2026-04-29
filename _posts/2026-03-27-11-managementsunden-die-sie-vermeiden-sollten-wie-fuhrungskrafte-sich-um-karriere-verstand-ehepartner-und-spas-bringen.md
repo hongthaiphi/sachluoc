@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 11 Managementsünden, die Sie vermeiden sollten – Wie Führungskräfte sich um Karriere, Verstand, Ehepartner und Spaß bringen
-date: 2026-03-27
+layout: "post"
+title: "11 Managementsünden, die Sie vermeiden sollten – Wie Führungskräfte sich um Karriere, Verstand, Ehepartner und Spaß bringen"
+date: "2026-03-27"
 published: true
 categories:
   - Leadership

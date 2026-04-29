@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Laws of Thought
-date: 2026-04-26
+layout: "post"
+title: "The Laws of Thought"
+date: "2026-04-26"
 published: true
 ---
 

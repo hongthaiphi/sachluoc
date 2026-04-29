@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Your Best Meeting Ever
-date: 2026-04-21
+layout: "post"
+title: "Your Best Meeting Ever"
+date: "2026-04-21"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Book of Ichigo Ichie – The Art of Making the Most of Every Moment, the Japanese Way
-date: 2026-03-25
+layout: "post"
+title: "The Book of Ichigo Ichie – The Art of Making the Most of Every Moment, the Japanese Way"
+date: "2026-03-25"
 published: true
 categories:
   - Technology

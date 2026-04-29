@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Kipppunkte
-date: 2026-04-23
+layout: "post"
+title: "Kipppunkte"
+date: "2026-04-23"
 published: true
 categories:
   - Technology

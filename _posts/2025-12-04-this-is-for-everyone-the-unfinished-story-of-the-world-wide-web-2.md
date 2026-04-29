@@ -1,7 +1,7 @@
 ---
-layout: post
-title: This Is for Everyone – The Unfinished Story of the World Wide Web
-date: 2025-12-04
+layout: "post"
+title: "This Is for Everyone – The Unfinished Story of the World Wide Web"
+date: "2025-12-04"
 published: true
 ---
 

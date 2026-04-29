@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die 5-Sekunden-Regel – Die schnellste Methode, dein Leben zu verändern
-date: 2026-03-24
+layout: "post"
+title: "Die 5-Sekunden-Regel – Die schnellste Methode, dein Leben zu verändern"
+date: "2026-03-24"
 published: true
 ---
 

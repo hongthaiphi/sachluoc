@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Kampf um Strom – Mythen, Macht und Monopole
-date: 2026-02-01
+layout: "post"
+title: "Kampf um Strom – Mythen, Macht und Monopole"
+date: "2026-02-01"
 published: true
 ---
 

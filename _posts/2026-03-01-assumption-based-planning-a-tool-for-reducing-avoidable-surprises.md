@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Assumption-Based Planning – A Tool for Reducing Avoidable Surprises
-date: 2026-03-01
+layout: "post"
+title: "Assumption-Based Planning – A Tool for Reducing Avoidable Surprises"
+date: "2026-03-01"
 published: true
 ---
 

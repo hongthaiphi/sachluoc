@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Traumjoblüge – Warum Leidenschaft die Karriere killt
-date: 2026-02-16
+layout: "post"
+title: "Die Traumjoblüge – Warum Leidenschaft die Karriere killt"
+date: "2026-02-16"
 published: true
 categories:
   - Technology

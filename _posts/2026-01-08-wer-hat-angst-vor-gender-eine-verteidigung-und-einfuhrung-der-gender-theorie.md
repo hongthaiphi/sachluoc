@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Wer hat Angst vor Gender? – Eine Verteidigung und Einführung der Gender-Theorie
-date: 2026-01-08
+layout: "post"
+title: "Wer hat Angst vor Gender? – Eine Verteidigung und Einführung der Gender-Theorie"
+date: "2026-01-08"
 published: true
 categories:
   - Leadership

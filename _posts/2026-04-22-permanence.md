@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Permanence
-date: 2026-04-22
+layout: "post"
+title: "Permanence"
+date: "2026-04-22"
 published: true
 ---
 

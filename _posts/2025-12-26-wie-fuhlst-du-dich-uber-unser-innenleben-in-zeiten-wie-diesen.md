@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Wie fühlst du dich? – Über unser Innenleben in Zeiten wie diesen
-date: 2025-12-26
+layout: "post"
+title: "Wie fühlst du dich? – Über unser Innenleben in Zeiten wie diesen"
+date: "2025-12-26"
 published: true
 ---
 

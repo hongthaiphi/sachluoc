@@ -1,7 +1,7 @@
 ---
-layout: post
-title: On the Road – A classic literary chronicle of American restlessness
-date: 2026-02-16
+layout: "post"
+title: "On the Road – A classic literary chronicle of American restlessness"
+date: "2026-02-16"
 published: true
 ---
 

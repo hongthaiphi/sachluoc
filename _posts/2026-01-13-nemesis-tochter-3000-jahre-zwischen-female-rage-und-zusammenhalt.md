@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Nemesis' Töchter – 3000 Jahre zwischen Female Rage und Zusammenhalt
-date: 2026-01-13
+layout: "post"
+title: "Nemesis' Töchter – 3000 Jahre zwischen Female Rage und Zusammenhalt"
+date: "2026-01-13"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Growth Data Analytics Playbook – How to Turn Gut Instinct into Data-Driven Product Growth
-date: 2026-01-18
+layout: "post"
+title: "Growth Data Analytics Playbook – How to Turn Gut Instinct into Data-Driven Product Growth"
+date: "2026-01-18"
 published: true
 ---
 

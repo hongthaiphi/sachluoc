@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Nothing Changes Until You Do – A Guide to Self-Compassion and Getting Out of Your Own Way
-date: 2026-03-26
+layout: "post"
+title: "Nothing Changes Until You Do – A Guide to Self-Compassion and Getting Out of Your Own Way"
+date: "2026-03-26"
 published: true
 ---
 

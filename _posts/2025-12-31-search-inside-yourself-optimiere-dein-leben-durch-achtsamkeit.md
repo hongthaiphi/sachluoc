@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Search Inside Yourself – Optimiere dein Leben durch Achtsamkeit
-date: 2025-12-31
+layout: "post"
+title: "Search Inside Yourself – Optimiere dein Leben durch Achtsamkeit"
+date: "2025-12-31"
 published: true
 ---
 

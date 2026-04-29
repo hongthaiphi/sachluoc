@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Leiden des jungen Werther – Ein Briefroman über unerwiderte Liebe und Verzweiflung
-date: 2026-03-14
+layout: "post"
+title: "Die Leiden des jungen Werther – Ein Briefroman über unerwiderte Liebe und Verzweiflung"
+date: "2026-03-14"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Root Cause Analysis – A Step-By-Step Guide to Using the Right Tool at the Right Time
-date: 2026-02-23
+layout: "post"
+title: "Root Cause Analysis – A Step-By-Step Guide to Using the Right Tool at the Right Time"
+date: "2026-02-23"
 published: true
 ---
 

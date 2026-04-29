@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Wie konnte das geschehen? – Deutschland 1933 bis 1945
-date: 2026-02-12
+layout: "post"
+title: "Wie konnte das geschehen? – Deutschland 1933 bis 1945"
+date: "2026-02-12"
 published: true
 ---
 

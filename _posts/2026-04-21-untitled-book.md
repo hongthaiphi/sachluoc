@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Untitled Book
-date: 2026-04-21
+layout: "post"
+title: "Untitled Book"
+date: "2026-04-21"
 published: true
 ---
 

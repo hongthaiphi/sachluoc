@@ -1,7 +1,7 @@
 ---
-layout: post
-title: AI-Powered Leadership
-date: 2026-04-28
+layout: "post"
+title: "AI-Powered Leadership"
+date: "2026-04-28"
 published: true
 categories:
   - Leadership

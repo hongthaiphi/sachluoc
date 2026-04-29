@@ -1,7 +1,7 @@
 ---
-layout: post
-title: So kriege ich alles in den Griff – Selbstmanagement im Alltag
-date: 2025-12-27
+layout: "post"
+title: "So kriege ich alles in den Griff – Selbstmanagement im Alltag"
+date: "2025-12-27"
 published: true
 categories:
   - Leadership

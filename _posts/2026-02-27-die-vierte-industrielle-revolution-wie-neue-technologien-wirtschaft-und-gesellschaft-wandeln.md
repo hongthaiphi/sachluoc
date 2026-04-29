@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Vierte Industrielle Revolution – Wie neue Technologien Wirtschaft und Gesellschaft wandeln
-date: 2026-02-27
+layout: "post"
+title: "Die Vierte Industrielle Revolution – Wie neue Technologien Wirtschaft und Gesellschaft wandeln"
+date: "2026-02-27"
 published: true
 categories:
   - Technology

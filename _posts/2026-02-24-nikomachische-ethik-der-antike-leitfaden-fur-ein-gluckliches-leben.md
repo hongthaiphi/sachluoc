@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Nikomachische Ethik – Der antike Leitfaden für ein glückliches Leben
-date: 2026-02-24
+layout: "post"
+title: "Nikomachische Ethik – Der antike Leitfaden für ein glückliches Leben"
+date: "2026-02-24"
 published: true
 ---
 

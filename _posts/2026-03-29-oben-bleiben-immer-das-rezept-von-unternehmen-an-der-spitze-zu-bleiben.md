@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Oben bleiben. Immer. – Das Rezept von Unternehmen an der Spitze zu bleiben
-date: 2026-03-29
+layout: "post"
+title: "Oben bleiben. Immer. – Das Rezept von Unternehmen an der Spitze zu bleiben"
+date: "2026-03-29"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Girl on Girl – How Pop Culture Turned Women Against Themselves
-date: 2026-01-04
+layout: "post"
+title: "Girl on Girl – How Pop Culture Turned Women Against Themselves"
+date: "2026-01-04"
 published: true
 categories:
   - Technology

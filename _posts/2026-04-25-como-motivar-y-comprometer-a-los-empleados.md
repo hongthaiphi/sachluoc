@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Cómo motivar y comprometer a los empleados
-date: 2026-04-25
+layout: "post"
+title: "Cómo motivar y comprometer a los empleados"
+date: "2026-04-25"
 published: true
 ---
 

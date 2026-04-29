@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Selbst denken – Eine Anleitung zum Widerstand
-date: 2025-12-14
+layout: "post"
+title: "Selbst denken – Eine Anleitung zum Widerstand"
+date: "2025-12-14"
 published: true
 categories:
   - Psychology

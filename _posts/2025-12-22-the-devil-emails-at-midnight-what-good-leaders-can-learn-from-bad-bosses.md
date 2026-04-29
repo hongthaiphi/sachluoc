@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Devil Emails at Midnight – What Good Leaders Can Learn From Bad Bosses
-date: 2025-12-22
+layout: "post"
+title: "The Devil Emails at Midnight – What Good Leaders Can Learn From Bad Bosses"
+date: "2025-12-22"
 published: true
 categories:
   - Leadership

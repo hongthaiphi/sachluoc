@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Warum Diversity uns alle angeht – Wie ich der wurde, der ich immer war
-date: 2026-01-09
+layout: "post"
+title: "Warum Diversity uns alle angeht – Wie ich der wurde, der ich immer war"
+date: "2026-01-09"
 published: true
 ---
 

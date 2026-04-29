@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Musik macht schlau - außer manche – Musik, die den Kopf verdreht und klüger macht
-date: 2026-03-23
+layout: "post"
+title: "Musik macht schlau - außer manche – Musik, die den Kopf verdreht und klüger macht"
+date: "2026-03-23"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Der Erfolg ist in dir – Wie man mit Menschen umgeht, Probleme löst und sich durchsetzt
-date: 2026-01-20
+layout: "post"
+title: "Der Erfolg ist in dir – Wie man mit Menschen umgeht, Probleme löst und sich durchsetzt"
+date: "2026-01-20"
 published: true
 ---
 

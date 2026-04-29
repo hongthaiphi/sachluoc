@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Resolute Japan – The Leaders Forging a Corporate Resurgence
-date: 2026-03-17
+layout: "post"
+title: "Resolute Japan – The Leaders Forging a Corporate Resurgence"
+date: "2026-03-17"
 published: true
 categories:
   - Leadership

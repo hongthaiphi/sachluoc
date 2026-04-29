@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Ist das normal? – Sprechen wir über Sex, wie du ihn willst
-date: 2026-01-01
+layout: "post"
+title: "Ist das normal? – Sprechen wir über Sex, wie du ihn willst"
+date: "2026-01-01"
 published: true
 ---
 

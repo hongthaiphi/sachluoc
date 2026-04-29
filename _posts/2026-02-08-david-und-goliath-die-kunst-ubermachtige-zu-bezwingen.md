@@ -1,7 +1,7 @@
 ---
-layout: post
-title: David und Goliath – Die Kunst, Übermächtige zu bezwingen
-date: 2026-02-08
+layout: "post"
+title: "David und Goliath – Die Kunst, Übermächtige zu bezwingen"
+date: "2026-02-08"
 published: true
 ---
 

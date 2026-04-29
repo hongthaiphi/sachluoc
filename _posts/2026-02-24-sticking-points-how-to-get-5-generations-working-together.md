@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Sticking Points – How to Get 5 Generations Working Together
-date: 2026-02-24
+layout: "post"
+title: "Sticking Points – How to Get 5 Generations Working Together"
+date: "2026-02-24"
 published: true
 categories:
   - Technology

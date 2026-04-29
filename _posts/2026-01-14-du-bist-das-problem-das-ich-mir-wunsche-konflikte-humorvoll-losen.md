@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Du bist das Problem, das ich mir wünsche – Konflikte humorvoll lösen
-date: 2026-01-14
+layout: "post"
+title: "Du bist das Problem, das ich mir wünsche – Konflikte humorvoll lösen"
+date: "2026-01-14"
 published: true
 ---
 

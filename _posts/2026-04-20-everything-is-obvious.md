@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Everything is Obvious
-date: 2026-04-20
+layout: "post"
+title: "Everything is Obvious"
+date: "2026-04-20"
 published: true
 ---
 

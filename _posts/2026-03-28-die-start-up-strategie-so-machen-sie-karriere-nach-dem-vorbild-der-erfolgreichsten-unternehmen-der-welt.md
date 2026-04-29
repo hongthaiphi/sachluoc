@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Start-up-Strategie – So machen Sie Karriere – nach dem Vorbild der erfolgreichsten Unternehmen der Welt
-date: 2026-03-28
+layout: "post"
+title: "Die Start-up-Strategie – So machen Sie Karriere – nach dem Vorbild der erfolgreichsten Unternehmen der Welt"
+date: "2026-03-28"
 published: true
 categories:
   - Finance

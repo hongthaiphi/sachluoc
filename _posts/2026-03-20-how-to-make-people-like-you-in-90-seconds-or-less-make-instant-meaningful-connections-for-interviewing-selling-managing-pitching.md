@@ -1,7 +1,7 @@
 ---
-layout: post
-title: How to Make People Like You in 90 Seconds or Less – Make Instant, Meaningful Connections for Interviewing, Selling, Managing, Pitching
-date: 2026-03-20
+layout: "post"
+title: "How to Make People Like You in 90 Seconds or Less – Make Instant, Meaningful Connections for Interviewing, Selling, Managing, Pitching"
+date: "2026-03-20"
 published: true
 ---
 

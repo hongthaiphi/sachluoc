@@ -1,7 +1,7 @@
 ---
-layout: post
-title: So You Want to Own Greenland? – Lessons from the Vikings to Trump
-date: 2026-04-01
+layout: "post"
+title: "So You Want to Own Greenland? – Lessons from the Vikings to Trump"
+date: "2026-04-01"
 published: true
 categories:
   - Technology

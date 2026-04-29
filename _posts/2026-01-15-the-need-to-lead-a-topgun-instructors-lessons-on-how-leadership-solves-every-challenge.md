@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Need to Lead – A TOPGUN Instructor’s Lessons on How Leadership Solves Every Challenge
-date: 2026-01-15
+layout: "post"
+title: "The Need to Lead – A TOPGUN Instructor’s Lessons on How Leadership Solves Every Challenge"
+date: "2026-01-15"
 published: true
 categories:
   - Leadership

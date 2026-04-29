@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Overthinker's Guide to Making Decisions – How to Make Decisions Without Losing Your Mind
-date: 2026-01-23
+layout: "post"
+title: "The Overthinker's Guide to Making Decisions – How to Make Decisions Without Losing Your Mind"
+date: "2026-01-23"
 published: true
 categories:
   - Psychology

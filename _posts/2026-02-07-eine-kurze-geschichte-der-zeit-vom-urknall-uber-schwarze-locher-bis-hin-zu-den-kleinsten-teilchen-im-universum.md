@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Eine kurze Geschichte der Zeit – Vom Urknall über Schwarze Löcher bis hin zu den kleinsten Teilchen im Universum
-date: 2026-02-07
+layout: "post"
+title: "Eine kurze Geschichte der Zeit – Vom Urknall über Schwarze Löcher bis hin zu den kleinsten Teilchen im Universum"
+date: "2026-02-07"
 published: true
 ---
 

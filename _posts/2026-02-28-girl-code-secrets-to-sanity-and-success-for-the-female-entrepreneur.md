@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Girl Code – Secrets to Sanity and Success for the Female Entrepreneur
-date: 2026-02-28
+layout: "post"
+title: "Girl Code – Secrets to Sanity and Success for the Female Entrepreneur"
+date: "2026-02-28"
 published: true
 categories:
   - Business

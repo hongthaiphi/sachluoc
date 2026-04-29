@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Developing Mind – How Relationships and the Brain Interact to Shape Who We Are
-date: 2026-02-01
+layout: "post"
+title: "The Developing Mind – How Relationships and the Brain Interact to Shape Who We Are"
+date: "2026-02-01"
 published: true
 categories:
   - Psychology

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Der Toyota Weg – 14 Managementprinzipien des weltweit erfolgreichsten Autokonzerns
-date: 2026-01-29
+layout: "post"
+title: "Der Toyota Weg – 14 Managementprinzipien des weltweit erfolgreichsten Autokonzerns"
+date: "2026-01-29"
 published: true
 categories:
   - Leadership

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Das Versagen – Eine investigative Geschichte der deutschen Russlandpolitik
-date: 2026-02-10
+layout: "post"
+title: "Das Versagen – Eine investigative Geschichte der deutschen Russlandpolitik"
+date: "2026-02-10"
 published: true
 ---
 

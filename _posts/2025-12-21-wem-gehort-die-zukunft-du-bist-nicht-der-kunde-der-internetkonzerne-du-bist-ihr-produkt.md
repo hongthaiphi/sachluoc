@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Wem gehört die Zukunft? – 'Du bist nicht der Kunde der Internetkonzerne. Du bist ihr Produkt.'
-date: 2025-12-21
+layout: "post"
+title: "Wem gehört die Zukunft? – 'Du bist nicht der Kunde der Internetkonzerne. Du bist ihr Produkt.'"
+date: "2025-12-21"
 published: true
 ---
 

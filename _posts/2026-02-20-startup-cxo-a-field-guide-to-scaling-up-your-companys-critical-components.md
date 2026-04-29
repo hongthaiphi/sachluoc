@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Startup CXO – A Field Guide to Scaling Up Your Company’s Critical Components
-date: 2026-02-20
+layout: "post"
+title: "Startup CXO – A Field Guide to Scaling Up Your Company’s Critical Components"
+date: "2026-02-20"
 published: true
 categories:
   - Business

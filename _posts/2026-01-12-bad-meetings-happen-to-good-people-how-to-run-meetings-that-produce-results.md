@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Bad Meetings Happen to Good People – How to Run Meetings That Produce Results
-date: 2026-01-12
+layout: "post"
+title: "Bad Meetings Happen to Good People – How to Run Meetings That Produce Results"
+date: "2026-01-12"
 published: true
 ---
 

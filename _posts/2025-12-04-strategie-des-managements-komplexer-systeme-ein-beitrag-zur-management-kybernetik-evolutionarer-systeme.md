@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Strategie des Managements komplexer Systeme – Ein Beitrag zur Management-Kybernetik evolutionärer Systeme
-date: 2025-12-04
+layout: "post"
+title: "Strategie des Managements komplexer Systeme – Ein Beitrag zur Management-Kybernetik evolutionärer Systeme"
+date: "2025-12-04"
 published: true
 categories:
   - Leadership

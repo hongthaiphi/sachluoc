@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Hoffnungslos optimistisch
-date: 2026-04-23
+layout: "post"
+title: "Hoffnungslos optimistisch"
+date: "2026-04-23"
 published: true
 ---
 

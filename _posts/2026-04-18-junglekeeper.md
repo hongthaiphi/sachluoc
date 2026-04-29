@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Junglekeeper
-date: 2026-04-18
+layout: "post"
+title: "Junglekeeper"
+date: "2026-04-18"
 published: true
 ---
 

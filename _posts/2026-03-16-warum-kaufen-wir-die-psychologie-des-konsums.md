@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Warum kaufen wir – Die Psychologie des Konsums
-date: 2026-03-16
+layout: "post"
+title: "Warum kaufen wir – Die Psychologie des Konsums"
+date: "2026-03-16"
 published: true
 categories:
   - Psychology

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die 12 Geheimnisse der Lebensfreude – Wie wir auch in schwierigen Zeiten glücklich sein können
-date: 2025-12-10
+layout: "post"
+title: "Die 12 Geheimnisse der Lebensfreude – Wie wir auch in schwierigen Zeiten glücklich sein können"
+date: "2025-12-10"
 published: true
 ---
 

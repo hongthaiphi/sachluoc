@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Das Ende der Angst – Wo sie entsteht - wie sie wirkt - wie du sie besiegst
-date: 2026-02-04
+layout: "post"
+title: "Das Ende der Angst – Wo sie entsteht - wie sie wirkt - wie du sie besiegst"
+date: "2026-02-04"
 published: true
 ---
 

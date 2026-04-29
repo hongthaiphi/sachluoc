@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Kommunikations-Hacks – Brisante Gespräche meistern
-date: 2026-03-10
+layout: "post"
+title: "Kommunikations-Hacks – Brisante Gespräche meistern"
+date: "2026-03-10"
 published: true
 ---
 

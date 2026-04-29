@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Buddenbrooks – Verfall einer Familie
-date: 2026-01-24
+layout: "post"
+title: "Buddenbrooks – Verfall einer Familie"
+date: "2026-01-24"
 published: true
 ---
 

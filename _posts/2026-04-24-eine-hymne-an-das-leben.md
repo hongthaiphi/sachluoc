@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Eine Hymne an das Leben
-date: 2026-04-24
+layout: "post"
+title: "Eine Hymne an das Leben"
+date: "2026-04-24"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Der neue Wohlstand – Was wir für eine bessere Zukunft tun müssen
-date: 2026-03-04
+layout: "post"
+title: "Der neue Wohlstand – Was wir für eine bessere Zukunft tun müssen"
+date: "2026-03-04"
 published: true
 ---
 

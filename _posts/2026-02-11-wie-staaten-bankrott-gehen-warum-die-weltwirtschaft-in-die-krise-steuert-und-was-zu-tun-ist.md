@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Wie Staaten bankrott gehen – Warum die Weltwirtschaft in die Krise steuert und was zu tun ist
-date: 2026-02-11
+layout: "post"
+title: "Wie Staaten bankrott gehen – Warum die Weltwirtschaft in die Krise steuert und was zu tun ist"
+date: "2026-02-11"
 published: true
 ---
 

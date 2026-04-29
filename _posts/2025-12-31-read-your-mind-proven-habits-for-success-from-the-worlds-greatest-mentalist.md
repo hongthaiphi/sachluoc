@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Read Your Mind – Proven Habits for Success from the World’s Greatest Mentalist
-date: 2025-12-31
+layout: "post"
+title: "Read Your Mind – Proven Habits for Success from the World’s Greatest Mentalist"
+date: "2025-12-31"
 published: true
 categories:
   - Psychology

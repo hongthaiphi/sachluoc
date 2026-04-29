@@ -1,7 +1,7 @@
 ---
-layout: post
-title: AI Strategy for Sales and Marketing – Connecting Marketing, Sales and Customer Experience
-date: 2026-01-19
+layout: "post"
+title: "AI Strategy for Sales and Marketing – Connecting Marketing, Sales and Customer Experience"
+date: "2026-01-19"
 published: true
 categories:
   - Technology

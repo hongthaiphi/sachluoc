@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Mandelas Weg – Liebe, Mut, Verantwortung – Die Weisheit eines Lebens
-date: 2026-01-25
+layout: "post"
+title: "Mandelas Weg – Liebe, Mut, Verantwortung – Die Weisheit eines Lebens"
+date: "2026-01-25"
 published: true
 ---
 

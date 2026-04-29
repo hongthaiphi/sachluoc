@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Das 80/20-Prinzip – Mehr Erfolg mit weniger Aufwand
-date: 2026-03-09
+layout: "post"
+title: "Das 80/20-Prinzip – Mehr Erfolg mit weniger Aufwand"
+date: "2026-03-09"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Showdown – Der Kampf um Europa und unser Geld
-date: 2026-04-03
+layout: "post"
+title: "Showdown – Der Kampf um Europa und unser Geld"
+date: "2026-04-03"
 published: true
 categories:
   - Finance

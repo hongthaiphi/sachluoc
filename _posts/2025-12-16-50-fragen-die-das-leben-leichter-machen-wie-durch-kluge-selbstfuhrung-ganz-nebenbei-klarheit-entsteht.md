@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 50 Fragen, die das Leben leichter machen – Wie durch kluge Selbstführung ganz nebenbei Klarheit entsteht
-date: 2025-12-16
+layout: "post"
+title: "50 Fragen, die das Leben leichter machen – Wie durch kluge Selbstführung ganz nebenbei Klarheit entsteht"
+date: "2025-12-16"
 published: true
 categories:
   - Leadership

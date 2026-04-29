@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Kunst des logischen Denkens – Scharfsinnig analysieren und clever kombinieren wie Sherlock Holmes
-date: 2025-12-05
+layout: "post"
+title: "Die Kunst des logischen Denkens – Scharfsinnig analysieren und clever kombinieren wie Sherlock Holmes"
+date: "2025-12-05"
 published: true
 categories:
   - Psychology

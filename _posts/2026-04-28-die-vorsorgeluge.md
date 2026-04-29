@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Vorsorgelüge
-date: 2026-04-28
+layout: "post"
+title: "Die Vorsorgelüge"
+date: "2026-04-28"
 published: true
 ---
 

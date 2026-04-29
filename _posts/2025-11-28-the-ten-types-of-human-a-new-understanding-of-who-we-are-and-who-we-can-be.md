@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Ten Types of Human – A New Understanding of Who We Are, and Who We Can Be
-date: 2025-11-28
+layout: "post"
+title: "The Ten Types of Human – A New Understanding of Who We Are, and Who We Can Be"
+date: "2025-11-28"
 published: true
 ---
 

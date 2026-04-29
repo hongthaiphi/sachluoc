@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Trust at a Distance – 6 Strategies for Managing in Remote Workspaces
-date: 2025-12-26
+layout: "post"
+title: "Trust at a Distance – 6 Strategies for Managing in Remote Workspaces"
+date: "2025-12-26"
 published: true
 ---
 

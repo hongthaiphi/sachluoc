@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Suche nach Zuhause – Von der Sehnsucht nach einem Ort, an den wir hingehören
-date: 2025-12-23
+layout: "post"
+title: "Die Suche nach Zuhause – Von der Sehnsucht nach einem Ort, an den wir hingehören"
+date: "2025-12-23"
 published: true
 ---
 

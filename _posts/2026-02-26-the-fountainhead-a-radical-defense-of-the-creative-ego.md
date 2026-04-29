@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Fountainhead – A radical defense of the creative ego
-date: 2026-02-26
+layout: "post"
+title: "The Fountainhead – A radical defense of the creative ego"
+date: "2026-02-26"
 published: true
 categories:
   - Technology

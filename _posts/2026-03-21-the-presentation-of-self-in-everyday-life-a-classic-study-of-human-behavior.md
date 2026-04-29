@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Presentation of Self in Everyday Life – A classic study of human behavior
-date: 2026-03-21
+layout: "post"
+title: "The Presentation of Self in Everyday Life – A classic study of human behavior"
+date: "2026-03-21"
 published: true
 ---
 

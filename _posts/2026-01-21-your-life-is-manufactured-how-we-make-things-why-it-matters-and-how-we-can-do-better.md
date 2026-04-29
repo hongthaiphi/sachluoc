@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Your Life Is Manufactured – How We Make Things, Why It Matters, and How We Can Do Better
-date: 2026-01-21
+layout: "post"
+title: "Your Life Is Manufactured – How We Make Things, Why It Matters, and How We Can Do Better"
+date: "2026-01-21"
 published: true
 ---
 

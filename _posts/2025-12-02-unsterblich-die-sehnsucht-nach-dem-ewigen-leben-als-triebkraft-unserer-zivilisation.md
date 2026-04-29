@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Unsterblich – Die Sehnsucht nach dem ewigen Leben als Triebkraft unserer Zivilisation
-date: 2025-12-02
+layout: "post"
+title: "Unsterblich – Die Sehnsucht nach dem ewigen Leben als Triebkraft unserer Zivilisation"
+date: "2025-12-02"
 published: true
 ---
 

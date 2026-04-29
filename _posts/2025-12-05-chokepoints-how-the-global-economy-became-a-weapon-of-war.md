@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Chokepoints – How the Global Economy Became a Weapon of War
-date: 2025-12-05
+layout: "post"
+title: "Chokepoints – How the Global Economy Became a Weapon of War"
+date: "2025-12-05"
 published: true
 ---
 

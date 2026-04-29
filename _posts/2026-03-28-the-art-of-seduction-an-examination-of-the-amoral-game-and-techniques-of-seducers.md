@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Art of Seduction – An examination of the amoral game and techniques of seducers
-date: 2026-03-28
+layout: "post"
+title: "The Art of Seduction – An examination of the amoral game and techniques of seducers"
+date: "2026-03-28"
 published: true
 categories:
   - Technology

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Human Edge in the AI Age – Eight Timeless Mantras For Success
-date: 2026-02-19
+layout: "post"
+title: "Human Edge in the AI Age – Eight Timeless Mantras For Success"
+date: "2026-02-19"
 published: true
 categories:
   - Technology

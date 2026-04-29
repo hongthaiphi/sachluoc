@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The History of Money – A Story of Humanity
-date: 2026-01-16
+layout: "post"
+title: "The History of Money – A Story of Humanity"
+date: "2026-01-16"
 published: true
 categories:
   - Finance

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Der Aufstieg des Geldes – Die Währung der Geschichte
-date: 2026-02-20
+layout: "post"
+title: "Der Aufstieg des Geldes – Die Währung der Geschichte"
+date: "2026-02-20"
 published: true
 categories:
   - Finance

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Überwintern – Wenn das Leben innehält
-date: 2026-02-05
+layout: "post"
+title: "Überwintern – Wenn das Leben innehält"
+date: "2026-02-05"
 published: true
 ---
 

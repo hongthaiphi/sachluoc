@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Anleitung zur Unzufriedenheit – Warum weniger glücklich macht
-date: 2026-02-14
+layout: "post"
+title: "Anleitung zur Unzufriedenheit – Warum weniger glücklich macht"
+date: "2026-02-14"
 published: true
 ---
 

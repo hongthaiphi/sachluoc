@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Heikle Gespräche – Worauf es ankommt, wenn viel auf dem Spiel steht
-date: 2025-12-06
+layout: "post"
+title: "Heikle Gespräche – Worauf es ankommt, wenn viel auf dem Spiel steht"
+date: "2025-12-06"
 published: true
 ---
 

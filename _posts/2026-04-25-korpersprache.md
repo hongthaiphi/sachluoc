@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Körpersprache
-date: 2026-04-25
+layout: "post"
+title: "Körpersprache"
+date: "2026-04-25"
 published: true
 ---
 

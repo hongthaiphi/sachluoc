@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Idee der Phänomenologie – Ein Grundlagentext der phänomenologischen Methode
-date: 2025-12-03
+layout: "post"
+title: "Die Idee der Phänomenologie – Ein Grundlagentext der phänomenologischen Methode"
+date: "2025-12-03"
 published: true
 ---
 

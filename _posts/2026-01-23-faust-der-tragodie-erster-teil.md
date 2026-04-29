@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Faust – Der Tragödie Erster Teil
-date: 2026-01-23
+layout: "post"
+title: "Faust – Der Tragödie Erster Teil"
+date: "2026-01-23"
 published: true
 ---
 

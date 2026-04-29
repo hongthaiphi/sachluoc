@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Junglekeeper - A Wild Journey to Save the Amazon
-date: 2026-04-30
+layout: "post"
+title: "Junglekeeper - A Wild Journey to Save the Amazon"
+date: "2026-04-30"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: EQ – Emotionale Intelligenz
-date: 2026-03-08
+layout: "post"
+title: "EQ – Emotionale Intelligenz"
+date: "2026-03-08"
 published: true
 categories:
   - Psychology

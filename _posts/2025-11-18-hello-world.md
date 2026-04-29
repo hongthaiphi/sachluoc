@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Hello world!
-date: 2025-11-18
+layout: "post"
+title: "Hello world!"
+date: "2025-11-18"
 published: true
 ---
 

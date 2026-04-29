@@ -28,12 +28,8 @@ layout: default
 <div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
   <h3>📚 Bài viết liên quan</h3>
 
-  {% assign current_categories = page.categories | default: empty %}
+  {% assign current_categories = page.categories %}
   {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
-
-  {% if current_categories.size > 0 %}
-    {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories | join: ',' | contains: current_categories[0]" %}
-  {% endif %}
 
   <ul style="list-style: none; padding: 0;">
     {% for post in related_posts limit: 5 %}

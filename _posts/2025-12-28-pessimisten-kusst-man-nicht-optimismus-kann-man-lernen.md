@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Pessimisten küsst man nicht – Optimismus kann man lernen
-date: 2025-12-28
+layout: "post"
+title: "Pessimisten küsst man nicht – Optimismus kann man lernen"
+date: "2025-12-28"
 published: true
 categories:
   - Learning

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Innovative Leader – Lessons from Top Innovators for You and Your Organization
-date: 2026-03-29
+layout: "post"
+title: "The Innovative Leader – Lessons from Top Innovators for You and Your Organization"
+date: "2026-03-29"
 published: true
 categories:
   - Leadership

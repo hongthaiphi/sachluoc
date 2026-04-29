@@ -1,7 +1,7 @@
 ---
-layout: post
-title: What Is Intelligence? – Lessons from AI About Evolution, Computing, and Minds
-date: 2025-12-30
+layout: "post"
+title: "What Is Intelligence? – Lessons from AI About Evolution, Computing, and Minds"
+date: "2025-12-30"
 published: true
 categories:
   - Psychology

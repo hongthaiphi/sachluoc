@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Finanzen ganz einfach – Richtig sparen, klug investieren, gelassen vorsorgen
-date: 2026-02-17
+layout: "post"
+title: "Finanzen ganz einfach – Richtig sparen, klug investieren, gelassen vorsorgen"
+date: "2026-02-17"
 published: true
 ---
 

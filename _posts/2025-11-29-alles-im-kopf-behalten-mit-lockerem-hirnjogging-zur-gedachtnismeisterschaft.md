@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Alles im Kopf behalten – Mit lockerem Hirnjogging zur Gedächtnismeisterschaft
-date: 2025-11-29
+layout: "post"
+title: "Alles im Kopf behalten – Mit lockerem Hirnjogging zur Gedächtnismeisterschaft"
+date: "2025-11-29"
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Intimate Animal – The Science of Sex, Fidelity, and Why We Live and Die for Love
-date: 2026-03-19
+layout: "post"
+title: "The Intimate Animal – The Science of Sex, Fidelity, and Why We Live and Die for Love"
+date: "2026-03-19"
 published: true
 ---
 

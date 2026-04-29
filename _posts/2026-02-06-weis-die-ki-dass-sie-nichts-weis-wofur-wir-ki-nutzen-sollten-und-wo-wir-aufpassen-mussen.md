@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Weiß die KI, dass sie nichts weiß? – Wofür wir KI nutzen sollten und wo wir aufpassen müssen
-date: 2026-02-06
+layout: "post"
+title: "Weiß die KI, dass sie nichts weiß? – Wofür wir KI nutzen sollten und wo wir aufpassen müssen"
+date: "2026-02-06"
 published: true
 categories:
   - Technology

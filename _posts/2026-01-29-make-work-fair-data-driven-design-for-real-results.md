@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Make Work Fair – Data-Driven Design for Real Results
-date: 2026-01-29
+layout: "post"
+title: "Make Work Fair – Data-Driven Design for Real Results"
+date: "2026-01-29"
 published: true
 categories:
   - Technology

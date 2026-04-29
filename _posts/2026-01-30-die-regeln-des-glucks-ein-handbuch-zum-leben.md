@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Die Regeln des Glücks – Ein Handbuch zum Leben
-date: 2026-01-30
+layout: "post"
+title: "Die Regeln des Glücks – Ein Handbuch zum Leben"
+date: "2026-01-30"
 published: true
 categories:
   - Learning

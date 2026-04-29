@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Achtsamkeit und emotionale Intelligenz in Organisationen – Agiles Arbeiten in Teams und Organisationskultur der Zukunft
-date: 2026-01-07
+layout: "post"
+title: "Achtsamkeit und emotionale Intelligenz in Organisationen – Agiles Arbeiten in Teams und Organisationskultur der Zukunft"
+date: "2026-01-07"
 published: true
 categories:
   - Leadership

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Digitale Bildung – Was Deutschland jetzt dringend angehen muss
-date: 2026-02-19
+layout: "post"
+title: "Digitale Bildung – Was Deutschland jetzt dringend angehen muss"
+date: "2026-02-19"
 published: true
 categories:
   - Technology

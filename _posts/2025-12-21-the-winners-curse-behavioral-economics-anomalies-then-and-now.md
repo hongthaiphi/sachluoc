@@ -1,7 +1,7 @@
 ---
-layout: post
-title: The Winner's Curse – Behavioral Economics Anomalies Then and Now
-date: 2025-12-21
+layout: "post"
+title: "The Winner's Curse – Behavioral Economics Anomalies Then and Now"
+date: "2025-12-21"
 published: true
 ---
 
