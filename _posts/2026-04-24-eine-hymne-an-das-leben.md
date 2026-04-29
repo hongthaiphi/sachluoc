@@ -5,7 +5,9 @@ date: "2026-04-24"
 published: true
 ---
 
-**Author:** Gisèle Pelicot | **Category:** Mindfulness & Happiness## WHAT'S IN IT FOR YOU: THE STORY OF A LIBERATION
+**Author:** Gisèle Pelicot | **Category:** Mindfulness & Happiness
+
+## WHAT'S IN IT FOR YOU: THE STORY OF A LIBERATION
 
 When Gisèle Pelicot took her rapists to court in 2024, the eyes of the world watched this gentle, quiet woman. She insisted on a public trial to show how many sexual crimes happen to women. With this brave choice, Gisèle started a worldwide discussion about sexual violence and how society handles it. In her autobiography, published in 2026, she tells how she experienced everything. We read her story and made a short summary – so her courage and fearlessness will not be forgotten. Before we start, a warning: This summary talks about a very serious case of sexual violence. Please only read if you feel ready emotionally.
 

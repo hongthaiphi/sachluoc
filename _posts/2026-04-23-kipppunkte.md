@@ -7,7 +7,9 @@ categories:
   - Technology
 ---
 
-**Author:** Georg Diez | **Category:** Geschichte## WHAT'S IN IT FOR YOU: A LOOK BACK AT THE 1990S – THEIR MISTAKES, FAILURES, AND MISSED OPPORTUNITIES.
+**Author:** Georg Diez | **Category:** Geschichte
+
+## WHAT'S IN IT FOR YOU: A LOOK BACK AT THE 1990S – THEIR MISTAKES, FAILURES, AND MISSED OPPORTUNITIES.
 
 Disappointment in politics, extremism, fake news, not to forget extreme wealth, turbo capitalism, and climate disaster.
 

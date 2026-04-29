@@ -5,7 +5,9 @@ date: "2026-04-28"
 published: true
 ---
 
-**Author:** Holger Balodis & Dagmar Hühne | **Category:** Wirtschaft## WHAT'S IN IT FOR YOU: UNDERSTAND THE PENSION JUNGLE AND FIND A WAY THROUGH IT.
+**Author:** Holger Balodis & Dagmar Hühne | **Category:** Wirtschaft
+
+## WHAT'S IN IT FOR YOU: UNDERSTAND THE PENSION JUNGLE AND FIND A WAY THROUGH IT.
 
 The big worry about demographic change is talked about everywhere. For many years, many politicians and experts agree that the old idea of a generation contract with a state pension will no longer work. If you trust the old way where young people pay pensions for the old, you may end up poor in old age. The solution seems easy: private pension plans are now necessary – at least for those who want a relaxed retirement and do not want to look for bottles in bins to get money. But is the state pension really finished? And does demographic change make private pensions essential? Or is the state pension just a victim of smart work by insurance companies, and with some reforms, could it still be the best way to keep the generation contract alive? In the following blinks, we explain how the decline of the state pension started and why demographic change is almost meaningless for the state pension. We explain, among other things,
 

@@ -5,7 +5,9 @@ date: "2026-04-23"
 published: true
 ---
 
-**Author:** Dirk Steffens | **Category:** Wissenschaft## WHAT'S IN IT FOR YOU: SCIENCE AGAINST THE END OF THE WORLD.
+**Author:** Dirk Steffens | **Category:** Wissenschaft
+
+## WHAT'S IN IT FOR YOU: SCIENCE AGAINST THE END OF THE WORLD.
 
 Today, if you look honestly at the world, you might think we are ruining our planet.
 

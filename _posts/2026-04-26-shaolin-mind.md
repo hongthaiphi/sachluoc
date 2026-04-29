@@ -7,7 +7,9 @@ categories:
   - Psychology
 ---
 
-**Author:** Shi Heng Yi | **Category:** Mindfulness & Happiness## WHAT'S IN IT FOR YOU: THE STORY OF MARTIAL ARTIST SHI HENG YI AND HIS BUDDHIST LIFE WISDOM.
+**Author:** Shi Heng Yi | **Category:** Mindfulness & Happiness
+
+## WHAT'S IN IT FOR YOU: THE STORY OF MARTIAL ARTIST SHI HENG YI AND HIS BUDDHIST LIFE WISDOM.
 
 Yes, it is true: most of us are very good at just getting by.
 

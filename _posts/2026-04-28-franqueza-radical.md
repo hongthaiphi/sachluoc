@@ -5,7 +5,9 @@ date: "2026-04-28"
 published: true
 ---
 
-**Author:** Kim Scott | **Category:** Communication Skills## WHAT WILL THIS TITLE GIVE ME? LEARN TO BECOME A RADICALLY HONEST COLLEAGUE.
+**Author:** Kim Scott | **Category:** Communication Skills
+
+## WHAT WILL THIS TITLE GIVE ME? LEARN TO BECOME A RADICALLY HONEST COLLEAGUE.
 
 "Hello, do you have a minute?
 
