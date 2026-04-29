@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Triangle of Power – Rebalancing the New World Order"
+title: "The Triangle of Power - Rebalancing the New World Order"
 date: "2026-04-09"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Influence Without Authority – Master the art of trading resources to command results"
+title: "Influence Without Authority - Master the art of trading resources to command results"
 date: "2026-02-12"
 published: true
 ---

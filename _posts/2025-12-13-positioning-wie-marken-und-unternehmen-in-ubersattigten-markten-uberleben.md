@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Positioning – Wie Marken und Unternehmen in übersättigten Märkten überleben"
+title: "Positioning - Wie Marken und Unternehmen in übersättigten Märkten überleben"
 date: "2025-12-13"
 published: true
 ---

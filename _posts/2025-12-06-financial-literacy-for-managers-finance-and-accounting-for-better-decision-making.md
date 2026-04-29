@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Financial Literacy for Managers – Finance and Accounting for Better Decision-Making"
+title: "Financial Literacy for Managers - Finance and Accounting for Better Decision-Making"
 date: "2025-12-06"
 published: true
 categories:

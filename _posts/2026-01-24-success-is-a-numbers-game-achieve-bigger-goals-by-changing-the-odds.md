@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Success Is a Numbers Game – Achieve Bigger Goals by Changing the Odds"
+title: "Success Is a Numbers Game - Achieve Bigger Goals by Changing the Odds"
 date: "2026-01-24"
 published: true
 ---

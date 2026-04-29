@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Principles of Human Knowledge – The foundations of immaterialism"
+title: "Principles of Human Knowledge - The foundations of immaterialism"
 date: "2026-02-10"
 published: true
 categories:

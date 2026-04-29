@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Art of Action – How to Close the Gaps between Plans, Actions, and Results"
+title: "The Art of Action - How to Close the Gaps between Plans, Actions, and Results"
 date: "2025-12-20"
 published: true
 ---

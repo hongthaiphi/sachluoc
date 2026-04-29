@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Future Forward – Leadership Lessons from Patrick McGovern"
+title: "Future Forward - Leadership Lessons from Patrick McGovern"
 date: "2026-02-22"
 published: true
 categories:

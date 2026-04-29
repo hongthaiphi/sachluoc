@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Irresistible Change – A Blueprint for Earning Buy-In and Breakout Success"
+title: "Irresistible Change - A Blueprint for Earning Buy-In and Breakout Success"
 date: "2026-01-11"
 published: true
 ---

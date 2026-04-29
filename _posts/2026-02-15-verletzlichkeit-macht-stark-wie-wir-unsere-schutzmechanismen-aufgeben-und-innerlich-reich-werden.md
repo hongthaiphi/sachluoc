@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Verletzlichkeit macht stark – Wie wir unsere Schutzmechanismen aufgeben und innerlich reich werden"
+title: "Verletzlichkeit macht stark - Wie wir unsere Schutzmechanismen aufgeben und innerlich reich werden"
 date: "2026-02-15"
 published: true
 categories:

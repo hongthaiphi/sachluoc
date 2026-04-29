@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Wertformel – Erfolg beim Investieren, in der Karriere und im Privaten"
+title: "Die Wertformel - Erfolg beim Investieren, in der Karriere und im Privaten"
 date: "2026-03-11"
 published: true
 ---

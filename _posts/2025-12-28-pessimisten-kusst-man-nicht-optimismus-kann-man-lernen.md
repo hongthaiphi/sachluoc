@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Pessimisten küsst man nicht – Optimismus kann man lernen"
+title: "Pessimisten küsst man nicht - Optimismus kann man lernen"
 date: "2025-12-28"
 published: true
 categories:

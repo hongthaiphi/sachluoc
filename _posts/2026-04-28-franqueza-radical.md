@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Franqueza radical"
+title: "Radical Frankness"
 date: "2026-04-28"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Hey Panik, komm mal wieder runter! – 21 Wege mit Panikattacken umzugehen - im Akutfall und langfristig"
+title: "Hey Panik, komm mal wieder runter! - 21 Wege mit Panikattacken umzugehen - im Akutfall und langfristig"
 date: "2025-12-11"
 published: true
 ---

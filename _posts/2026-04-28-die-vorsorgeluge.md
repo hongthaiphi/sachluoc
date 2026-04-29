@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Vorsorgelüge"
+title: "The Care Lie"
 date: "2026-04-28"
 published: true
 ---

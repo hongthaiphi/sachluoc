@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Jetzt! – Die Kraft der Gegenwart"
+title: "Jetzt! - Die Kraft der Gegenwart"
 date: "2026-02-21"
 published: true
 ---

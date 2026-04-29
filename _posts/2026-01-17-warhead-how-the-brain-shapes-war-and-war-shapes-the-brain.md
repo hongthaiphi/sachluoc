@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Warhead – How the Brain Shapes War and War Shapes the Brain"
+title: "Warhead - How the Brain Shapes War and War Shapes the Brain"
 date: "2026-01-17"
 published: true
 categories:

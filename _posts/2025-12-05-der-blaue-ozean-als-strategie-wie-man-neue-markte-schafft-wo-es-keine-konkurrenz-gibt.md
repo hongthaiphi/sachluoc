@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Blaue Ozean als Strategie – Wie man neue Märkte schafft, wo es keine Konkurrenz gibt"
+title: "Der Blaue Ozean als Strategie - Wie man neue Märkte schafft, wo es keine Konkurrenz gibt"
 date: "2025-12-05"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Hoffnungslos optimistisch"
+title: "Hopelessly Optimistic"
 date: "2026-04-23"
 published: true
 ---

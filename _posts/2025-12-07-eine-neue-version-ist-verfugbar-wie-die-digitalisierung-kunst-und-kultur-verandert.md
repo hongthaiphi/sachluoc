@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Eine neue Version ist verfügbar – Wie die Digitalisierung Kunst und Kultur verändert"
+title: "Eine neue Version ist verfügbar - Wie die Digitalisierung Kunst und Kultur verändert"
 date: "2025-12-07"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Exceptional Experiences – Five Luxury Levers to Elevate Every Aspect of Your Business"
+title: "Exceptional Experiences - Five Luxury Levers to Elevate Every Aspect of Your Business"
 date: "2026-01-08"
 published: true
 categories:

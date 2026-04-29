@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Awakening Joy – 10 Steps to True Happiness"
+title: "Awakening Joy - 10 Steps to True Happiness"
 date: "2026-02-05"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "A Conflict of Visions – Ideological Origins of Political Struggles"
+title: "A Conflict of Visions - Ideological Origins of Political Struggles"
 date: "2026-02-14"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Shared Wisdom – Cultural Evolution in the Age of AI"
+title: "Shared Wisdom - Cultural Evolution in the Age of AI"
 date: "2026-01-20"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Nightmare Obscura – A Dream Engineer’s Guide Through the Sleeping Mind"
+title: "Nightmare Obscura - A Dream Engineer’s Guide Through the Sleeping Mind"
 date: "2026-03-15"
 published: true
 categories:

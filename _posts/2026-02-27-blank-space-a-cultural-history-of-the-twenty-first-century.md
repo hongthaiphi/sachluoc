@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Blank Space – A Cultural History of the Twenty-First Century"
+title: "Blank Space - A Cultural History of the Twenty-First Century"
 date: "2026-02-27"
 published: true
 ---

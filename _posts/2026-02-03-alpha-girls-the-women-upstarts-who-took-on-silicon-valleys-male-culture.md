@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Alpha Girls – The Women Upstarts Who Took On Silicon Valley’s Male Culture"
+title: "Alpha Girls - The Women Upstarts Who Took On Silicon Valley’s Male Culture"
 date: "2026-02-03"
 published: true
 ---

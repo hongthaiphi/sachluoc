@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Macht der Gewohnheit – Warum wir tun, was wir tun"
+title: "Die Macht der Gewohnheit - Warum wir tun, was wir tun"
 date: "2026-03-19"
 published: true
 ---

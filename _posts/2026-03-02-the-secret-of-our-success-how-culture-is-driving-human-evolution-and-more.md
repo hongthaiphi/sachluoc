@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Secret of Our Success – How Culture Is Driving Human Evolution and More"
+title: "The Secret of Our Success - How Culture Is Driving Human Evolution and More"
 date: "2026-03-02"
 published: true
 ---

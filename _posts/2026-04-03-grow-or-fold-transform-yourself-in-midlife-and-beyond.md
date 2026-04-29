@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Grow Or Fold – Transform Yourself in Midlife and Beyond"
+title: "Grow Or Fold - Transform Yourself in Midlife and Beyond"
 date: "2026-04-03"
 published: true
 ---

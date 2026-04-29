@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The View from Ninety – Reflections on Living a Long, Contented Life"
+title: "The View from Ninety - Reflections on Living a Long, Contented Life"
 date: "2026-01-30"
 published: true
 ---

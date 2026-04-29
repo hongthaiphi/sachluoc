@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Read Your Mind – Proven Habits for Success from the World’s Greatest Mentalist"
+title: "Read Your Mind - Proven Habits for Success from the World’s Greatest Mentalist"
 date: "2025-12-31"
 published: true
 categories:

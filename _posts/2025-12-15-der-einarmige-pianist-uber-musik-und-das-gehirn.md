@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der einarmige Pianist – Über Musik und das Gehirn"
+title: "The One-Armed Pianist - On Music and the Brain"
 date: "2025-12-15"
 published: true
 categories:

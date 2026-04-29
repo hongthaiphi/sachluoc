@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Watchman's Rattle – Thinking Our Way Out of Extinction"
+title: "The Watchman's Rattle - Thinking Our Way Out of Extinction"
 date: "2026-02-13"
 published: true
 categories:

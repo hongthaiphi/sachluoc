@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Inside – Gewinnen - Verlieren - Neu beginnen"
+title: "Inside - Gewinnen - Verlieren - Neu beginnen"
 date: "2026-01-03"
 published: true
 ---

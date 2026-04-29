@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Prompt Engineering for Generative AI – Future-Proof Inputs for Reliable AI Outputs"
+title: "Prompt Engineering for Generative AI - Future-Proof Inputs for Reliable AI Outputs"
 date: "2026-04-06"
 published: true
 categories:

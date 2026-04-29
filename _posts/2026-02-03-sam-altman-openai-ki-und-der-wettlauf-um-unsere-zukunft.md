@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Sam Altman – OpenAI, KI und der Wettlauf um unsere Zukunft"
+title: "Sam Altman - OpenAI, KI und der Wettlauf um unsere Zukunft"
 date: "2026-02-03"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Intentional – How to Finish What You Start"
+title: "Intentional - How to Finish What You Start"
 date: "2026-03-06"
 published: true
 ---

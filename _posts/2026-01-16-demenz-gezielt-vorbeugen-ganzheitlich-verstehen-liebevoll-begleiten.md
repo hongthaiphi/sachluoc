@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Demenz – Gezielt vorbeugen, ganzheitlich verstehen, liebevoll begleiten"
+title: "Demenz - Gezielt vorbeugen, ganzheitlich verstehen, liebevoll begleiten"
 date: "2026-01-16"
 published: true
 ---

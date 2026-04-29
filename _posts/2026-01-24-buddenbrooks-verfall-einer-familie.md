@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Buddenbrooks – Verfall einer Familie"
+title: "Buddenbrooks - Decline of a Family"
 date: "2026-01-24"
 published: true
 ---

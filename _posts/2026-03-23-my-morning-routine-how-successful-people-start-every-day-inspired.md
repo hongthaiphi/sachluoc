@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My Morning Routine – How Successful People Start Every Day Inspired"
+title: "My Morning Routine - How Successful People Start Every Day Inspired"
 date: "2026-03-23"
 published: true
 ---

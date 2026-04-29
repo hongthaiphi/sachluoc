@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Über die Kunst, Geld bewusst einzusetzen – Einfache Entscheidungen für ein reicheres Leben"
+title: "Über die Kunst, Geld bewusst einzusetzen - Einfache Entscheidungen für ein reicheres Leben"
 date: "2026-03-03"
 published: true
 categories:

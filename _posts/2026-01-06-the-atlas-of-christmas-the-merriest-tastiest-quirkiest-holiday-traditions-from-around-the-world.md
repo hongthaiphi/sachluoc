@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Atlas of Christmas – The Merriest, Tastiest, Quirkiest Holiday Traditions from Around the World"
+title: "The Atlas of Christmas - The Merriest, Tastiest, Quirkiest Holiday Traditions from Around the World"
 date: "2026-01-06"
 published: true
 categories:

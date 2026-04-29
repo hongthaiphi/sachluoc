@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Eine Hymne an das Leben"
+title: "A Hymn to Life"
 date: "2026-04-24"
 published: true
 ---

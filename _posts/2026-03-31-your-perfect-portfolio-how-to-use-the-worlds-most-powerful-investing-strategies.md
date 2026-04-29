@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Your Perfect Portfolio – How to use the world’s most powerful investing strategies"
+title: "Your Perfect Portfolio - How to use the world’s most powerful investing strategies"
 date: "2026-03-31"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Weightless – A Doctor's Guide to GLP-1 Medications, Sustainable Weight Loss, and the Health You Deserve"
+title: "Weightless - A Doctor's Guide to GLP-1 Medications, Sustainable Weight Loss, and the Health You Deserve"
 date: "2026-03-14"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Vertrauen – Die Währung von morgen"
+title: "Trust - The Currency of Tomorrow"
 date: "2026-02-02"
 published: true
 ---

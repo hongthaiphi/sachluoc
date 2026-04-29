@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der reichste Mann von Babylon – Erfolgsgeheimnisse der Antike. Der erste Schritt in die finanzielle Freiheit"
+title: "Der reichste Mann von Babylon - Erfolgsgeheimnisse der Antike. Der erste Schritt in die finanzielle Freiheit"
 date: "2026-01-10"
 published: true
 categories:

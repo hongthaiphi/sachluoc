@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "If the Universe Is Teeming with Aliens ... Where Is Everybody? – 75 Solutions to the Fermi Paradox and Extraterrestrial Life"
+title: "If the Universe Is Teeming with Aliens ... Where Is Everybody? - 75 Solutions to the Fermi Paradox and Extraterrestrial Life"
 date: "2026-01-23"
 published: true
 ---

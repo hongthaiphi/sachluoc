@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Doing Meritocracy Right – How Business Leaders Can Turn an American Aspiration Into Reality"
+title: "Doing Meritocracy Right - How Business Leaders Can Turn an American Aspiration Into Reality"
 date: "2026-01-27"
 published: true
 categories:

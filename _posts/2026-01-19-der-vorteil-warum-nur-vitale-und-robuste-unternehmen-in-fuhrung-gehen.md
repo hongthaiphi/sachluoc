@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Vorteil – Warum nur vitale und robuste Unternehmen in Führung gehen"
+title: "Der Vorteil - Warum nur vitale und robuste Unternehmen in Führung gehen"
 date: "2026-01-19"
 published: true
 categories:

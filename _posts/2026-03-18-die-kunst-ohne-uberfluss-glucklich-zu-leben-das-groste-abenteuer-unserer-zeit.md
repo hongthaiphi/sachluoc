@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Kunst, ohne Überfluss glücklich zu leben – Das größte Abenteuer unserer Zeit"
+title: "Die Kunst, ohne Überfluss glücklich zu leben - Das größte Abenteuer unserer Zeit"
 date: "2026-03-18"
 published: true
 ---

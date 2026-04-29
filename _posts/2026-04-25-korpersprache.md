@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Körpersprache"
+title: "Body Language"
 date: "2026-04-25"
 published: true
 ---

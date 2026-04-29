@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kleine Weltgeschichte der Philosophie – Ein Überblick von den Anfängen bis in die Gegenwart"
+title: "Kleine Weltgeschichte der Philosophie - Ein Überblick von den Anfängen bis in die Gegenwart"
 date: "2026-02-13"
 published: true
 categories:

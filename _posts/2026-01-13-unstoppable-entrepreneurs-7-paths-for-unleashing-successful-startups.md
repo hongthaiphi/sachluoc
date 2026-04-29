@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Unstoppable Entrepreneurs – 7 Paths for Unleashing Successful Startups"
+title: "Unstoppable Entrepreneurs - 7 Paths for Unleashing Successful Startups"
 date: "2026-01-13"
 published: true
 categories:

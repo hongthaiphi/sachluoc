@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Kunst des Krieges – Eine jahrtausendealte chinesische Abhandlung über Taktik"
+title: "Die Kunst des Krieges - Eine jahrtausendealte chinesische Abhandlung über Taktik"
 date: "2025-12-29"
 published: true
 ---

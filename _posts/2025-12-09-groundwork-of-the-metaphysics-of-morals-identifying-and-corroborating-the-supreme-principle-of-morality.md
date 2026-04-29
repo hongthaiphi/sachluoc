@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Groundwork of the Metaphysics of Morals – Identifying and corroborating the supreme principle of morality"
+title: "Groundwork of the Metaphysics of Morals - Identifying and corroborating the supreme principle of morality"
 date: "2025-12-09"
 published: true
 ---

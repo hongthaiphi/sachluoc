@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "30 Dinge, die du mit 30 nicht erreicht haben musst – Das Buch übers Erwachsenwerden"
+title: "30 Dinge, die du mit 30 nicht erreicht haben musst - Das Buch übers Erwachsenwerden"
 date: "2026-01-23"
 published: true
 categories:

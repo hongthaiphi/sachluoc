@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Welt ohne uns – Reise über eine unbevölkerte Erde"
+title: "Die Welt ohne uns - Reise über eine unbevölkerte Erde"
 date: "2026-01-31"
 published: true
 ---

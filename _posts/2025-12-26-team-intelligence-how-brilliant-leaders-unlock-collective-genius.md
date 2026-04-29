@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Team Intelligence – How Brilliant Leaders Unlock Collective Genius"
+title: "Team Intelligence - How Brilliant Leaders Unlock Collective Genius"
 date: "2025-12-26"
 published: true
 categories:

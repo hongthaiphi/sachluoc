@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Enshittification – Why Everything Suddenly Got Worse and What to Do About It"
+title: "Enshittification - Why Everything Suddenly Got Worse and What to Do About It"
 date: "2025-12-10"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Trust Matters More Than Ever – Proven Tools to Lead Better, Grow Faster &amp; Build Trust"
+title: "Trust Matters More Than Ever - Proven Tools to Lead Better, Grow Faster &amp; Build Trust"
 date: "2025-12-08"
 published: true
 ---

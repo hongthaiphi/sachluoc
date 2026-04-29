@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Strong Ground – Lessons in Daring Leadership"
+title: "Strong Ground - Lessons in Daring Leadership"
 date: "2025-12-07"
 published: true
 categories:

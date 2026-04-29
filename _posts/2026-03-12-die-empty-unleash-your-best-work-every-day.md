@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Empty – Unleash Your Best Work Every Day"
+title: "Die Empty - Unleash Your Best Work Every Day"
 date: "2026-03-12"
 published: true
 ---

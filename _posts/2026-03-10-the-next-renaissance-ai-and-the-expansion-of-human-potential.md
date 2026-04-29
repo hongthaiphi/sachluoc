@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Next Renaissance – AI and the Expansion of Human Potential"
+title: "The Next Renaissance - AI and the Expansion of Human Potential"
 date: "2026-03-10"
 published: true
 categories:

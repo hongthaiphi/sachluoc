@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Schnelles Denken, langsames Denken – Die Fehleranfälligkeit unseres Gehirns und wie wir richtige Entscheidungen fällen"
+title: "Schnelles Denken, langsames Denken - Die Fehleranfälligkeit unseres Gehirns und wie wir richtige Entscheidungen fällen"
 date: "2026-02-23"
 published: true
 categories:

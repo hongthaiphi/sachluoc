@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Machtgebiete – Was Managerinnen erleben und wie sie gegenhalten"
+title: "Machtgebiete - Was Managerinnen erleben und wie sie gegenhalten"
 date: "2025-12-17"
 published: true
 categories:

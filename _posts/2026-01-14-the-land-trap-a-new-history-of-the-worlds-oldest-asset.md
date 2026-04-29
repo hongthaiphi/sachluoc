@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Land Trap – A New History of the World's Oldest Asset"
+title: "The Land Trap - A New History of the World's Oldest Asset"
 date: "2026-01-14"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Start Finishing – How to Go from Idea to Done"
+title: "Start Finishing - How to Go from Idea to Done"
 date: "2026-03-11"
 published: true
 ---

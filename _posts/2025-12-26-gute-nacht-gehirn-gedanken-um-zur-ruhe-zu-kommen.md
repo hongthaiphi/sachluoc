@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Gute Nacht, Gehirn – Gedanken, um zur Ruhe zu kommen"
+title: "Gute Nacht, Gehirn - Gedanken, um zur Ruhe zu kommen"
 date: "2025-12-26"
 published: true
 categories:

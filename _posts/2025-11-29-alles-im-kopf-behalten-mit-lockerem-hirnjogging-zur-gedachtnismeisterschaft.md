@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Alles im Kopf behalten – Mit lockerem Hirnjogging zur Gedächtnismeisterschaft"
+title: "Keep Everything in Mind - Easy Brain Training to Memory Championship"
 date: "2025-11-29"
 published: true
 ---

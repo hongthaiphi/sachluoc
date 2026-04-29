@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Break The Bottle – Shatter Your Limits and Master Your Mindset"
+title: "Break The Bottle - Shatter Your Limits and Master Your Mindset"
 date: "2025-11-29"
 published: true
 categories:

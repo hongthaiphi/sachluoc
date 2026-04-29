@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Five Dysfunctions of a Team – A Leadership Fable"
+title: "The Five Dysfunctions of a Team - A Leadership Fable"
 date: "2026-03-30"
 published: true
 categories:

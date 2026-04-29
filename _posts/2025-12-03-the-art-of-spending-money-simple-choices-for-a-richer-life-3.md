@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Art of Spending Money – Simple Choices for a Richer Life"
+title: "The Art of Spending Money - Simple Choices for a Richer Life"
 date: "2025-12-03"
 published: true
 categories:

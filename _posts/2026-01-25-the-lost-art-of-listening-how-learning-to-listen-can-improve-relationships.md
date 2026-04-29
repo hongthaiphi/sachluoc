@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Lost Art of Listening – How Learning to Listen Can Improve Relationships"
+title: "The Lost Art of Listening - How Learning to Listen Can Improve Relationships"
 date: "2026-01-25"
 published: true
 categories:

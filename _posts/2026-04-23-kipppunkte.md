@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kipppunkte"
+title: "Tipping Points"
 date: "2026-04-23"
 published: true
 categories:

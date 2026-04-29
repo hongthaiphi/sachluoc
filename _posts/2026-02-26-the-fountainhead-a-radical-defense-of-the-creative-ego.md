@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Fountainhead – A radical defense of the creative ego"
+title: "The Fountainhead - A radical defense of the creative ego"
 date: "2026-02-26"
 published: true
 categories:

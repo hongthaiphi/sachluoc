@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "All In Startup – Launching a New Idea When Everything Is on the Line"
+title: "All In Startup - Launching a New Idea When Everything Is on the Line"
 date: "2026-03-16"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Simplicity – Die zehn Gesetze der Einfachheit"
+title: "Simplicity - The Ten Laws of Simplicity"
 date: "2025-12-08"
 published: true
 ---

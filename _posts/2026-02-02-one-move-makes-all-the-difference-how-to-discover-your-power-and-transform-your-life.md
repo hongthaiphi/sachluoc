@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "One Move Makes All the Difference – How to Discover Your Power and Transform Your Life"
+title: "One Move Makes All the Difference - How to Discover Your Power and Transform Your Life"
 date: "2026-02-02"
 published: true
 ---

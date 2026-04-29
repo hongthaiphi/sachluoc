@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Evil Robots, Killer Computers, and Other Myths – The Truth About AI and the Future of Humanity"
+title: "Evil Robots, Killer Computers, and Other Myths - The Truth About AI and the Future of Humanity"
 date: "2026-03-27"
 published: true
 categories:

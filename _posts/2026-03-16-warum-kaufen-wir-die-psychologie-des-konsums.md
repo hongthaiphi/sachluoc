@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Warum kaufen wir – Die Psychologie des Konsums"
+title: "Why We Buy - The Psychology of Consumption"
 date: "2026-03-16"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Von der Schönheit der deutschen Sprache – Eine Wiederentdeckung"
+title: "Von der Schönheit der deutschen Sprache - Eine Wiederentdeckung"
 date: "2026-01-28"
 published: true
 ---

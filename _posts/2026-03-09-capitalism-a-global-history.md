@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Capitalism – A Global History"
+title: "Capitalism - A Global History"
 date: "2026-03-09"
 published: true
 ---

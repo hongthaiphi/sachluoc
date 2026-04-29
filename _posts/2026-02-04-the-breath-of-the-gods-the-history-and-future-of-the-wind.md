@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Breath of the Gods – The History and Future of the Wind"
+title: "The Breath of the Gods - The History and Future of the Wind"
 date: "2026-02-04"
 published: true
 ---

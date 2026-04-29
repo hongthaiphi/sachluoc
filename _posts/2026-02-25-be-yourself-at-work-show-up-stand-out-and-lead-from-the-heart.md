@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Be Yourself at Work – Show Up, Stand Out, and Lead from the Heart"
+title: "Be Yourself at Work - Show Up, Stand Out, and Lead from the Heart"
 date: "2026-02-25"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Extreme Ownership - mit Verantwortung führen – Was Führungskräfte von den Navy Seals lernen können"
+title: "Extreme Ownership - mit Verantwortung führen - Was Führungskräfte von den Navy Seals lernen können"
 date: "2026-03-12"
 published: true
 categories:

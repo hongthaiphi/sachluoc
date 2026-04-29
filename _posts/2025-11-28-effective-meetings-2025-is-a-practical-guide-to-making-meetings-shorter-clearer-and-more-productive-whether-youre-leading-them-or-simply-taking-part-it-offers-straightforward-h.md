@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Effective Meetings – Great Results. Less Pain. Every Time."
+title: "Effective Meetings - Great Results. Less Pain. Every Time."
 date: "2025-11-28"
 published: true
 categories:

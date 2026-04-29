@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Umgang mit schwierigen Mitarbeitern  – Wirksam führen, Konflikte lösen und rechtliche Fehler vermeiden"
+title: "Umgang mit schwierigen Mitarbeitern  - Wirksam führen, Konflikte lösen und rechtliche Fehler vermeiden"
 date: "2026-01-06"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Erfahrung beschleunigen! – Erfolgsprinzipien in einer fluiden Welt"
+title: "Erfahrung beschleunigen! - Erfolgsprinzipien in einer fluiden Welt"
 date: "2026-01-02"
 published: true
 ---

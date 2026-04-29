@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Überwintern – Wenn das Leben innehält"
+title: "Overwintering - When Life Pauses"
 date: "2026-02-05"
 published: true
 ---

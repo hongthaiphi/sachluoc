@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Chancen unserer Kinder – Warum Charakter wichtiger ist als Intelligenz"
+title: "Die Chancen unserer Kinder - Warum Charakter wichtiger ist als Intelligenz"
 date: "2026-01-12"
 published: true
 categories:

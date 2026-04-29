@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Müdigkeitsgesellschaft"
+title: "Fatigue Society"
 date: "2026-04-27"
 published: true
 ---

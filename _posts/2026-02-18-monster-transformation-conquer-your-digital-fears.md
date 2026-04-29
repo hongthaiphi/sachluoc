@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Monster Transformation – Conquer Your Digital Fears"
+title: "Monster Transformation - Conquer Your Digital Fears"
 date: "2026-02-18"
 published: true
 categories:

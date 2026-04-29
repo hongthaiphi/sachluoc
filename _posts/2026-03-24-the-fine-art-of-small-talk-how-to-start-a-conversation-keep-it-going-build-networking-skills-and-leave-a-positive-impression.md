@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Fine Art Of Small Talk – How To Start a Conversation, Keep It Going, Build Networking Skills – and Leave a Positive Impression!"
+title: "The Fine Art Of Small Talk - How To Start a Conversation, Keep It Going, Build Networking Skills - and Leave a Positive Impression!"
 date: "2026-03-24"
 published: true
 categories:

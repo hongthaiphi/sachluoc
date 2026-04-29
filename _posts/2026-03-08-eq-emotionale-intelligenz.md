@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "EQ – Emotionale Intelligenz"
+title: "EQ - Emotional Intelligence"
 date: "2026-03-08"
 published: true
 categories:
