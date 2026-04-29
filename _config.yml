@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 baseurl: /sachluoc
 url: https://hongthaiphi.github.io
+permalink: /:title/
+future: true
