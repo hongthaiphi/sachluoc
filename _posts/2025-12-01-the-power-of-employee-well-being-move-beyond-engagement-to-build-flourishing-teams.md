@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Power of Employee Well-Being – Move Beyond Engagement to Build Flourishing Teams"
+layout: post
+title: The Power of Employee Well-Being – Move Beyond Engagement to Build Flourishing Teams
 date: 2025-12-01
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Mark C. Crowley***

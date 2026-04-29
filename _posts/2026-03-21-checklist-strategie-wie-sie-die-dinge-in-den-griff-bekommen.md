@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Checklist-Strategie – Wie Sie die Dinge in den Griff bekommen"
+layout: post
+title: Checklist-Strategie – Wie Sie die Dinge in den Griff bekommen
 date: 2026-03-21
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Chào mừng đến với Sách Lược"
+layout: post
+title: Chào mừng đến với Sách Lược
 date: 2026-04-29
 published: true
 ---

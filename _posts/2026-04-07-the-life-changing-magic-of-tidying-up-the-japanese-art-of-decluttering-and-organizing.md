@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Life-Changing Magic of Tidying Up – The Japanese Art of Decluttering and Organizing"
+layout: post
+title: The Life-Changing Magic of Tidying Up – The Japanese Art of Decluttering and Organizing
 date: 2026-04-07
 published: true
 ---

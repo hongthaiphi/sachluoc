@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Medici – Godfathers of the Renaissance"
+layout: post
+title: The Medici – Godfathers of the Renaissance
 date: 2026-02-17
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Paul Strathern***

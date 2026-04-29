@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "AI-Powered Leadership"
+layout: post
+title: AI-Powered Leadership
 date: 2026-04-28
 published: true
+categories:
+  - Leadership
+  - Technology
 ---
 
 **Author:** Dave Silberman | **Category:** Technology & the Future## WHAT’S IN IT FOR ME? DISCOVER HOW TO GAIN SUSTAINABLE ADVANTAGE IN THE NEW AI MARKETPLACE.

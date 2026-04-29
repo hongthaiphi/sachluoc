@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "What Is Intelligence? – Lessons from AI About Evolution, Computing, and Minds"
+layout: post
+title: What Is Intelligence? – Lessons from AI About Evolution, Computing, and Minds
 date: 2025-12-30
 published: true
+categories:
+  - Psychology
+  - Technology
 ---
 
 *Author: **Blaise Aguera y Arcas***

@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "The Developing Mind – How Relationships and the Brain Interact to Shape Who We Are"
+layout: post
+title: The Developing Mind – How Relationships and the Brain Interact to Shape Who We Are
 date: 2026-02-01
 published: true
+categories:
+  - Psychology
+  - Technology
 ---
 
 *Author: **Daniel J. Siegel***

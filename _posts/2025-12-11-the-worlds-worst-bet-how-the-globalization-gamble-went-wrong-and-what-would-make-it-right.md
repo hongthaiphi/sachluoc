@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The World's Worst Bet – How the Globalization Gamble Went Wrong (and What Would Make It Right)"
+layout: post
+title: The World's Worst Bet – How the Globalization Gamble Went Wrong (and What Would Make It Right)
 date: 2025-12-11
 published: true
 ---

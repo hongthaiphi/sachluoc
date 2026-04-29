@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Unstoppable Entrepreneurs – 7 Paths for Unleashing Successful Startups"
+layout: post
+title: Unstoppable Entrepreneurs – 7 Paths for Unleashing Successful Startups
 date: 2026-01-13
 published: true
+categories:
+  - Business
 ---
 
 *Author: **Lori Rosenkopf***

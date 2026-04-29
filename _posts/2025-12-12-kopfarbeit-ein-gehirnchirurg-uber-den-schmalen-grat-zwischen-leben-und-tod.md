@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Kopfarbeit – Ein Gehirnchirurg über den schmalen Grat zwischen Leben und Tod"
+layout: post
+title: Kopfarbeit – Ein Gehirnchirurg über den schmalen Grat zwischen Leben und Tod
 date: 2025-12-12
 published: true
+categories:
+  - Psychology
 ---
 
 *Author: **Peter Vajkoczy***

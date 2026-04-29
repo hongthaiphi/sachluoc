@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Extreme Ownership - mit Verantwortung führen – Was Führungskräfte von den Navy Seals lernen können"
+layout: post
+title: Extreme Ownership - mit Verantwortung führen – Was Führungskräfte von den Navy Seals lernen können
 date: 2026-03-12
 published: true
+categories:
+  - Leadership
+  - Learning
 ---
 
 *Author: **Jocko Willink***

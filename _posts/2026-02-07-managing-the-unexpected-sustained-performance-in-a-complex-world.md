@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Managing the Unexpected – Sustained Performance in a Complex World"
+layout: post
+title: Managing the Unexpected – Sustained Performance in a Complex World
 date: 2026-02-07
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Karl E. Weick***

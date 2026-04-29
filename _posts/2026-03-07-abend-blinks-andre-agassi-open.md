@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Abend Blinks: Andre Agassi – Open"
+layout: post
+title: Abend Blinks: Andre Agassi – Open
 date: 2026-03-07
 published: true
 ---

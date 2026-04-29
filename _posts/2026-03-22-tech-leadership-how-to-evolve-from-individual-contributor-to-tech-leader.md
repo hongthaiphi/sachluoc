@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Tech Leadership – How to Evolve from Individual Contributor to Tech Leader"
+layout: post
+title: Tech Leadership – How to Evolve from Individual Contributor to Tech Leader
 date: 2026-03-22
 published: true
+categories:
+  - Leadership
+  - Technology
 ---
 
 *Author: **Andrew Swerdlow***

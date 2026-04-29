@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Super Nintendo"
+layout: post
+title: Super Nintendo
 date: 2026-04-23
 published: true
 ---

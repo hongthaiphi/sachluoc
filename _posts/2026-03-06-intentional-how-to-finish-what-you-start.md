@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Intentional – How to Finish What You Start"
+layout: post
+title: Intentional – How to Finish What You Start
 date: 2026-03-06
 published: true
 ---

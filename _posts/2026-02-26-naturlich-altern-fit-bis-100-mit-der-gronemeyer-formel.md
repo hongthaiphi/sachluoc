@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Natürlich altern! – Fit bis 100 mit der Grönemeyer-Formel"
+layout: post
+title: Natürlich altern! – Fit bis 100 mit der Grönemeyer-Formel
 date: 2026-02-26
 published: true
+categories:
+  - Health
 ---
 
 *Author: **Dietrich Grönemeyer***

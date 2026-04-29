@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Einkommen für alle – Das Warum und Wie eines bedingungslosen Grundeinkommens"
+layout: post
+title: Einkommen für alle – Das Warum und Wie eines bedingungslosen Grundeinkommens
 date: 2026-03-22
 published: true
 ---

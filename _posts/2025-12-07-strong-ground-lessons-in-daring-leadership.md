@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Strong Ground – Lessons in Daring Leadership"
+layout: post
+title: Strong Ground – Lessons in Daring Leadership
 date: 2025-12-07
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Brené Brown***

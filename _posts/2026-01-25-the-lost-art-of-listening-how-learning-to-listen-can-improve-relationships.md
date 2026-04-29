@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Lost Art of Listening – How Learning to Listen Can Improve Relationships"
+layout: post
+title: The Lost Art of Listening – How Learning to Listen Can Improve Relationships
 date: 2026-01-25
 published: true
+categories:
+  - Learning
 ---
 
 *Author: **Michael P. Nichols***

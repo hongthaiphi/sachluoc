@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "How to Talk to Anyone – 92 Little Tricks for Big Success in Relationships"
+layout: post
+title: How to Talk to Anyone – 92 Little Tricks for Big Success in Relationships
 date: 2026-04-02
 published: true
 ---

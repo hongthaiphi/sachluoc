@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "El engaño de Ícaro"
+layout: post
+title: El engaño de Ícaro
 date: 2026-04-23
 published: true
 ---

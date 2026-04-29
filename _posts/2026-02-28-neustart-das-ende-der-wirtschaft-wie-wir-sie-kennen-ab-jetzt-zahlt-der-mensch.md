@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Neustart – Das Ende der Wirtschaft, wie wir sie kennen. Ab jetzt zählt der Mensch!"
+layout: post
+title: Neustart – Das Ende der Wirtschaft, wie wir sie kennen. Ab jetzt zählt der Mensch!
 date: 2026-02-28
 published: true
 ---

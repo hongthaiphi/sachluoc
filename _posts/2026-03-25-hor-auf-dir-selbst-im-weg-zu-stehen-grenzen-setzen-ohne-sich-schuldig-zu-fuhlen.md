@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Hör auf, dir selbst im Weg zu stehen – Grenzen setzen, ohne sich schuldig zu fühlen"
+layout: post
+title: Hör auf, dir selbst im Weg zu stehen – Grenzen setzen, ohne sich schuldig zu fühlen
 date: 2026-03-25
 published: true
 ---

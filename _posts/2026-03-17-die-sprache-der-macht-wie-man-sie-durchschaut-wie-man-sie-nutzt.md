@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Die Sprache der Macht – Wie man sie durchschaut. Wie man sie nutzt."
+layout: post
+title: Die Sprache der Macht – Wie man sie durchschaut. Wie man sie nutzt.
 date: 2026-03-17
 published: true
 ---

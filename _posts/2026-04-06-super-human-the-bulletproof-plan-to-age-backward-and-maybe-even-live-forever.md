@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Super Human – The Bulletproof Plan to Age Backward and Maybe Even Live Forever"
+layout: post
+title: Super Human – The Bulletproof Plan to Age Backward and Maybe Even Live Forever
 date: 2026-04-06
 published: true
 ---

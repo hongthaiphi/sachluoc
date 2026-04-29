@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Enemies and Neighbors – Arabs and Jews in Palestine and Israel, 1917-2017"
+layout: post
+title: Enemies and Neighbors – Arabs and Jews in Palestine and Israel, 1917-2017
 date: 2025-12-17
 published: true
 ---

@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Startup! – Die Wissensquelle für deine erfolgreiche Gründung"
+layout: post
+title: Startup! – Die Wissensquelle für deine erfolgreiche Gründung
 date: 2026-02-25
 published: true
+categories:
+  - Business
+  - Finance
 ---
 
 *Author: **Andreas Bruckschloegl***

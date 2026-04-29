@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Argumentieren unter Stress – Wie man unfaire Angriffe erfolgreich abwehrt"
+layout: post
+title: Argumentieren unter Stress – Wie man unfaire Angriffe erfolgreich abwehrt
 date: 2026-03-20
 published: true
+categories:
+  - Technology
+  - Finance
 ---
 
 *Author: **Albert Thiele***

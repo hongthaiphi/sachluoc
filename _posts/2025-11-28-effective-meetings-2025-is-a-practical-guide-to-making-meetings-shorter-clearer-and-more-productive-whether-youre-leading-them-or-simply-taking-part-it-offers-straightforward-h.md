@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Effective Meetings – Great Results. Less Pain. Every Time."
+layout: post
+title: Effective Meetings – Great Results. Less Pain. Every Time.
 date: 2025-11-28
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Chris Fenning***

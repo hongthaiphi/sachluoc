@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Rich Dad, Poor Dad – Was die Reichen ihren Kindern über Geld beibringen"
+layout: post
+title: Rich Dad, Poor Dad – Was die Reichen ihren Kindern über Geld beibringen
 date: 2026-01-17
 published: true
+categories:
+  - Technology
+  - Finance
 ---
 
 *Author: **Robert T. Kiyosaki***

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Buddenbrooks – Verfall einer Familie"
+layout: post
+title: Buddenbrooks – Verfall einer Familie
 date: 2026-01-24
 published: true
 ---

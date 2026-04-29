@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "52 Weeks of Wellbeing – A No-Nonsense Guide to a Fulfilling Work Life"
+layout: post
+title: 52 Weeks of Wellbeing – A No-Nonsense Guide to a Fulfilling Work Life
 date: 2026-02-06
 published: true
 ---

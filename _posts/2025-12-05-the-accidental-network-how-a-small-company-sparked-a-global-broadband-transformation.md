@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Accidental Network – How a Small Company Sparked a Global Broadband Transformation"
+layout: post
+title: The Accidental Network – How a Small Company Sparked a Global Broadband Transformation
 date: 2025-12-05
 published: true
+categories:
+  - Business
 ---
 
 *Author: **Rouzbeh Yassini-Fard & Stewart Schley***

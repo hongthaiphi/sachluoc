@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Überzeugen wie Steve Jobs – Das Erfolgsgeheimnis seiner Präsentationen"
+layout: post
+title: Überzeugen wie Steve Jobs – Das Erfolgsgeheimnis seiner Präsentationen
 date: 2026-03-05
 published: true
 ---

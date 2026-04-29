@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The History of Money – A Story of Humanity"
+layout: post
+title: The History of Money – A Story of Humanity
 date: 2026-01-16
 published: true
+categories:
+  - Finance
 ---
 
 *Author: **David McWilliams***

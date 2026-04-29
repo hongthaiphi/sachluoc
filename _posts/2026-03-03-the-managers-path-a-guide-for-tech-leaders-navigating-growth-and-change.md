@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "The Manager's Path – A Guide for Tech Leaders Navigating Growth and Change"
+layout: post
+title: The Manager's Path – A Guide for Tech Leaders Navigating Growth and Change
 date: 2026-03-03
 published: true
+categories:
+  - Leadership
+  - Technology
 ---
 
 *Author: **Camille Fournier***

@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Kipppunkte"
+layout: post
+title: Kipppunkte
 date: 2026-04-23
 published: true
+categories:
+  - Technology
 ---
 
 **Author:** Georg Diez | **Category:** Geschichte## WHAT'S IN IT FOR YOU: A LOOK BACK AT THE 1990S – THEIR MISTAKES, FAILURES, AND MISSED OPPORTUNITIES.

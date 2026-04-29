@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Whole Earth Discipline – An Ecopragmatist Manifesto"
+layout: post
+title: Whole Earth Discipline – An Ecopragmatist Manifesto
 date: 2026-02-15
 published: true
 ---

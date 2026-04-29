@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Fax Club Experiment – A crazy idea. It shouldn't have worked. But it did."
+layout: post
+title: The Fax Club Experiment – A crazy idea. It shouldn't have worked. But it did.
 date: 2025-12-13
 published: true
 ---

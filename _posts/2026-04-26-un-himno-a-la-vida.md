@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Un himno a la vida"
+layout: post
+title: Un himno a la vida
 date: 2026-04-26
 published: true
 ---

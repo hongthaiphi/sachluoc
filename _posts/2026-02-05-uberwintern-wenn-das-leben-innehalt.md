@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Überwintern – Wenn das Leben innehält"
+layout: post
+title: Überwintern – Wenn das Leben innehält
 date: 2026-02-05
 published: true
 ---

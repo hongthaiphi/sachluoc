@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Por qué amamos"
+layout: post
+title: Por qué amamos
 date: 2026-04-23
 published: true
 ---

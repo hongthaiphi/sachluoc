@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Hoffnungslos optimistisch"
+layout: post
+title: Hoffnungslos optimistisch
 date: 2026-04-23
 published: true
 ---

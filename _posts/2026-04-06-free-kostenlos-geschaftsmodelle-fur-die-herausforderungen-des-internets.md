@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Free – Kostenlos – Geschäftsmodelle für die Herausforderungen des Internets"
+layout: post
+title: Free – Kostenlos – Geschäftsmodelle für die Herausforderungen des Internets
 date: 2026-04-06
 published: true
 ---

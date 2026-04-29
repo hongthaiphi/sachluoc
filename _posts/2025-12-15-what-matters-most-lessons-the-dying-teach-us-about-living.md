@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "What Matters Most – Lessons the Dying Teach Us About Living"
+layout: post
+title: What Matters Most – Lessons the Dying Teach Us About Living
 date: 2025-12-15
 published: true
 ---

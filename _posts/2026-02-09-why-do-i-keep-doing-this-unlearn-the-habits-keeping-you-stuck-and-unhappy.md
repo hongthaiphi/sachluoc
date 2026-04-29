@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Why Do I Keep Doing This? – Unlearn the Habits Keeping You Stuck and Unhappy"
+layout: post
+title: Why Do I Keep Doing This? – Unlearn the Habits Keeping You Stuck and Unhappy
 date: 2026-02-09
 published: true
 ---

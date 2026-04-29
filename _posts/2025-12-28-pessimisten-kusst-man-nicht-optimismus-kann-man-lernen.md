@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Pessimisten küsst man nicht – Optimismus kann man lernen"
+layout: post
+title: Pessimisten küsst man nicht – Optimismus kann man lernen
 date: 2025-12-28
 published: true
+categories:
+  - Learning
 ---
 
 *Author: **Martin E.P. Seligman***

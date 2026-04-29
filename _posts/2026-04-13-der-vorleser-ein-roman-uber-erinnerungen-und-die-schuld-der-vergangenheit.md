@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Der Vorleser – Ein Roman über Erinnerungen und die Schuld der Vergangenheit"
+layout: post
+title: Der Vorleser – Ein Roman über Erinnerungen und die Schuld der Vergangenheit
 date: 2026-04-13
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Mission Driven – *The Path to a Life of Purpose*"
+layout: post
+title: Mission Driven – *The Path to a Life of Purpose*
 date: 2025-11-20
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Change Your Game"
+layout: post
+title: Change Your Game
 date: 2026-04-21
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Laws of Thought"
+layout: post
+title: The Laws of Thought
 date: 2026-04-26
 published: true
 ---

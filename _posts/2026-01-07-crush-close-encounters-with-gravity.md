@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Crush – Close Encounters with Gravity"
+layout: post
+title: Crush – Close Encounters with Gravity
 date: 2026-01-07
 published: true
 ---

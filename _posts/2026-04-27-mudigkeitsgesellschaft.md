@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Müdigkeitsgesellschaft"
+layout: post
+title: Müdigkeitsgesellschaft
 date: 2026-04-27
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Entscheidung: Umfeld – Wie du ein starkes Umfeld aufbaust, das dich gewinnen sehen will"
+layout: post
+title: Entscheidung: Umfeld – Wie du ein starkes Umfeld aufbaust, das dich gewinnen sehen will
 date: 2025-12-18
 published: true
 ---

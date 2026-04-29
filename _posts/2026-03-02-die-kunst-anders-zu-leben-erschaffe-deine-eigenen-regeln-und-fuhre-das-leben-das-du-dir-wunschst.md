@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Die Kunst, anders zu leben – Erschaffe deine eigenen Regeln und führe das Leben, das du dir wünschst"
+layout: post
+title: Die Kunst, anders zu leben – Erschaffe deine eigenen Regeln und führe das Leben, das du dir wünschst
 date: 2026-03-02
 published: true
 ---

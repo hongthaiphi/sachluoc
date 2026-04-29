@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Seismic Shift in You – Seven Necessary Shifts to Create Connection and Drive Results"
+layout: post
+title: The Seismic Shift in You – Seven Necessary Shifts to Create Connection and Drive Results
 date: 2026-03-07
 published: true
 ---

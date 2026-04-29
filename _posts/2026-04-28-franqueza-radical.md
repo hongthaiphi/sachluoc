@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Franqueza radical"
+layout: post
+title: Franqueza radical
 date: 2026-04-28
 published: true
 ---

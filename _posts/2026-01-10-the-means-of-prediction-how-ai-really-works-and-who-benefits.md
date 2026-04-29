@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Means of Prediction – How AI Really Works (and Who Benefits)"
+layout: post
+title: The Means of Prediction – How AI Really Works (and Who Benefits)
 date: 2026-01-10
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Maximilian Kasy***

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Durchsetzungsstark verhandeln – Mit Strategie, Tools und Persönlichkeit nachhaltig zum Erfolg"
+layout: post
+title: Durchsetzungsstark verhandeln – Mit Strategie, Tools und Persönlichkeit nachhaltig zum Erfolg
 date: 2026-03-31
 published: true
 ---

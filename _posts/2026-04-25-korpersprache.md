@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Körpersprache"
+layout: post
+title: Körpersprache
 date: 2026-04-25
 published: true
 ---

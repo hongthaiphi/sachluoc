@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Surrender to Lead"
+layout: post
+title: Surrender to Lead
 date: 2026-04-24
 published: true
 ---

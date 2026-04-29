@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Playful – How Play Shifts Our Thinking and Sparks Creativity"
+layout: post
+title: Playful – How Play Shifts Our Thinking and Sparks Creativity
 date: 2025-12-14
 published: true
+categories:
+  - Psychology
+  - Technology
 ---
 
 *Author: **Cas Holman***

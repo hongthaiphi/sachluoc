@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Untitled Book"
+layout: post
+title: Untitled Book
 date: 2026-04-21
 published: true
 ---

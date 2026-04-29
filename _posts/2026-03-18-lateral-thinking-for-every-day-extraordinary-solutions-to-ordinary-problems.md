@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Lateral Thinking for Every Day – Extraordinary Solutions to Ordinary Problems"
+layout: post
+title: Lateral Thinking for Every Day – Extraordinary Solutions to Ordinary Problems
 date: 2026-03-18
 published: true
+categories:
+  - Psychology
+  - Technology
 ---
 
 *Author: **Paul Sloane***

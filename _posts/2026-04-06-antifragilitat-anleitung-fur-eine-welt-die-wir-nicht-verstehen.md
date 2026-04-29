@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Antifragilität – Anleitung für eine Welt, die wir nicht verstehen"
+layout: post
+title: Antifragilität – Anleitung für eine Welt, die wir nicht verstehen
 date: 2026-04-06
 published: true
 ---

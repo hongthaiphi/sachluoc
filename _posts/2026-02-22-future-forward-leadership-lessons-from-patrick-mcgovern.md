@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Future Forward – Leadership Lessons from Patrick McGovern"
+layout: post
+title: Future Forward – Leadership Lessons from Patrick McGovern
 date: 2026-02-22
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Glenn Rifkin***

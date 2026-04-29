@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Der Aufstieg des Geldes – Die Währung der Geschichte"
+layout: post
+title: Der Aufstieg des Geldes – Die Währung der Geschichte
 date: 2026-02-20
 published: true
+categories:
+  - Finance
 ---
 
 *Author: **Niall Ferguson***

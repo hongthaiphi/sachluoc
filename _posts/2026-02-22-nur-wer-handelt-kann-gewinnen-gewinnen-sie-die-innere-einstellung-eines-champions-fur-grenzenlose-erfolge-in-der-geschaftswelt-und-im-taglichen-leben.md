@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Nur wer handelt, kann gewinnen – Gewinnen Sie die innere Einstellung eines Champions für grenzenlose Erfolge in der Geschäftswelt und im täglichen Leben"
+layout: post
+title: Nur wer handelt, kann gewinnen – Gewinnen Sie die innere Einstellung eines Champions für grenzenlose Erfolge in der Geschäftswelt und im täglichen Leben
 date: 2026-02-22
 published: true
 ---

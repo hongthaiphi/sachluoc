@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Shaolin Mind"
+layout: post
+title: Shaolin Mind
 date: 2026-04-26
 published: true
+categories:
+  - Psychology
 ---
 
 **Author:** Shi Heng Yi | **Category:** Mindfulness & Happiness## WHAT'S IN IT FOR YOU: THE STORY OF MARTIAL ARTIST SHI HENG YI AND HIS BUDDHIST LIFE WISDOM.

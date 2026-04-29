@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Die Regeln des Glücks – Ein Handbuch zum Leben"
+layout: post
+title: Die Regeln des Glücks – Ein Handbuch zum Leben
 date: 2026-01-30
 published: true
+categories:
+  - Learning
 ---
 
 *Author: **Dalai Lama & Howard C. Cutler***

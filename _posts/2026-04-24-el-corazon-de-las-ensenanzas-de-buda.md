@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "El corazón de las enseñanzas de Buda"
+layout: post
+title: El corazón de las enseñanzas de Buda
 date: 2026-04-24
 published: true
 ---

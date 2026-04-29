@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Eine Hymne an das Leben"
+layout: post
+title: Eine Hymne an das Leben
 date: 2026-04-24
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "How to be a Friend (In an Unfriendly World) – Lessons on Connection"
+layout: post
+title: How to be a Friend (In an Unfriendly World) – Lessons on Connection
 date: 2026-01-26
 published: true
 ---

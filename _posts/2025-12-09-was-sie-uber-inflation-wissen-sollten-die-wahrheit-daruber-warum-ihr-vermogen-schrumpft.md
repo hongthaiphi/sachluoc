@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Was Sie über Inflation wissen sollten – Die Wahrheit darüber, warum Ihr Vermögen schrumpft"
+layout: post
+title: Was Sie über Inflation wissen sollten – Die Wahrheit darüber, warum Ihr Vermögen schrumpft
 date: 2025-12-09
 published: true
 ---

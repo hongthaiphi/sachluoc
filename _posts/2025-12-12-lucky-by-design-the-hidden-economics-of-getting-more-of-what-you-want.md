@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Lucky by Design – The Hidden Economics of Getting More of What You Want"
+layout: post
+title: Lucky by Design – The Hidden Economics of Getting More of What You Want
 date: 2025-12-12
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Vertrauen – Die Währung von morgen"
+layout: post
+title: Vertrauen – Die Währung von morgen
 date: 2026-02-02
 published: true
 ---

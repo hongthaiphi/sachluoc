@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Soft – A History of Sentimentality"
+layout: post
+title: Soft – A History of Sentimentality
 date: 2026-02-08
 published: true
 ---

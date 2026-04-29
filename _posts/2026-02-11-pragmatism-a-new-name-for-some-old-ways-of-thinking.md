@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Pragmatism – A New Name for Some Old Ways of Thinking"
+layout: post
+title: Pragmatism – A New Name for Some Old Ways of Thinking
 date: 2026-02-11
 published: true
+categories:
+  - Psychology
+  - Technology
 ---
 
 *Author: **William James***

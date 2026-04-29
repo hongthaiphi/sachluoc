@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Die Talent-Lüge – Warum wir (fast) alles erreichen können"
+layout: post
+title: Die Talent-Lüge – Warum wir (fast) alles erreichen können
 date: 2026-01-18
 published: true
+categories:
+  - Finance
 ---
 
 *Author: **Daniel Coyle***

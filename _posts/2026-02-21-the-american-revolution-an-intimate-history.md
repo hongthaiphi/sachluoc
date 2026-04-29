@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The American Revolution – An Intimate History"
+layout: post
+title: The American Revolution – An Intimate History
 date: 2026-02-21
 published: true
 ---

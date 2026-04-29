@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Wisdom Takes Work – Learn. Apply. Repeat."
+layout: post
+title: Wisdom Takes Work – Learn. Apply. Repeat.
 date: 2025-12-19
 published: true
+categories:
+  - Philosophy
 ---
 
 *Author: **Ryan Holiday***

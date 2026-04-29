@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Ist das normal? – Sprechen wir über Sex, wie du ihn willst"
+layout: post
+title: Ist das normal? – Sprechen wir über Sex, wie du ihn willst
 date: 2026-01-01
 published: true
 ---

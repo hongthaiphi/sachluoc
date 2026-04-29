@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Rapid Retooling"
+layout: post
+title: Rapid Retooling
 date: 2026-04-25
 published: true
 ---

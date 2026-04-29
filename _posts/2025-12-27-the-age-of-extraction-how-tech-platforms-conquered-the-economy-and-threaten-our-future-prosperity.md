@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Age of Extraction – How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity"
+layout: post
+title: The Age of Extraction – How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity
 date: 2025-12-27
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Tim Wu***

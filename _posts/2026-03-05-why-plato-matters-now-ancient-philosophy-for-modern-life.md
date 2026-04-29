@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Why Plato Matters Now – Ancient philosophy for modern life"
+layout: post
+title: Why Plato Matters Now – Ancient philosophy for modern life
 date: 2026-03-05
 published: true
+categories:
+  - Philosophy
 ---
 
 *Author: **Angie Hobbs***

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Simplicity – Die zehn Gesetze der Einfachheit"
+layout: post
+title: Simplicity – Die zehn Gesetze der Einfachheit
 date: 2025-12-08
 published: true
 ---

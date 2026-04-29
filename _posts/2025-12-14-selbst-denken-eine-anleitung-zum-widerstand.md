@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Selbst denken – Eine Anleitung zum Widerstand"
+layout: post
+title: Selbst denken – Eine Anleitung zum Widerstand
 date: 2025-12-14
 published: true
+categories:
+  - Psychology
 ---
 
 *Author: **Harald Welzer***

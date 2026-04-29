@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Love Language That Matters Most – How to Personalize Love So They Really Feel It"
+layout: post
+title: The Love Language That Matters Most – How to Personalize Love So They Really Feel It
 date: 2026-03-13
 published: true
 ---

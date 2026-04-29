@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Innovator’s Dilemma – Warum etablierte Unternehmen den Wettbewerb um bahnbrechende Innovationen verlieren"
+layout: post
+title: The Innovator’s Dilemma – Warum etablierte Unternehmen den Wettbewerb um bahnbrechende Innovationen verlieren
 date: 2026-01-26
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **Clayton M. Christensen***

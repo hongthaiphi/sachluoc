@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "The Presentation of Self in Everyday Life – A classic study of human behavior"
+layout: post
+title: The Presentation of Self in Everyday Life – A classic study of human behavior
 date: 2026-03-21
 published: true
 ---

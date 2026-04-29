@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Der Weg zu den Besten – Die sieben Management-Prinzipien für dauerhaften Unternehmenserfolg"
+layout: post
+title: Der Weg zu den Besten – Die sieben Management-Prinzipien für dauerhaften Unternehmenserfolg
 date: 2026-04-02
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Jim Collins***

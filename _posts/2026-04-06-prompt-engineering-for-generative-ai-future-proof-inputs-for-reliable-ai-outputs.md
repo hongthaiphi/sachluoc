@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Prompt Engineering for Generative AI – Future-Proof Inputs for Reliable AI Outputs"
+layout: post
+title: Prompt Engineering for Generative AI – Future-Proof Inputs for Reliable AI Outputs
 date: 2026-04-06
 published: true
+categories:
+  - Technology
 ---
 
 *Author: **James Phoenix***

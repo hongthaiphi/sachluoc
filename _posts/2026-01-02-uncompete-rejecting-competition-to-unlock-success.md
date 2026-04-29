@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Uncompete – Rejecting Competition to Unlock Success"
+layout: post
+title: Uncompete – Rejecting Competition to Unlock Success
 date: 2026-01-02
 published: true
 ---

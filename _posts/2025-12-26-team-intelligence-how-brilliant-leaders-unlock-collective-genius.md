@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Team Intelligence – How Brilliant Leaders Unlock Collective Genius"
+layout: post
+title: Team Intelligence – How Brilliant Leaders Unlock Collective Genius
 date: 2025-12-26
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Jon Levy***

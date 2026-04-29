@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "The Design of Everyday Things – Psychologie und Design der alltäglichen Dinge"
+layout: post
+title: The Design of Everyday Things – Psychologie und Design der alltäglichen Dinge
 date: 2025-12-22
 published: true
+categories:
+  - Psychology
 ---
 
 *Author: **Donald A. Norman***

@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Der einarmige Pianist – Über Musik und das Gehirn"
+layout: post
+title: Der einarmige Pianist – Über Musik und das Gehirn
 date: 2025-12-15
 published: true
+categories:
+  - Psychology
 ---
 
 *Author: **Oliver Sacks***

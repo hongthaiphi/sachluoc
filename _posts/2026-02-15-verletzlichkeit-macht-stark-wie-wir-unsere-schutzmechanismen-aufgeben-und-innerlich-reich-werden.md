@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Verletzlichkeit macht stark – Wie wir unsere Schutzmechanismen aufgeben und innerlich reich werden"
+layout: post
+title: Verletzlichkeit macht stark – Wie wir unsere Schutzmechanismen aufgeben und innerlich reich werden
 date: 2026-02-15
 published: true
+categories:
+  - Finance
 ---
 
 *Author: **Brené Brown***

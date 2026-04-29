@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Why We Drink Too Much – The Impact of Alcohol on Our Bodies and Culture"
+layout: post
+title: Why We Drink Too Much – The Impact of Alcohol on Our Bodies and Culture
 date: 2026-03-04
 published: true
 ---

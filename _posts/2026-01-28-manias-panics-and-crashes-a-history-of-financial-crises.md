@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Manias, Panics, and Crashes – A History of Financial Crises"
+layout: post
+title: Manias, Panics, and Crashes – A History of Financial Crises
 date: 2026-01-28
 published: true
 ---

@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Ich schaff das! – Selbstmanagement für den beruflichen und privaten Alltag"
+layout: post
+title: Ich schaff das! – Selbstmanagement für den beruflichen und privaten Alltag
 date: 2026-01-04
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **David Allen***

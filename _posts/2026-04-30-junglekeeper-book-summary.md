@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Junglekeeper - A Wild Journey to Save the Amazon"
+layout: post
+title: Junglekeeper - A Wild Journey to Save the Amazon
 date: 2026-04-30
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "What's Your Dream? – Find Your Passion. Love Your Work. Build a Richer Life."
+layout: post
+title: What's Your Dream? – Find Your Passion. Love Your Work. Build a Richer Life.
 date: 2025-12-29
 published: true
 ---

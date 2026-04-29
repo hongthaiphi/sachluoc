@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "Achtsamkeit und emotionale Intelligenz in Organisationen – Agiles Arbeiten in Teams und Organisationskultur der Zukunft"
+layout: post
+title: Achtsamkeit und emotionale Intelligenz in Organisationen – Agiles Arbeiten in Teams und Organisationskultur der Zukunft
 date: 2026-01-07
 published: true
+categories:
+  - Leadership
+  - Psychology
 ---
 
 *Author: **Svea von Hehn & Johanna Rauls***

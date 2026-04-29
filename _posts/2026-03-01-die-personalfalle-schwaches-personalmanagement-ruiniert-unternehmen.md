@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Die Personalfalle – Schwaches Personalmanagement ruiniert Unternehmen"
+layout: post
+title: Die Personalfalle – Schwaches Personalmanagement ruiniert Unternehmen
 date: 2026-03-01
 published: true
+categories:
+  - Leadership
 ---
 
 *Author: **Jörg Knoblauch***

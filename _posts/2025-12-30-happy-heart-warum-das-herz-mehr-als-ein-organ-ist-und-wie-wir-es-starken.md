@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Happy Heart – Warum das Herz mehr als ein Organ ist – und wie wir es stärken"
+layout: post
+title: Happy Heart – Warum das Herz mehr als ein Organ ist – und wie wir es stärken
 date: 2025-12-30
 published: true
 ---
