@@ -14,6 +14,8 @@ published: true
 
 ## What's In It For Me?
 
+![Amazon Rainforest](https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=800)
+
 A gripping true tale of life in the wilderness. What would it take to leave everything behind and dedicate your life to saving the wildest place on Earth – knowing it might actually kill you?
 
 Paul Rosolie's life story will pull you deep into the Peruvian Amazon, where ancient trees older than the Renaissance still fall to illegal chain saws, and where naked warriors armed with seven-foot arrows guard the last untouched corners of our planet.
@@ -32,6 +34,8 @@ His mother leaned into this talent. She'd blindfold him in the backyard and chal
 
 ## The Web of Life
 
+![Rainforest Canopy](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
+
 Once in the Amazon, Paul's real education began. Spending years exploring the forest with his guide JJ – a man who could read animal tracks the way most people read a newspaper – Paul understood that **nature isn't a place you visit. It's a system you're already inside.**
 
 Nothing in a forest exists in isolation. The jaguar eats the deer, who'd eaten fruit with seeds that now travel inside the jaguar across a far wider territory. The trees produce the rain. The rain sustains the trees.
@@ -39,6 +43,8 @@ Nothing in a forest exists in isolation. The jaguar eats the deer, who'd eaten f
 We talk about visiting nature as though we step in and out of it like a shop, but the Amazon makes that illusion very difficult to maintain. The web doesn't stop at the treeline. It runs straight through us too.
 
 ## When the Road Arrived
+
+![Amazon Deforestation](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
 
 Paul lived completely cut off from the modern world: no electricity, no phone signal, no nearby neighbors. And for a while, it felt like the wilderness might just last forever.
 
@@ -84,6 +90,8 @@ A final key is understanding that destruction isn't driven by evil. **It's drive
 ---
 
 ## Final Thoughts
+
+![Wildlife Protection](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
 
 The wild world is worth fighting for. And sometimes, one unguarded moment of grief shared with strangers is enough to start a movement.
 
