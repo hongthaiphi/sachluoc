@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Kunst, anders zu leben - Erschaffe deine eigenen Regeln und führe das Leben, das du dir wünschst"
+title: "The Art of Living Differently - Create Your Own Rules"
 date: "2026-03-02"
 published: true
 ---

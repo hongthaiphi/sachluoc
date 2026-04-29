@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Leiden des jungen Werther - Ein Briefroman über unerwiderte Liebe und Verzweiflung"
+title: "The Sorrows of Young Werther - An Epistolary Novel"
 date: "2026-03-14"
 published: true
 ---

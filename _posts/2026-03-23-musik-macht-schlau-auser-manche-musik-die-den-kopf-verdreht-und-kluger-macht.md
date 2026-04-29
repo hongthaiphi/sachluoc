@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Musik macht schlau - außer manche - Musik, die den Kopf verdreht und klüger macht"
+title: "Music Makes You Smart - Except Some Music"
 date: "2026-03-23"
 published: true
 ---

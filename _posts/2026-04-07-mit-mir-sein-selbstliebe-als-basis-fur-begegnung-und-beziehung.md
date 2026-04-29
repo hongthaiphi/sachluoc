@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Mit mir sein - Selbstliebe als Basis für Begegnung und Beziehung"
+title: "Being With Me - Self-Love as the Basis for Connection"
 date: "2026-04-07"
 published: true
 ---

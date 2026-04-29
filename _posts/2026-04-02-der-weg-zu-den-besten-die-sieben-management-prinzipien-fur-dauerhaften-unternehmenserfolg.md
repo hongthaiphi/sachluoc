@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Weg zu den Besten - Die sieben Management-Prinzipien für dauerhaften Unternehmenserfolg"
+title: "The Path to Excellence - Seven Management Principles"
 date: "2026-04-02"
 published: true
 categories:

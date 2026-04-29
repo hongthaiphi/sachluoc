@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Dein Beruf - Deine Leidenschaft - Wie du den Job findest, der dich glücklich macht"
+title: "Your Job Your Passion - Find Work You Love"
 date: "2026-04-01"
 published: true
 ---

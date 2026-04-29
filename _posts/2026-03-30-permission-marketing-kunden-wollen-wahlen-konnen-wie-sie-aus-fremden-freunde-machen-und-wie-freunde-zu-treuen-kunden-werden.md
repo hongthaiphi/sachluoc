@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Permission Marketing - Kunden wollen wählen können. Wie Sie aus Fremden Freunde machen und wie Freunde zu treuen Kunden werden"
+title: "Permission Marketing - Give Customers a Choice"
 date: "2026-03-30"
 published: true
 ---

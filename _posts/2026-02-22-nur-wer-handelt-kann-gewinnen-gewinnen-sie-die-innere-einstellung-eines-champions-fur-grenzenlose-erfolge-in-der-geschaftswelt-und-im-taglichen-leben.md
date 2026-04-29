@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Nur wer handelt, kann gewinnen - Gewinnen Sie die innere Einstellung eines Champions für grenzenlose Erfolge in der Geschäftswelt und im täglichen Leben"
+title: "Only Those Who Act Can Win - The Champion's Mindset for Unlimited Success"
 date: "2026-02-22"
 published: true
 ---
