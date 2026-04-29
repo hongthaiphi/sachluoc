@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Ist das normal? - Sprechen wir über Sex, wie du ihn willst"
+title: "Is That Normal - Let's Talk About Sex"
 date: "2026-01-01"
 published: true
 ---

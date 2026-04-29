@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der neue Wohlstand - Was wir für eine bessere Zukunft tun müssen"
+title: "The New Prosperity - What We Must Do for a Better Future"
 date: "2026-03-04"
 published: true
 ---

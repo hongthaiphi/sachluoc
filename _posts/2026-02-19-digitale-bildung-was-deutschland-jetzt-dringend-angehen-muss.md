@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Digitale Bildung - Was Deutschland jetzt dringend angehen muss"
+title: "Digital Education - What Germany Must Address Now"
 date: "2026-02-19"
 published: true
 categories:

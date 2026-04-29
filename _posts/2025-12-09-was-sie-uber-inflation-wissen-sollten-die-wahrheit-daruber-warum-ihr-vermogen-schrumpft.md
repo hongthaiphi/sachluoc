@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Was Sie über Inflation wissen sollten - Die Wahrheit darüber, warum Ihr Vermögen schrumpft"
+title: "What You Should Know About Inflation - Why Your Wealth Shrinks"
 date: "2025-12-09"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kommunikations-Hacks - Brisante Gespräche meistern"
+title: "Communication Hacks - Master Difficult Conversations"
 date: "2026-03-10"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Nikomachische Ethik - Der antike Leitfaden für ein glückliches Leben"
+title: "Nicomachean Ethics - Ancient Guide to a Happy Life"
 date: "2026-02-24"
 published: true
 ---

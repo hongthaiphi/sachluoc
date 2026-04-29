@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "David und Goliath - Die Kunst, Übermächtige zu bezwingen"
+title: "David and Goliath - The Art of Defeating the Mighty"
 date: "2026-02-08"
 published: true
 ---

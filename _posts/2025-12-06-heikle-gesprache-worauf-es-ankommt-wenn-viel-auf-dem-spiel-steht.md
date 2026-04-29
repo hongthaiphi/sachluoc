@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Heikle Gespräche - Worauf es ankommt, wenn viel auf dem Spiel steht"
+title: "Difficult Conversations - Essential Skills When Stakes Are High"
 date: "2025-12-06"
 published: true
 ---

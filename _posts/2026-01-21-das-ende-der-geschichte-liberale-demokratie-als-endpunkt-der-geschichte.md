@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Das Ende der Geschichte - Liberale Demokratie als Endpunkt der Geschichte"
+title: "The End of History - Liberal Democracy as History's End Point"
 date: "2026-01-21"
 published: true
 ---

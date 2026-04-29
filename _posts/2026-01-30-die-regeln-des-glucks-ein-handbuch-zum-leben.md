@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Regeln des Glücks - Ein Handbuch zum Leben"
+title: "The Rules of Happiness - A Handbook for Living"
 date: "2026-01-30"
 published: true
 categories:

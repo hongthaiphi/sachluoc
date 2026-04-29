@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Psychologie des Überzeugens - Wie Sie sich selbst und Ihren Mitmenschen auf die Schliche kommen"
+title: "The Psychology of Persuasion - Understand Yourself and Others"
 date: "2026-01-05"
 published: true
 categories:

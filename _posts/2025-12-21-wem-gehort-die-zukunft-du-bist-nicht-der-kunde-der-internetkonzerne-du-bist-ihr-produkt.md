@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Wem gehört die Zukunft? - 'Du bist nicht der Kunde der Internetkonzerne. Du bist ihr Produkt.'"
+title: "Who Owns the Future - You Are Not the Customer, You Are the Product"
 date: "2025-12-21"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Unsterblich - Die Sehnsucht nach dem ewigen Leben als Triebkraft unserer Zivilisation"
+title: "Immortality - The Longing for Eternal Life as the Driving Force of Our Civilization"
 date: "2025-12-02"
 published: true
 ---

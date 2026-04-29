@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Idee der Phänomenologie - Ein Grundlagentext der phänomenologischen Methode"
+title: "The Idea of Phenomenology - A Foundational Text of Phenomenological Method"
 date: "2025-12-03"
 published: true
 ---

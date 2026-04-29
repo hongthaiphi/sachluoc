@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Nicht gekauft hat er schon - So denken Top-Verkäufer"
+title: "Not Bought Yet - How Top Salespeople Think"
 date: "2026-03-06"
 published: true
 categories:

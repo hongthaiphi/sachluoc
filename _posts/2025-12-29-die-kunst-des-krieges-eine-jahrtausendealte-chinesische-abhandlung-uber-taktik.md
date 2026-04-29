@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Kunst des Krieges - Eine jahrtausendealte chinesische Abhandlung über Taktik"
+title: "The Art of War - An Ancient Chinese Treatise on Tactics"
 date: "2025-12-29"
 published: true
 ---

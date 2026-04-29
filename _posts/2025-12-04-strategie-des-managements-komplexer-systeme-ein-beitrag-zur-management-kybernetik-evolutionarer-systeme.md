@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Strategie des Managements komplexer Systeme - Ein Beitrag zur Management-Kybernetik evolutionärer Systeme"
+title: "Strategy of Managing Complex Systems - A Contribution to Management Cybernetics"
 date: "2025-12-04"
 published: true
 categories:

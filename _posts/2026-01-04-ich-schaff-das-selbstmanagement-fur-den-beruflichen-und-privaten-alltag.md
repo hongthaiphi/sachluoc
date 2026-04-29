@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Ich schaff das! - Selbstmanagement für den beruflichen und privaten Alltag"
+title: "I Can Do It - Self-Management for Work and Life"
 date: "2026-01-04"
 published: true
 categories:

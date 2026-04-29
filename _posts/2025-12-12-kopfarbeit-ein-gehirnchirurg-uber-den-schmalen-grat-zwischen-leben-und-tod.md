@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kopfarbeit - Ein Gehirnchirurg über den schmalen Grat zwischen Leben und Tod"
+title: "Brain Work - A Neurosurgeon on the Edge Between Life and Death"
 date: "2025-12-12"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Vermächtnis - Was wir von traditionellen Gesellschaften lernen können"
+title: "Legacy - What We Learn From Traditional Societies"
 date: "2025-12-19"
 published: true
 categories:

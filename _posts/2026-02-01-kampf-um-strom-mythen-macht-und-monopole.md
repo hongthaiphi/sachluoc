@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Kampf um Strom - Mythen, Macht und Monopole"
+title: "The Battle for Power - Myths, Power and Monopolies"
 date: "2026-02-01"
 published: true
 ---

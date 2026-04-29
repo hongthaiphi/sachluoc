@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Personalfalle - Schwaches Personalmanagement ruiniert Unternehmen"
+title: "The Personnel Trap - Poor HR Ruins Companies"
 date: "2026-03-01"
 published: true
 categories:

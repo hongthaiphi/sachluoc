@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Einkommen für alle - Das Warum und Wie eines bedingungslosen Grundeinkommens"
+title: "Income for All - The Why and How of Universal Basic Income"
 date: "2026-03-22"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Suche nach Zuhause - Von der Sehnsucht nach einem Ort, an den wir hingehören"
+title: "The Search for Home - The Longing for a Place Where We Belong"
 date: "2025-12-23"
 published: true
 ---

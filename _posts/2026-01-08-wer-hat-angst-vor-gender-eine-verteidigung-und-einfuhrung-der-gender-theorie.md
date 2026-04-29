@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Wer hat Angst vor Gender? - Eine Verteidigung und Einführung der Gender-Theorie"
+title: "Who's Afraid of Gender - A Defense and Introduction to Gender Theory"
 date: "2026-01-08"
 published: true
 categories:

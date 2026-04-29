@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Aufstieg des Geldes - Die Währung der Geschichte"
+title: "The Ascent of Money - The Currency of History"
 date: "2026-02-20"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Wie fühlst du dich? - Über unser Innenleben in Zeiten wie diesen"
+title: "How Are You Feeling - About Our Inner Lives"
 date: "2025-12-26"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Altersformel - Wie uns eine gute Durchblutung gesund hält"
+title: "The Age Formula - How Good Circulation Keeps Us Healthy"
 date: "2026-01-27"
 published: true
 ---

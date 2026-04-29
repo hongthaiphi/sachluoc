@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Das Versagen - Eine investigative Geschichte der deutschen Russlandpolitik"
+title: "The Failure - An Investigation Into German Russia Policy"
 date: "2026-02-10"
 published: true
 ---
