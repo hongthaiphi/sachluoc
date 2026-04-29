@@ -2,46 +2,143 @@
 layout: default
 ---
 
-<div style="margin-bottom: 2em;">
-  <a href="{{ site.baseurl }}/" style="text-decoration: none; color: #0066cc;">← Trang chủ</a>
-</div>
+<!-- Reading progress bar -->
+<div id="reading-progress"></div>
 
-<article>
-  <h1>{{ page.title }}</h1>
-
-  <div style="color: #666; font-size: 0.9em; margin-bottom: 1.5em;">
-    <span>📅 {{ page.date | date: "%d/%m/%Y" }}</span>
-    {% if page.categories %}
-      | 📁
-      {% for category in page.categories %}
-        <a href="{{ site.baseurl }}/categories/#{{ category | slugify }}" style="color: #0066cc;">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+<!-- Post header -->
+<div class="post-header">
+  <a class="back-link" href="{{ site.baseurl }}/">← Tất cả sách</a>
+  <h1 class="post-title-main">{{ page.title }}</h1>
+  <div class="post-meta-bar">
+    <time>{{ page.date | date: "%d/%m/%Y" }}</time>
+    <span class="reading-time" id="reading-time"></span>
+    {% if page.tags %}
+    <div class="post-tag-list">
+      {% for tag in page.tags %}
+      <span class="tag" data-tag="{{ tag }}">{{ tag }}</span>
       {% endfor %}
+    </div>
     {% endif %}
   </div>
-
-  <div style="line-height: 1.8; color: #333;">
-    {{ content }}
-  </div>
-</article>
-
-{% if site.posts.size > 0 %}
-<div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
-  <h3>📚 Bài viết liên quan</h3>
-
-  {% assign current_categories = page.categories %}
-  {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
-
-  <ul style="list-style: none; padding: 0;">
-    {% for post in related_posts limit: 5 %}
-      <li style="margin-bottom: 1em;">
-        <a href="{{ site.baseurl }}{{ post.url }}" style="color: #0066cc; text-decoration: none; font-weight: 500;">
-          {{ post.title }}
-        </a>
-        <div style="color: #666; font-size: 0.9em;">
-          {{ post.date | date: "%d/%m/%Y" }}
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
 </div>
-{% endif %}
+
+<!-- TOC inline: mobile/tablet -->
+<details class="toc-inline" id="toc-inline">
+  <summary>📋 Mục lục</summary>
+  <div id="toc-inline-list"></div>
+</details>
+
+<!-- Main post body -->
+<div id="post-body">
+  {{ content }}
+</div>
+
+<!-- TOC floating: desktop only -->
+<nav class="toc-float" id="toc-float" aria-label="Mục lục">
+  <div class="toc-float-header">📋 Mục lục</div>
+  <div id="toc-float-list"></div>
+</nav>
+
+<!-- Footer nav -->
+<div class="post-footer-nav">
+  <a href="{{ site.baseurl }}/">← Tất cả sách</a>
+  <a href="{{ site.baseurl }}/danh-muc/">🗂️ Danh mục</a>
+  {% if page.next %}
+  <a href="{{ site.baseurl }}{{ page.next.url }}" style="margin-left:auto">{{ page.next.title | truncate: 40 }} →</a>
+  {% endif %}
+</div>
+
+<script>
+(function () {
+  /* ── Tag colors ─────────────────────────────────── */
+  const TAG_COLORS = {
+    "Lãnh đạo":           "#2563EB",
+    "Tâm lý":             "#7C3AED",
+    "Kinh tế":            "#059669",
+    "Công nghệ":          "#0891B2",
+    "AI":                 "#D97706",
+    "Xã hội":             "#DC2626",
+    "Kinh doanh":         "#EA580C",
+    "Phát triển bản thân":"#4F46E5",
+    "Khoa học":           "#0D9488",
+    "Triết học":          "#6B7280",
+  };
+  document.querySelectorAll('.tag[data-tag]').forEach(el => {
+    el.style.background = TAG_COLORS[el.dataset.tag] || '#6B7280';
+  });
+
+  /* ── Reading time ───────────────────────────────── */
+  const body = document.getElementById('post-body');
+  const wordCount = (body.textContent || '').trim().split(/\s+/).length;
+  const minutes = Math.max(1, Math.round(wordCount / 200));
+  const rtEl = document.getElementById('reading-time');
+  if (rtEl) rtEl.textContent = '⏱ ~' + minutes + ' phút';
+
+  /* ── Build TOC ──────────────────────────────────── */
+  const headings = Array.from(body.querySelectorAll('h2, h3'));
+
+  if (headings.length >= 3) {
+    headings.forEach((h, i) => {
+      if (!h.id) h.id = 'h-' + i;
+    });
+
+    const tocHtml = headings.map(h => {
+      const cls = h.tagName === 'H3' ? 'toc-h3' : 'toc-h2';
+      const text = h.textContent.replace(/^#+\s*/, '').trim();
+      return `<a href="#${h.id}" class="${cls}">${text}</a>`;
+    }).join('');
+
+    document.getElementById('toc-float-list').innerHTML = tocHtml;
+    document.getElementById('toc-inline-list').innerHTML = tocHtml;
+
+    /* Smooth scroll */
+    document.querySelectorAll('#toc-float-list a, #toc-inline-list a').forEach(a => {
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        const id = a.getAttribute('href').slice(1);
+        const target = document.getElementById(id);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          /* close inline TOC after click */
+          const details = document.getElementById('toc-inline');
+          if (details) details.open = false;
+        }
+      });
+    });
+
+    /* Active section highlight (desktop TOC) */
+    const floatLinks = document.querySelectorAll('#toc-float-list a');
+    if (floatLinks.length) {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            floatLinks.forEach(a => a.classList.remove('active'));
+            const active = document.querySelector(
+              `#toc-float-list a[href="#${entry.target.id}"]`
+            );
+            if (active) active.classList.add('active');
+          }
+        });
+      }, { rootMargin: '-5% 0px -80% 0px', threshold: 0 });
+      headings.forEach(h => observer.observe(h));
+    }
+  } else {
+    /* Hide TOC if post is short */
+    const inlineToc = document.getElementById('toc-inline');
+    const floatToc  = document.getElementById('toc-float');
+    if (inlineToc) inlineToc.style.display = 'none';
+    if (floatToc)  floatToc.style.display  = 'none';
+  }
+
+  /* ── Reading progress bar ───────────────────────── */
+  const bar = document.getElementById('reading-progress');
+  function updateProgress() {
+    const rect  = body.getBoundingClientRect();
+    const total = body.offsetHeight - window.innerHeight;
+    const pct   = total > 0 ? Math.min(100, Math.max(0, (-rect.top / total) * 100)) : 0;
+    bar.style.width = pct + '%';
+  }
+  window.addEventListener('scroll', updateProgress, { passive: true });
+  updateProgress();
+})();
+</script>
