@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Glückshypothese -  Was uns wirklich glücklich macht. Die Quintessenz aus altem Wissen und moderner Glücksforschung"
+title: "The Happiness Hypothesis - What Really Makes Us Happy"
 date: "2026-01-11"
 published: true
 ---

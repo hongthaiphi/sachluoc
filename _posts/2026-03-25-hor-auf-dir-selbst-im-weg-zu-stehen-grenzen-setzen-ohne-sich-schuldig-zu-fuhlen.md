@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Hör auf, dir selbst im Weg zu stehen - Grenzen setzen, ohne sich schuldig zu fühlen"
+title: "Stop Getting in Your Own Way - Set Boundaries Without Guilt"
 date: "2026-03-25"
 published: true
 ---

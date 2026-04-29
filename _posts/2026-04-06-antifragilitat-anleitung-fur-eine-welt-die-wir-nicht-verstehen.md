@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Antifragilität - Anleitung für eine Welt, die wir nicht verstehen"
+title: "Antifragility - A Guide to a World We Don't Understand"
 date: "2026-04-06"
 published: true
 ---

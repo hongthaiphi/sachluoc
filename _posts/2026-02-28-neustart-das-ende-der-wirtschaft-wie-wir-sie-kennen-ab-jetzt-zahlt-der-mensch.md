@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Neustart - Das Ende der Wirtschaft, wie wir sie kennen. Ab jetzt zählt der Mensch!"
+title: "Restart - The End of Economics As We Know It"
 date: "2026-02-28"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Talent-Lüge - Warum wir (fast) alles erreichen können"
+title: "The Talent Lie - Why We Can Achieve Almost Anything"
 date: "2026-01-18"
 published: true
 categories:

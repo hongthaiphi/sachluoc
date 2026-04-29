@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Allesverkäufer - Jeff Bezos und das Imperium von Amazon"
+title: "The Everything Seller - Jeff Bezos and the Amazon Empire"
 date: "2026-03-15"
 published: true
 ---

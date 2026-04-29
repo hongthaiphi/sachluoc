@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Startup! - Die Wissensquelle für deine erfolgreiche Gründung"
+title: "Startup - Your Guide to Successful Entrepreneurship"
 date: "2026-02-25"
 published: true
 categories:

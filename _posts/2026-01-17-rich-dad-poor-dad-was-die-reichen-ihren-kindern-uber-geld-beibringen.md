@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Rich Dad, Poor Dad - Was die Reichen ihren Kindern über Geld beibringen"
+title: "Rich Dad Poor Dad - What the Rich Teach Their Children About Money"
 date: "2026-01-17"
 published: true
 categories:

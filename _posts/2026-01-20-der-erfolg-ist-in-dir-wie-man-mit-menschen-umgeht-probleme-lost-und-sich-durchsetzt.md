@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Erfolg ist in dir - Wie man mit Menschen umgeht, Probleme löst und sich durchsetzt"
+title: "Success Is Within You - Master People, Solve Problems, Assert Yourself"
 date: "2026-01-20"
 published: true
 ---

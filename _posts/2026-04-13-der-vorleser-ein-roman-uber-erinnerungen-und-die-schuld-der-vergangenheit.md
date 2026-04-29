@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Der Vorleser - Ein Roman über Erinnerungen und die Schuld der Vergangenheit"
+title: "The Reader - A Novel About Memory and the Guilt of the Past"
 date: "2026-04-13"
 published: true
 ---

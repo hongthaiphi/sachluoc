@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die 5-Sekunden-Regel - Die schnellste Methode, dein Leben zu verändern"
+title: "The 5-Second Rule - The Fastest Way to Change Your Life"
 date: "2026-03-24"
 published: true
 ---

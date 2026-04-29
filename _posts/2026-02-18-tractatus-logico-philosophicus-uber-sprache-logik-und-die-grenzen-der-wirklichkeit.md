@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Tractatus logico-philosophicus - Über Sprache, Logik und die Grenzen der Wirklichkeit"
+title: "Tractatus Logico-Philosophicus - On Language, Logic and Reality"
 date: "2026-02-18"
 published: true
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Faust - Der Tragödie Erster Teil"
+title: "Faust - Part One of the Tragedy"
 date: "2026-01-23"
 published: true
 ---

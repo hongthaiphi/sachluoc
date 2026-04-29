@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Switch - Veränderungen wagen und dadurch gewinnen!"
+title: "Switch - Dare to Change and Win"
 date: "2026-03-13"
 published: true
 ---

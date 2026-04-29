@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Design of Everyday Things - Psychologie und Design der alltäglichen Dinge"
+title: "The Design of Everyday Things - Psychology and Design of Everyday Objects"
 date: "2025-12-22"
 published: true
 categories:

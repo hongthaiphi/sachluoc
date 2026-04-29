@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Eine kurze Geschichte der Zeit - Vom Urknall über Schwarze Löcher bis hin zu den kleinsten Teilchen im Universum"
+title: "A Brief History of Time - From the Big Bang to Black Holes"
 date: "2026-02-07"
 published: true
 ---

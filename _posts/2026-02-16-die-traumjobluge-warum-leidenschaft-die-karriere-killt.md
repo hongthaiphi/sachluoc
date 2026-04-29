@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Die Traumjoblüge - Warum Leidenschaft die Karriere killt"
+title: "The Dream Job Lie - Why Passion Can Kill Your Career"
 date: "2026-02-16"
 published: true
 categories:

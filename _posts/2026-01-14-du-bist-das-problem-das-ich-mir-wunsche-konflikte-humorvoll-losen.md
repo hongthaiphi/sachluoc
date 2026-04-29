@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Du bist das Problem, das ich mir wünsche - Konflikte humorvoll lösen"
+title: "You Are the Problem I Wish For - Resolve Conflicts With Humor"
 date: "2026-01-14"
 published: true
 ---

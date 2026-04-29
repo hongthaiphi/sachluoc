@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Natürlich altern! - Fit bis 100 mit der Grönemeyer-Formel"
+title: "Aging Naturally - Stay Fit Until 100"
 date: "2026-02-26"
 published: true
 categories:

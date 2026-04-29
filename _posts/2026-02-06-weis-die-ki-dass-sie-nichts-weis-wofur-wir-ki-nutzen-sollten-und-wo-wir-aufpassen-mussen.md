@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Weiß die KI, dass sie nichts weiß? - Wofür wir KI nutzen sollten und wo wir aufpassen müssen"
+title: "Does AI Know It Knows Nothing - When to Use AI and When to Be Careful"
 date: "2026-02-06"
 published: true
 categories:

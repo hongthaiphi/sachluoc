@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Überzeugen wie Steve Jobs - Das Erfolgsgeheimnis seiner Präsentationen"
+title: "Convincing Like Steve Jobs - The Art of Persuasive Presentations"
 date: "2026-03-05"
 published: true
 ---

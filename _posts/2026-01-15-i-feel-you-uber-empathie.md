@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "I feel you - Über Empathie"
+title: "I Feel You - About Empathy"
 date: "2026-01-15"
 published: true
 ---

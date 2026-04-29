@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Nemesis' Töchter - 3000 Jahre zwischen Female Rage und Zusammenhalt"
+title: "Nemesis - 3000 Years Between Female Rage and Solidarity"
 date: "2026-01-13"
 published: true
 ---

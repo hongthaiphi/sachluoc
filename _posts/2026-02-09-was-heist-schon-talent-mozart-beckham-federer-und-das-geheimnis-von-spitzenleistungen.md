@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Was heißt schon Talent? - Mozart, Beckham, Federer und das Geheimnis von Spitzenleistungen"
+title: "What Is Talent - Mozart, Beckham, Federer and the Secret of Excellence"
 date: "2026-02-09"
 published: true
 ---
