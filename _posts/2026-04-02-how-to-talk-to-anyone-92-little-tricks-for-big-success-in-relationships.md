@@ -3,6 +3,8 @@ layout: "post"
 title: "How to Talk to Anyone - 92 Little Tricks for Big Success in Relationships"
 date: "2026-04-02"
 published: true
+tags: ["Phát triển bản thân"]
+description: "How To Talk to Anyone (1998) is a very helpful guide to having better talks and becoming better and easier in your social interactions – no matter the situation. Leil Lowndes offers readers many ways and ideas that will help any person who finds it hard to talk to people gain mor..."
 ---
 
 *Author: **Leil Lowndes***

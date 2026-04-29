@@ -5,6 +5,8 @@ date: "2026-03-01"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Good employees are the only way for a company to succeed for a long time. These summaries of Jörg Knoblauch's book Die Personalfalle (2010) show why it is so important for a company to hire only the best people. They explain how to find these employees and keep them with the comp..."
 ---
 
 *Author: **Jörg Knoblauch***

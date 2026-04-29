@@ -3,6 +3,8 @@ layout: "post"
 title: "Communication Hacks - Master Difficult Conversations"
 date: "2026-03-10"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Communication Hacks (2020) gives you an overview of what good communication looks like. You will learn some basic ideas. You will also get tips on how to start conversations, lead meetings, and give speeches."
 ---
 
 *Author: **Sigrun Dahmer***

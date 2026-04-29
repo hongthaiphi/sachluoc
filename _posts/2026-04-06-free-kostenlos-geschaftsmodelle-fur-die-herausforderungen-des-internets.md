@@ -3,6 +3,8 @@ layout: "post"
 title: "Free - The Power of Free Business Models"
 date: "2026-04-06"
 published: true
+tags: ["Công nghệ"]
+description: "Free (2009) is about how businesses can succeed in the new digital markets of the 21st century. All the old rules of business have changed completely. These blinks explain these big changes. They also give advice to business owners on how to adapt. One way is to use the internet'..."
 ---
 
 *Author: **Chris Anderson***

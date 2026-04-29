@@ -3,6 +3,8 @@ layout: "post"
 title: "Antifragility - A Guide to a World We Don't Understand"
 date: "2026-04-06"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The book 'Antifragility' examines society's tendency to intervene in systems like the economy in an effort to make life smoother. Instead of improving society, these interventions destroy the volatile environment needed for antifragility to thrive."
 ---
 
 Author: **Nicholas Nassim Taleb**

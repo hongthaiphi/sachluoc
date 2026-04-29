@@ -5,6 +5,8 @@ date: "2026-02-23"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "Thinking, Fast and Slow (2012) looks back at the scientific work of psychologist Daniel Kahneman. His research has greatly changed how we understand the human brain. Because of his work, we now better understand why we often make mistakes. We also learn what to think about when m..."
 ---
 
 *Author: **Daniel Kahneman***

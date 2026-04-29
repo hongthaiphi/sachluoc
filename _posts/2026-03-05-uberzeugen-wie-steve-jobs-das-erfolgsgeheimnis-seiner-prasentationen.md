@@ -3,6 +3,8 @@ layout: "post"
 title: "Convincing Like Steve Jobs - The Art of Persuasive Presentations"
 date: "2026-03-05"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Talk Like Steve Jobs (2011) shows how any speaker can present as convincingly and excitingly as the famous Steve Jobs. From planning to practice and then the actual talk: Carmine Gallo shares the secrets of impressive presentations, step by step."
 ---
 
 *Author: **Carmine Gallo***

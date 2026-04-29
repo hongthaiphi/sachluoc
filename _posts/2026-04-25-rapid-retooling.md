@@ -3,6 +3,8 @@ layout: "post"
 title: "Rapid Retooling"
 date: "2026-04-25"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Antoine Gerschel | Category: Personal DevelopmentWHAT’S IN IT FOR ME? RETOOL YOUR PEOPLE TO SUCCESSFULLY NAVIGATE CHANGE."
 ---
 
 **Author:** Antoine Gerschel | **Category:** Personal Development## WHAT’S IN IT FOR ME? RETOOL YOUR PEOPLE TO SUCCESSFULLY NAVIGATE CHANGE.

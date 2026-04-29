@@ -5,6 +5,8 @@ date: "2025-12-07"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "A New Version Is Available (2013) looks at how art and culture are made in the digital age. These summaries show how digital changes affect things. They look at both ideas and real examples from the world of art and culture."
 ---
 
 *Author: **Dirk von Gehlen***

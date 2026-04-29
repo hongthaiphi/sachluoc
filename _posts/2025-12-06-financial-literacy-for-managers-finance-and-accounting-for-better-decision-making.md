@@ -7,6 +7,8 @@ categories:
   - Leadership
   - Technology
   - Finance
+tags: ["Lãnh đạo", "Kinh tế"]
+description: "Financial Literacy for Managers (2012) gives you important tools. It helps you change difficult financial reports into clear ideas for your business. You will learn to read your company’s “dashboard.” This includes the balance sheet, income statement, and cash flow statement. Thi..."
 ---
 
 *Author: **Richard A. Lambert***

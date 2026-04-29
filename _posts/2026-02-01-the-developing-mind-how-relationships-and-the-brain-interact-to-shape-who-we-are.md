@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Tâm lý", "Khoa học"]
+description: "The Developing Mind (1999) takes a full look at how the mind grows. It explains how the mind comes from the complex way our brain, body, and relationships work together. The book uses research from many different areas of study. It shows how we become aware and how our sense of s..."
 ---
 
 *Author: **Daniel J. Siegel***

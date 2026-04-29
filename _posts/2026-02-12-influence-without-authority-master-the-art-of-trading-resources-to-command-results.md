@@ -3,6 +3,8 @@ layout: "post"
 title: "Influence Without Authority - Master the art of trading resources to command results"
 date: "2026-02-12"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Influence Without Authority (2005) gives you ways to get things done and earn respect, even when you can't tell people what to do. You will learn about the 'give and take' rule. This will help you see what your colleagues need. Then you can offer what you have to get their help...."
 ---
 
 *Author: **Allan R. Cohen***

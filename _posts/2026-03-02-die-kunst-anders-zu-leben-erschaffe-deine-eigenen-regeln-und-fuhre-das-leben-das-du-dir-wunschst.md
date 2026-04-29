@@ -3,6 +3,8 @@ layout: "post"
 title: "The Art of Living Differently - Create Your Own Rules"
 date: "2026-03-02"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Life is too short to let others decide your path. These blinks strongly argue for what traveler and free spirit Chris Guillebeau calls 'non-conformity' or The Art of Non-Conformity. Find out why you also have the right to live an unusual life. Learn why you can do amazing things...."
 ---
 
 *Author: **Chris Guillebeau***

@@ -5,6 +5,8 @@ date: "2026-03-27"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Evil Robots, Killer Computers, and Other Myths (2021) clears up the scary stories about artificial intelligence (AI). It explains how AI really works. And it shows why the bad futures you see in films are just imagination. It looks at today’s amazing AI tools, like face recogniti..."
 ---
 
 *Author: **Steven Shwartz***

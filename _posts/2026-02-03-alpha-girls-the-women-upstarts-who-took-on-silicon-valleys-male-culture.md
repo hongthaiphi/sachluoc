@@ -3,6 +3,8 @@ layout: "post"
 title: "Alpha Girls - The Women Upstarts Who Took On Silicon Valley’s Male Culture"
 date: "2026-02-03"
 published: true
+tags: ["Xã hội"]
+description: "Alpha Girls (2019) tells the story of four leading women in venture capital. Their names are Magdalena Yesil, Mary Jane Elmore, Theresia Gouw, and Sonja Hoel Perkins. They helped build important Silicon Valley companies like Salesforce, Facebook, and McAfee. They did this while w..."
 ---
 
 *Author: **Julian Guthrie***

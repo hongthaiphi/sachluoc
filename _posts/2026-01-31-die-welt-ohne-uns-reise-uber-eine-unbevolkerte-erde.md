@@ -3,6 +3,8 @@ layout: "post"
 title: "The World Without Us - Journey Through an Unpopulated Earth"
 date: "2026-01-31"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In The World Without Us, Alan Weisman writes about a made-up situation. In this situation, all people suddenly disappear from Earth. Nature then takes back our living areas. In many thousands of years, most signs of humans will be gone. This is because humans have lived on Earth..."
 ---
 
 *Author: **Alan Weisman***

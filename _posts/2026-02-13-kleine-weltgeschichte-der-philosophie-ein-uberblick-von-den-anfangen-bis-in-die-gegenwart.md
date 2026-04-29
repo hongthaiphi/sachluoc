@@ -5,6 +5,8 @@ date: "2026-02-13"
 published: true
 categories:
   - Philosophy
+tags: ["Triết học"]
+description: "How can we live well? Is there a God? What is truth? And of course, the biggest question of all: What is the meaning of life? To find answers, A Short World History of Philosophy (1990) looks at the main ideas and thinkers in philosophy through time and around the world."
 ---
 
 *Author: **Hans Joachim Störig***

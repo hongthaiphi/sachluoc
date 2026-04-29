@@ -3,6 +3,8 @@ layout: "post"
 title: "What You Should Know About Inflation - Why Your Wealth Shrinks"
 date: "2025-12-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "What You Should Know About Inflation (1968, new edition 2017) explains how inflation starts. It shows why it eats up savings and income. It also covers its bad effects on society. You will learn how to protect yourself from inflation. And you will find out what needs to happen in..."
 ---
 
 *Author: **Henry Hazlitt***

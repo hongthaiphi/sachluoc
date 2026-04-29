@@ -5,6 +5,8 @@ date: "2026-03-16"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "This book looks at how people shop. It is based on careful observations of shoppers. Why We Buy? (2000) shares ideas on how to design stores. These ideas help match a store's design to what customers usually do. These summaries explain why shopping needs to be a special experienc..."
 ---
 
 *Author: **Paco Underhill***

@@ -3,6 +3,8 @@ layout: "post"
 title: "The World's Worst Bet - How the Globalization Gamble Went Wrong (and What Would Make It Right)"
 date: "2025-12-11"
 published: true
+tags: ["Kinh tế", "Xã hội"]
+description: "The World’s Worst Bet (2025) tells the interesting story of how America believed that free trade and open markets would change the world – but instead caused problems at home. It shows what happened to people and politics, from factory towns that lost many jobs because of China,..."
 ---
 
 *Author: **David J. Lynch***

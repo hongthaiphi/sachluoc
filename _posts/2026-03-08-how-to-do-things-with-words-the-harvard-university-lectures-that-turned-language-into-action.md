@@ -3,6 +3,8 @@ layout: "post"
 title: "How to Do Things with Words - The Harvard University Lectures that Turned Language into Action"
 date: "2026-03-08"
 published: true
+tags: ["Phát triển bản thân"]
+description: "How to Do Things with Words (1962) begins with a simple but important idea: when we speak, we are also doing things. The book explains how promises, apologies, and statements quietly build our society every day. This is a book that might change how you think about language."
 ---
 
 *Author: **J. L. Austin***

@@ -6,6 +6,8 @@ published: true
 categories:
   - Technology
   - Finance
+tags: ["Phát triển bản thân"]
+description: "The book Arguing Under Stress (2004) teaches you how to stay calm in stressful work situations. It shows you ways to handle unfair attacks well and calmly. Always treat others with respect and fairness. Do not attack people back personally."
 ---
 
 *Author: **Albert Thiele***

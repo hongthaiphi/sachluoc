@@ -3,6 +3,8 @@ layout: "post"
 title: "The Art of Action - How to Close the Gaps between Plans, Actions, and Results"
 date: "2025-12-20"
 published: true
+tags: ["Lãnh đạo"]
+description: "The Art of Action (2010) explains why companies often fail. They don't achieve what they plan, or they don't get the results they want. The book uses ideas from old Prussian army strategies. It says that leaders should give clear goals. Then, they should let teams decide how to r..."
 ---
 
 *Author: **Stephen Bungay***

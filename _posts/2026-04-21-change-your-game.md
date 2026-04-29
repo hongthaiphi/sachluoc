@@ -3,6 +3,8 @@ layout: "post"
 title: "Change Your Game"
 date: "2026-04-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: J. Chad Mitchell | Category: Motivation & InspirationWHAT’S IN IT FOR ME? BE THE LEADER THE WORLD NEEDS."
 ---
 
 **Author:** J. Chad Mitchell | **Category:** Motivation & Inspiration## WHAT’S IN IT FOR ME? BE THE LEADER THE WORLD NEEDS.

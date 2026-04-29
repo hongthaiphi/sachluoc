@@ -3,6 +3,8 @@ layout: "post"
 title: "The Care Lie"
 date: "2026-04-28"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The big worry about demographic change is talked about everywhere. For many years, many politicians and experts agree that the old idea of a generation contract with a state pension will no longer work. If you trust the old way where young people pay pensions for the old, you may..."
 ---
 
 **Author:** Holger Balodis & Dagmar Hühne | **Category:** Wirtschaft

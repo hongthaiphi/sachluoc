@@ -3,6 +3,8 @@ layout: "post"
 title: "Your Best Meeting Ever"
 date: "2026-04-21"
 published: true
+tags: ["Lãnh đạo"]
+description: "Author: Rebecca Hinds | Category: Communication SkillsWHAT’S IN IT FOR ME? A SET OF SIMPLE RULES FOR FEWER, SHARPER MEETINGS THAT GET RESULTS."
 ---
 
 **Author:** Rebecca Hinds | **Category:** Communication Skills## WHAT’S IN IT FOR ME? A SET OF SIMPLE RULES FOR FEWER, SHARPER MEETINGS THAT GET RESULTS.

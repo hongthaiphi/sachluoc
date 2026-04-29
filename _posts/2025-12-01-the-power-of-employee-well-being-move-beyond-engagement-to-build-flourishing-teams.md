@@ -5,6 +5,8 @@ date: "2025-12-01"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo", "Tâm lý"]
+description: "The Power of Employee Well-Being (2025) says we should stop using old ways to measure how engaged employees are. Instead, companies should focus on all their needs. This includes their feelings and their freedom to make choices. When companies focus on well-being, both people and..."
 ---
 
 *Author: **Mark C. Crowley***

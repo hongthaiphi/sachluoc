@@ -3,6 +3,8 @@ layout: "post"
 title: "Your Job Your Passion - Find Work You Love"
 date: "2026-04-01"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Your Job – Your Passion (2025) shows how to leave the 'rat race' and start creating your own path. Learn about your strengths, find a guide, and take brave steps to create your dream job."
 ---
 
 *Author: **Stephen R. Covey***

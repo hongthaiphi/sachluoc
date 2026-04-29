@@ -5,6 +5,8 @@ date: "2025-12-19"
 published: true
 categories:
   - Learning
+tags: ["Phát triển bản thân"]
+description: "The book Vermächtnis (2012) is about early human societies. Thousands of years ago, hunter-gatherers lived in groups. These Blinks will explain how our ancestors lived together. You will also learn how we are different from them and what we can learn from them."
 ---
 
 *Author: **Jared Diamond***

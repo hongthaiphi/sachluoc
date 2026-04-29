@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Technology
+tags: ["Lãnh đạo"]
+description: "The Devil Emails at Midnight (2025) shows common types of bad bosses. It uses real work stories. This helps people see these patterns in themselves and their companies. It gives useful ways to act. For example, it teaches you to know yourself better. To set clear goals. To stop s..."
 ---
 
 *Author: **Mita Mallick***

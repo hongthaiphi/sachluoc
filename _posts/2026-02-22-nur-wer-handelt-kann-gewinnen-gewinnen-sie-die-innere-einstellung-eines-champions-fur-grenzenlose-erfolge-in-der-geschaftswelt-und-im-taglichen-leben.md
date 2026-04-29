@@ -3,6 +3,8 @@ layout: "post"
 title: "Only Those Who Act Can Win - The Champion's Mindset for Unlimited Success"
 date: "2026-02-22"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Psychology of Winning (2001) reveals the secrets of success. It shows ten key qualities that can help anyone become a true winner."
 ---
 
 *Author: **Denis Waitley***

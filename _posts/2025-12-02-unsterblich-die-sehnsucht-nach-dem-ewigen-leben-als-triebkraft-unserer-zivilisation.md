@@ -3,6 +3,8 @@ layout: "post"
 title: "Immortality - The Longing for Eternal Life as the Driving Force of Our Civilization"
 date: "2025-12-02"
 published: true
+tags: ["Tâm lý"]
+description: "The desire for eternal life has always been very strong for people. These Blinks about Stephen Cave's book Unsterblich (2012) show the amazing ways people in the past tried to trick death. They will not only take you through the history of immortality in different cultures. They..."
 ---
 
 *Author: **Stephen Cave***

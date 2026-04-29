@@ -5,6 +5,8 @@ date: "2026-01-06"
 published: true
 categories:
   - Technology
+tags: ["Xã hội"]
+description: "The Atlas of Christmas (2020) looks at how Christmas is celebrated around the world. It shows customs that are cozy and kind, but also strange and surprising. The book takes you on a trip through each country. It shows holiday foods, customs, characters, and old stories. It expla..."
 ---
 
 *Author: **Alex Palmer***

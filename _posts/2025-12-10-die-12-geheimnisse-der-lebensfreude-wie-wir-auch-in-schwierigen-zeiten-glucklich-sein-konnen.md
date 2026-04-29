@@ -3,6 +3,8 @@ layout: "post"
 title: "The 12 Secrets of Joy in Life - How to Be Happy Even in Difficult Times"
 date: "2025-12-10"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Joy in life is not by chance. It's a choice you make. In 12 Secrets of Life's Joys (2025), we show you how to fill your daily life with more ease, thanks, and hope. You will learn to focus your energy on happiness."
 ---
 
 *Author: **Anjana Gill***

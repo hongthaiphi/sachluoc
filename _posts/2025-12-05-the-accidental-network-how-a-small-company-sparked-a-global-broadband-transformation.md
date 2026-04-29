@@ -5,6 +5,8 @@ date: "2025-12-05"
 published: true
 categories:
   - Business
+tags: ["Công nghệ"]
+description: "The Accidental Network (2025) tells the story of how LANcity created the cable modem. This invention changed home internet a lot. It made internet much faster, replacing slow dial-up connections with the speedy internet we have now. The book explains how changes in the industry a..."
 ---
 
 *Author: **Rouzbeh Yassini-Fard & Stewart Schley***

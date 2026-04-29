@@ -3,6 +3,8 @@ layout: "post"
 title: "The Art of Less - How to Focus on What Really Matters at Work"
 date: "2026-01-03"
 published: true
+tags: ["Lãnh đạo"]
+description: "The Art of Less (2025) looks at how daily problems stop us from doing important work and make companies slow. It shows how too many rules, tasks, and things we expect create “sludge”. This sludge takes away energy and makes work worse. The book also gives useful ways to remove th..."
 ---
 
 *Author: **Mats Alvesson***

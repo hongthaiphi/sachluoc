@@ -3,6 +3,8 @@ layout: "post"
 title: "Untitled Book"
 date: "2026-04-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "TIÊU ĐỀ: Your Best Meeting Ever TÁC GIẢ: Rebecca Hinds DANH MỤC: Communication Skills ========================================"
 ---
 
 *Author: **Unknown Author***

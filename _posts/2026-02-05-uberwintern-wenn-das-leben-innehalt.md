@@ -3,6 +3,8 @@ layout: "post"
 title: "Overwintering - When Life Pauses"
 date: "2026-02-05"
 published: true
+tags: ["Tâm lý"]
+description: "Überwintern (2021) praises the long, dark, and cold time of year. We usually fight against winter. We see it as an enemy and a problem. But winter is a very important part of nature's cycle. Katherine May went through a difficult personal winter. During this time, she learned fro..."
 ---
 
 *Author: **Katherine May***

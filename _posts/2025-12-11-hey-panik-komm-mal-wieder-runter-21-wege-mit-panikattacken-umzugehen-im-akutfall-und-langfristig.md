@@ -3,6 +3,8 @@ layout: "post"
 title: "Hey Panik, komm mal wieder runter! - 21 Wege mit Panikattacken umzugehen - im Akutfall und langfristig"
 date: "2025-12-11"
 published: true
+tags: ["Tâm lý"]
+description: "Panic attacks seem to come from nowhere. They feel very strong and out of control. But you can learn to understand and calm them. The book Hey Panik, komm mal wieder runter! (2025) uses expert knowledge and care. It shows you how to slowly break free from the cycle of fear. You w..."
 ---
 
 *Author: **Klara Hanstein***

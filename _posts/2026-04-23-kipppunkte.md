@@ -5,6 +5,8 @@ date: "2026-04-23"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Disappointment in politics, extremism, fake news, not to forget extreme wealth, turbo capitalism, and climate disaster."
 ---
 
 **Author:** Georg Diez | **Category:** Geschichte

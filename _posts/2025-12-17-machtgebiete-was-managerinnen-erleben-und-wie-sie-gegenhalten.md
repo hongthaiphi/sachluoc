@@ -5,6 +5,8 @@ date: "2025-12-17"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo", "Xã hội"]
+description: "Machtgebiete (2025) talks about the daily challenges women in leadership roles face. Here, you will learn about the difficulties and sexist attacks German female managers deal with. You will also see why there is still reason to hope."
 ---
 
 *Author: **Anna Sophie Herken***

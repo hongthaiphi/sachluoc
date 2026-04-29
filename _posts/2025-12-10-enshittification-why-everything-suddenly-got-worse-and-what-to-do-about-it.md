@@ -3,6 +3,8 @@ layout: "post"
 title: "Enshittification - Why Everything Suddenly Got Worse and What to Do About It"
 date: "2025-12-10"
 published: true
+tags: ["Công nghệ"]
+description: "Enshittification (2025) explains why many important online services are getting worse at the same time. It shows a four-step plan that platforms use. First, they attract users. Then, they make users stay. Finally, they take more and more value from them. In the end, they leave be..."
 ---
 
 *Author: **Cory Doctorow***

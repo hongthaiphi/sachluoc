@@ -3,6 +3,8 @@ layout: "post"
 title: "This Is for Everyone - The Unfinished Story of the World Wide Web"
 date: "2025-12-04"
 published: true
+tags: ["Công nghệ"]
+description: "This Is for Everyone (2025) explains how one man’s simple idea at CERN became the World Wide Web that connects us all today. It talks about the first internet browser fights and also bigger discussions about privacy, social media, and AI. The book shows that the web's open nature..."
 ---
 
 *Author: **Tim Berners-Lee***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Capitalism - A Global History"
 date: "2026-03-09"
 published: true
+tags: ["Xã hội"]
+description: "Capitalism (2025) tells the story of how our current economic system started and grew. It looks at a thousand years of history and covers six continents. It grew from many different trade networks in Asia, Africa, and Europe. Then, capitalism changed the world very quickly and st..."
 ---
 
 *Author: **Sven Beckert***

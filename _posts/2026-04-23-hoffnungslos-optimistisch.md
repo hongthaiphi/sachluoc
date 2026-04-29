@@ -3,6 +3,8 @@ layout: "post"
 title: "Hopelessly Optimistic"
 date: "2026-04-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Today, if you look honestly at the world, you might think we are ruining our planet."
 ---
 
 **Author:** Dirk Steffens | **Category:** Wissenschaft

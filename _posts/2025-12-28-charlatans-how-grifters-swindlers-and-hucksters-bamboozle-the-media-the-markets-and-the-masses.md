@@ -3,6 +3,8 @@ layout: "post"
 title: "Charlatans - How Grifters, Swindlers, and Hucksters Bamboozle the Media, the Markets, and the Masses"
 date: "2025-12-28"
 published: true
+tags: ["Kinh tế", "Xã hội"]
+description: "Charlatans (2025) looks at why smart people believe obvious scams. It shows the mind tricks and tech weaknesses that make anyone an easy target for bad people. It explores how today's tricksters use the same old methods as con artists from the past. But now, they spread fast arou..."
 ---
 
 *Author: **Moises Naim***

@@ -5,6 +5,8 @@ date: "2026-02-16"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "These blinks about So Good They Can't Ignore You (2012) look at how to find a job that brings both success and happiness. Many self-help authors and gurus tell you to search for your calling. But this book says that is not the answer. Instead, it is better to get what is called a..."
 ---
 
 *Author: **Cal Newport***

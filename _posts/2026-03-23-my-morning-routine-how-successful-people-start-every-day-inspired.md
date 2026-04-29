@@ -3,6 +3,8 @@ layout: "post"
 title: "My Morning Routine - How Successful People Start Every Day Inspired"
 date: "2026-03-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The authors talked to 64 very successful people. This book, My Morning Routine (2018), is a useful guide. It helps people who want to wake up early. You might not like your alarm clock. You might often use your phone's snooze button. But your mornings don't have to be difficult...."
 ---
 
 *Author: **Benjamin Spall and Michael Xander***

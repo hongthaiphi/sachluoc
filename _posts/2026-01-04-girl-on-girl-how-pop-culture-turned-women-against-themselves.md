@@ -5,6 +5,8 @@ date: "2026-01-04"
 published: true
 categories:
   - Technology
+tags: ["Xã hội"]
+description: "Girl on Girl (2025) looks at how pop culture told a harmful lie to a whole generation of women. This lie said that being treated like an object was actually a form of power. The book shows how postfeminism in the 90s, the rise of a porn-like style, and the growth of gossip news m..."
 ---
 
 *Author: **Sophie Gilbert***

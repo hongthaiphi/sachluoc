@@ -5,6 +5,8 @@ date: "2026-03-10"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Next Renaissance (2025) looks at how AI can offer endless thinking power almost for free. This will change work, health care, education, and money management. It also looks at the technical and social limits that will decide what happens. It talks about the good things and th..."
 ---
 
 *Author: **Zack Kass***

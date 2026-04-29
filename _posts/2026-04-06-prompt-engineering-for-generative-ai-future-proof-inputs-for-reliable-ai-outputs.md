@@ -5,6 +5,8 @@ date: "2026-04-06"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Prompt Engineering for Generative AI (2024) is a complete guide to using AI that creates text and images. It explains five main rules for making good prompts. These rules help you use large language models like ChatGPT and image models like Stable Diffusion. The book also looks a..."
 ---
 
 *Author: **James Phoenix***

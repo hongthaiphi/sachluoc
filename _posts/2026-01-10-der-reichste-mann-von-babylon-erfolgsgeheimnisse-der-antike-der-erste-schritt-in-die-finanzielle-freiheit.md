@@ -5,6 +5,8 @@ date: "2026-01-10"
 published: true
 categories:
   - Finance
+tags: ["Kinh tế"]
+description: "In his classic book, The Richest Man in Babylon, George Samuel Clason explains basic rules for managing your money. These rules have not changed since ancient Babylon. Why do some people become rich and others do not? How can we make our money work for us? Clason shares rules and..."
 ---
 
 *Author: **George Samuel Clason***

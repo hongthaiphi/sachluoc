@@ -5,6 +5,8 @@ date: "2026-02-26"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Fountainhead (1943) tells the story of a strong-willed architect. It shows the hard fight between a person who creates and society's common way of thinking. The book asks if life's goal is to help others, or to find your own happiness through your work. It shows how a person..."
 ---
 
 *Author: **Ayn Rand***

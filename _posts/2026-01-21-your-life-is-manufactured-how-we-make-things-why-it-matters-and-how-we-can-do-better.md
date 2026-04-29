@@ -3,6 +3,8 @@ layout: "post"
 title: "Your Life Is Manufactured - How We Make Things, Why It Matters, and How We Can Do Better"
 date: "2026-01-21"
 published: true
+tags: ["Xã hội"]
+description: "Your Life Is Manufactured (2025) looks at the hidden ways things are made. It follows how products travel from factories to when we use them. It shows how making things has greatly changed our society and the environment. We often don't think about these changes. When we understa..."
 ---
 
 *Author: **Tim Minshall***

@@ -3,6 +3,8 @@ layout: "post"
 title: "The Life-Changing Magic of Tidying Up - The Japanese Art of Decluttering and Organizing"
 date: "2026-04-07"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Life-Changing Magic of Tidying Up is more than a book about cleaning. It is a very popular book that has helped many people in Japan, Europe, and the United States. The Wall Street Journal even called Marie Kondo’s KonMari method a 'cult of tidying up.' This method uses ideas..."
 ---
 
 *Author: **Marie Kondo***

@@ -5,6 +5,8 @@ date: "2026-03-06"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "This book explains what makes a good salesperson different from a bad one. It shows what skills you need to be successful. It doesn't focus on special sales tricks to learn by heart. Instead, it teaches you the right attitude and mindset that a top salesperson has."
 ---
 
 *Author: **Martin Limbeck***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Switch - Dare to Change and Win"
 date: "2026-03-13"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Switch (2010) looks at why it's often hard for people to change their behavior. It shows ways to make changes easier. This happens by understanding how our brain works better. The book shares simple but effective strategies for change. These are based on scientific studies and pe..."
 ---
 
 *Author: **Chip Heath and Dan Heath***

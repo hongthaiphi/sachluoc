@@ -5,6 +5,8 @@ date: "2026-01-25"
 published: true
 categories:
   - Learning
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "The Lost Art of Listening (2009) explains why conversations sometimes go wrong. It shows how people, even those who mean well, often don't truly listen to each other. The book talks about strong feelings that stop people from understanding. It also gives clear and simple ways to..."
 ---
 
 *Author: **Michael P. Nichols***

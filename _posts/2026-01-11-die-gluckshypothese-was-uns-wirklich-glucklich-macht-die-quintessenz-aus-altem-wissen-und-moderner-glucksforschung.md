@@ -3,6 +3,8 @@ layout: "post"
 title: "The Happiness Hypothesis - What Really Makes Us Happy"
 date: "2026-01-11"
 published: true
+tags: ["Phát triển bản thân"]
+description: "What is happiness and how do we find it? Jonathan Haidt answers this question with practical ideas, not with deep philosophy. These summaries (Blinks) of The Happiness Hypothesis (2009) use years of research to help us every day. They explain how to stop arguments about washing d..."
 ---
 
 *Author: **Jonathan Haidt***

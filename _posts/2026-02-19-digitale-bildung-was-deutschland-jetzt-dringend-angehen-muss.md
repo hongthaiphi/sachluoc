@@ -6,6 +6,8 @@ published: true
 categories:
   - Technology
   - Learning
+tags: ["Phát triển bản thân"]
+description: "The book Digitale Bildung (2025) is about the future of schools. It asks how we can best prepare teachers, children, and classrooms for the digital age."
 ---
 
 *Author: **Nicolas Colsman***

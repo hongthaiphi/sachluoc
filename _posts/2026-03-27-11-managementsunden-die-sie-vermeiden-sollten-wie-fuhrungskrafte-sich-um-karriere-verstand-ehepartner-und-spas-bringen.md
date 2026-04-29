@@ -5,6 +5,8 @@ date: "2026-03-27"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "The book 11 Management Sins You Should Avoid (2009) is about how to manage well. It helps you do this without getting too stressed. These summaries show you how to enjoy your job instead. You will learn to remove the usual risks that cause management mistakes."
 ---
 
 *Author: **Klaus Schuster***

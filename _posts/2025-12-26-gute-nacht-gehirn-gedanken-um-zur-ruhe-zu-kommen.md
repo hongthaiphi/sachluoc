@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Philosophy
+tags: ["Tâm lý", "Khoa học"]
+description: "Gute Nacht, Gehirn (2025) looks at how our mind moves between stress and rest. It also shows how thinking, feeling, and sensing work together in the brain. We give you scientific ideas. We connect them with tips you can use every day. These tips help you control your brain better..."
 ---
 
 *Author: **Volker Busch***

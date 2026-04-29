@@ -3,6 +3,8 @@ layout: "post"
 title: "Positioning - How Brands Survive in Saturated Markets"
 date: "2025-12-13"
 published: true
+tags: ["Kinh doanh"]
+description: "The book Positioning (1980) is named after a new marketing idea. Al Ries and Jack Trout developed this idea in the 1970s. It explains how to place a product in the market. This helps it get a big share of customers and keep it. The book talks about different ways companies can do..."
 ---
 
 *Author: **Al Ries & Jack Trout***

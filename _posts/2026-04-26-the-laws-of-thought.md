@@ -3,6 +3,8 @@ layout: "post"
 title: "The Laws of Thought"
 date: "2026-04-26"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Tom Griffiths | Category: PsychologyWHAT’S IN IT FOR ME? UNCOVER THE LAWS THAT GOVERN OUR MINDS."
 ---
 
 **Author:** Tom Griffiths | **Category:** Psychology## WHAT’S IN IT FOR ME? UNCOVER THE LAWS THAT GOVERN OUR MINDS.

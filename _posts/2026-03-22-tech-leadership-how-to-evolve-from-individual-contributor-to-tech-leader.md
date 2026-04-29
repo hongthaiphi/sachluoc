@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Technology
+tags: ["Lãnh đạo"]
+description: "Tech Leadership (2023) is a guide for people who work in tech. It helps software engineers and tech staff. It is for those who are moving from doing their own work to leading teams and managing others. It uses true stories from big tech companies. It offers ideas and plans to hel..."
 ---
 
 *Author: **Andrew Swerdlow***

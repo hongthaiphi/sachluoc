@@ -3,6 +3,8 @@ layout: "post"
 title: "The Presentation of Self in Everyday Life - A classic study of human behavior"
 date: "2026-03-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Presentation of Self in Everyday Life (1956) is a well-known book about society. It uses ideas from theater to look at how people act in social situations."
 ---
 
 *Author: **Erving Goffman***

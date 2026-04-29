@@ -5,6 +5,8 @@ date: "2026-03-25"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Ichigo Ichie (2019) is a guide to a Japanese idea. It teaches you to value every moment, as each moment happens only once. This idea comes from Zen Buddhism and the tea ceremony. It helps you wake up all five senses. It also helps you truly be in the present moment. This can chan..."
 ---
 
 *Author: **Héctor García***

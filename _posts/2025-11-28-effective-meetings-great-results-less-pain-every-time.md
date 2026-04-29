@@ -5,6 +5,8 @@ date: "2025-11-28"
 published: true
 categories:
   - Technology
+tags: ["Lãnh đạo"]
+description: "Effective Meetings (2025) is a useful book about making meetings shorter, clearer, and more helpful – whether you lead them or just take part. It gives simple tips to stop wasting time, focus better, and turn talks into real results. Step by step, it shows you how to plan, run, a..."
 ---
 
 *Author: **Chris Fenning***

@@ -5,6 +5,8 @@ date: "2026-01-15"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "The book 'The Need to Lead' (2025) explains that leadership is the main answer to all problems. This is true for your job, your family, or your local community. It takes ideas from tough military flying and fighting. It also uses lessons from ground battles. It turns these lesson..."
 ---
 
 *Author: **Dave Berke***

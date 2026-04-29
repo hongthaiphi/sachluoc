@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Xã hội", "Khoa học"]
+description: "Warhead (2025) looks at war using brain science. When we study the brain, we can understand better why people fight. We can also learn how people act in a fight. And we can see if war will always happen."
 ---
 
 *Author: **Nicholas Wright***

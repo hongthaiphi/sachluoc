@@ -6,6 +6,8 @@ published: true
 categories:
   - Finance
   - Learning
+tags: ["Phát triển bản thân"]
+description: "30 Things You Don't Have To Have Achieved By 30 (2025) helps many people, especially women, feel less pressure today. We look at expectations that people talk about and those they don't. We show how happiness can be found without always meeting demands or trying to be perfect."
 ---
 
 *Author: **Christina Calaminus***

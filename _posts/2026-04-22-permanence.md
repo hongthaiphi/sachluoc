@@ -3,6 +3,8 @@ layout: "post"
 title: "Permanence"
 date: "2026-04-22"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Lisa Broderick | Category: Motivation & InspirationWHAT’S IN IT FOR ME? LEARN HOW TO MAKE YOUR RESOLUTIONS STICK."
 ---
 
 **Author:** Lisa Broderick | **Category:** Motivation & Inspiration## WHAT’S IN IT FOR ME? LEARN HOW TO MAKE YOUR RESOLUTIONS STICK.

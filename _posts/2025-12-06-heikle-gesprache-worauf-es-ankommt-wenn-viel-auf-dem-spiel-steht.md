@@ -3,6 +3,8 @@ layout: "post"
 title: "Difficult Conversations - Essential Skills When Stakes Are High"
 date: "2025-12-06"
 published: true
+tags: ["Lãnh đạo"]
+description: "The book Heikle Gespräche (2002) teaches you how to have better conversations. These are talks where important things are decided, and we often feel scared about them. These summaries help you feel less afraid of tricky conversations. They give you ideas and tips to stay calm."
 ---
 
 *Author: **Kerry Patterson***

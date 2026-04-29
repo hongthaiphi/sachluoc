@@ -5,6 +5,8 @@ date: "2026-02-28"
 published: true
 categories:
   - Business
+tags: ["Kinh doanh"]
+description: "Girl Code (2015) helps women change common ideas about competition and self-worth. It asks them to focus completely on having plenty, being real, working together, learning from mistakes, and working very hard. This book combines new ways of thinking with useful tips. It encourag..."
 ---
 
 *Author: **Cara Alwill Leyba***

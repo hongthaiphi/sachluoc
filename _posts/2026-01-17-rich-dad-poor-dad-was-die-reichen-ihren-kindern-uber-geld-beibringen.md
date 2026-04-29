@@ -6,6 +6,8 @@ published: true
 categories:
   - Technology
   - Finance
+tags: ["Phát triển bản thân"]
+description: "Rich Dad, Poor Dad tells a personal story and gives advice. It shows the steps to become financially free and rich. The author says this book teaches lessons that society never gives us. It shares knowledge that rich people teach their children. This knowledge is needed to become..."
 ---
 
 *Author: **Robert T. Kiyosaki***

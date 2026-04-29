@@ -3,6 +3,8 @@ layout: "post"
 title: "Erfahrung beschleunigen! - Erfolgsprinzipien in einer fluiden Welt"
 date: "2026-01-02"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Speed Up Experience! (2025) explores how companies can learn faster and make smarter decisions in a world that is always changing. We will show you 6 key principles for success. These principles teach you that real business wisdom comes from learning from your experiences. You th..."
 ---
 
 *Author: **Paul M. Achleitner***

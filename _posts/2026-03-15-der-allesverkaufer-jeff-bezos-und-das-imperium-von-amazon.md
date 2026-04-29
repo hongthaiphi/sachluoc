@@ -3,6 +3,8 @@ layout: "post"
 title: "The Everything Seller - Jeff Bezos and the Amazon Empire"
 date: "2026-03-15"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Amazon started in Jeff Bezos's garage. He had a vision for an 'Everything Store.' It grew into a multi-billion dollar company. This was thanks to its founder's unique way of thinking. These Blinks for The Everything Store (2013) will show you how Bezos made his vision come true."
 ---
 
 *Author: **Brad Stone***

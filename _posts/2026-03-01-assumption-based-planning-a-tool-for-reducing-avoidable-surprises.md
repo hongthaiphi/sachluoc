@@ -3,6 +3,8 @@ layout: "post"
 title: "Assumption-Based Planning - A Tool for Reducing Avoidable Surprises"
 date: "2026-03-01"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Assumption-Based Planning (2002) shows a new way to think about plans. You don't try to guess the future. Instead, this method helps you find the weak parts in any plan. These are the hidden ideas that, if wrong, can make everything fail. You will get useful tools to check your g..."
 ---
 
 *Author: **James A. Dewar***

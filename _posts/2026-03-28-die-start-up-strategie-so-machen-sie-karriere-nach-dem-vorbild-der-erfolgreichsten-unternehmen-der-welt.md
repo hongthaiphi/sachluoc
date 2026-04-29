@@ -5,6 +5,8 @@ date: "2026-03-28"
 published: true
 categories:
   - Finance
+tags: ["Kinh tế"]
+description: "The Startup Strategy is a guide. It shows how we can use methods from startup companies. We can use them for our own career success. This helps us become more adaptable, build relationships, and take career opportunities."
 ---
 
 *Author: **Reid Hoffman & Ben Casnocha***

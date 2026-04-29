@@ -3,6 +3,8 @@ layout: "post"
 title: "Wie konnte das geschehen? - Deutschland 1933 bis 1945"
 date: "2026-02-12"
 published: true
+tags: ["Phát triển bản thân"]
+description: "There is a question that stays with every German: How could a whole country follow the criminal Nazi regime into ruin? In Wie konnte das geschehen? (2025), we look at the social, political, and psychological forces that supported the Nazi state and made it possible. We also learn..."
 ---
 
 *Author: **Götz Aly***

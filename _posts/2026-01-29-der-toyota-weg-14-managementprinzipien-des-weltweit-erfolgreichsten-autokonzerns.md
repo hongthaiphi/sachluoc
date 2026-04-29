@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Finance
+tags: ["Lãnh đạo", "Kinh tế", "Kinh doanh"]
+description: "The Toyota Way (2006) explains how Toyota's ideas made it a world leader in efficient and sustainable management. The Toyota Production System mainly uses lean production and constant improvement. It puts people and their own responsibility at the center of all processes. We will..."
 ---
 
 *Author: **Jeffrey K. Liker***

@@ -5,6 +5,8 @@ date: "2025-12-22"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "The Design of Everyday Things (2016) is a must-read for product designers and everyone who works with them. But it also offers ideas for anyone interested in design. It explains what makes good design. It also shows how people use design. It teaches why you should never blame the..."
 ---
 
 *Author: **Donald A. Norman***

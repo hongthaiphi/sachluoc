@@ -3,6 +3,8 @@ layout: "post"
 title: "Why Do I Keep Doing This? - Unlearn the Habits Keeping You Stuck and Unhappy"
 date: "2026-02-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Why Do I Keep Doing This? (2025) looks at how we learned to cope as children. These old ways of dealing with things keep adults stuck in bad habits, like always trying to please others or get their approval. The book shows how these actions, which once kept us safe, now make us l..."
 ---
 
 *Author: **Kati Morton***

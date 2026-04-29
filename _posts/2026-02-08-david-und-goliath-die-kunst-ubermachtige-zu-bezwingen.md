@@ -3,6 +3,8 @@ layout: "post"
 title: "David and Goliath - The Art of Defeating the Mighty"
 date: "2026-02-08"
 published: true
+tags: ["Phát triển bản thân"]
+description: "David and Goliath (2013) tells stories about underdogs. These underdogs beat stronger opponents, even when no one expected them to. The stories change our usual ideas about success. They show the bad sides of being privileged. They also show how difficulties can actually help us...."
 ---
 
 *Author: **Malcolm Gladwell***

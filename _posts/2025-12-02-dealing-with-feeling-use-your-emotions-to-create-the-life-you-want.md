@@ -5,6 +5,8 @@ date: "2025-12-02"
 published: true
 categories:
   - Psychology
+tags: ["Tâm lý"]
+description: "“Dealing with Feeling” (2025) looks at why people find it hard to understand and control their emotions. This problem causes many difficulties in all parts of life. The book gives a simple plan to learn emotional skills. These are skills that schools and families often do not tea..."
 ---
 
 *Author: **Marc Brackett***

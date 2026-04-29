@@ -3,6 +3,8 @@ layout: "post"
 title: "The Battle for Power - Myths, Power and Monopolies"
 date: "2026-02-01"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Kampf um Strom (2013) explains the main connections and reasons behind Germany's energy transition. It also corrects common biases, myths, and lies about the energy transition."
 ---
 
 *Author: **Claudia Kemfert***

@@ -5,6 +5,8 @@ date: "2025-12-26"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Team Intelligence (2025) shows a surprising truth: great leadership is not really about the leader. It's about building teams that work together to be much better than each person alone. This book looks at what makes a team smart. It explains why teams of very skilled people ofte..."
 ---
 
 *Author: **Jon Levy***

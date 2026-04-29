@@ -5,6 +5,8 @@ date: "2025-12-07"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Strong Ground (2025) is a book that helps you become a brave leader and grow as a person. It is for a time when things are very unsure, confusing, and changing fast. The book gives you ways of thinking and skills to find and connect with your strong base again. This helps you liv..."
 ---
 
 *Author: **Brené Brown***

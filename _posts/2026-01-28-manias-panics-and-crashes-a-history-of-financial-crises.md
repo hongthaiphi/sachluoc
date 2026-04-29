@@ -3,6 +3,8 @@ layout: "post"
 title: "Manias, Panics, and Crashes - A History of Financial Crises"
 date: "2026-01-28"
 published: true
+tags: ["Tâm lý", "Kinh tế", "Xã hội"]
+description: "Manias, Panics, and Crashes (1978; 8th edition 2023) looks at financial problems over 300 years. It finds common patterns in market ups and downs. It shows how people buying risky things, too much lending, and great excitement have often caused fear and market crashes. This has h..."
 ---
 
 *Author: **Robert Z. Aliber***

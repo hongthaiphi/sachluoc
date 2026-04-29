@@ -3,6 +3,8 @@ layout: "post"
 title: "What's Your Dream? - Find Your Passion. Love Your Work. Build a Richer Life."
 date: "2025-12-29"
 published: true
+tags: ["Phát triển bản thân"]
+description: "What’s Your Dream? (2025) looks at how having a personal dream can give you strong inner drive, a clear path, and strength. It questions old ideas that stop people from chasing their real wishes. It also gives a simple way to find your true dream by asking three main questions. T..."
 ---
 
 *Author: **Simon Squibb***

@@ -3,6 +3,8 @@ layout: "post"
 title: "The Deception of Icarus"
 date: "2026-04-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Seth Godin | Category: Motivación e inspiración¿QUÉ ME APORTA ESTE TÍTULO? UN CÓDIGO CREATIVO PARA ACTIVAR TU ARTISTA INTERIOR."
 ---
 
 **Author:** Seth Godin | **Category:** Motivación e inspiración## ¿QUÉ ME APORTA ESTE TÍTULO? UN CÓDIGO CREATIVO PARA ACTIVAR TU ARTISTA INTERIOR.

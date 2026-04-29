@@ -3,6 +3,8 @@ layout: "post"
 title: "Chào mừng đến với Sách Lược"
 date: "2026-04-29"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Đây là bài viết đầu tiên trên blog Sách Lược. Blog này được tạo để chia sẻ những suy nghĩ, kiến thức và trải nghiệm của tôi."
 ---
 
 # Chào mừng 👋

@@ -3,6 +3,8 @@ layout: "post"
 title: "Being With Me - Self-Love as the Basis for Connection"
 date: "2026-04-07"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The book Mit mir sein (2017) talks about the role of self-love in your life. It's not just a trend. Self-love is the base for good relationships and for feeling happy. Here, you will learn what happens when you don't love yourself enough. You will also learn what you can do to be..."
 ---
 
 *Author: **Michael Lehofer***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Success Is Within You - Master People, Solve Problems, Assert Yourself"
 date: "2026-01-20"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Success Is Within You (1995) is a classic book on personal growth. Dale Carnegie was a pioneer in self-improvement writing in the early 20th century. But many of his ideas about success and leadership still sound like modern management advice. It's not strict rules and pressure t..."
 ---
 
 *Author: **Dale Carnegie***

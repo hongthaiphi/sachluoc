@@ -5,6 +5,8 @@ date: "2026-04-01"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "So You Want to Own Greenland? (2025) looks at how this big, icy island always gets attention from explorers, powerful countries, and big nations. Greenland’s history is full of surprises. It goes from old Viking homes that disappeared to secret military bases from the Cold War. T..."
 ---
 
 *Author: **Elizabeth Buchanan***

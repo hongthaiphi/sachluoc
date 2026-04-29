@@ -3,6 +3,8 @@ layout: "post"
 title: "Chokepoints - How the Global Economy Became a Weapon of War"
 date: "2025-12-05"
 published: true
+tags: ["Kinh tế"]
+description: "Chokepoints (2025) is an interesting and detailed book. It talks about how the United States changed economic warfare in modern times. It shows how things like sanctions, freezing money, and controlling exports have reshaped world politics. For example, they greatly reduced Iran’..."
 ---
 
 *Author: **Edward Fishman***

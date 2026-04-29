@@ -3,6 +3,8 @@ layout: "post"
 title: "Demenz - Gezielt vorbeugen, ganzheitlich verstehen, liebevoll begleiten"
 date: "2026-01-16"
 published: true
+tags: ["Tâm lý", "Khoa học"]
+description: "Dietrich Grönemeyer's book Demenz (2025) talks about a difficult event. Many people fear it, even when they are young. When the brain gets weaker, people with the condition and their families face new and often hard challenges. Learn here what dementia is, how to prevent it, and..."
 ---
 
 *Author: **Dietrich Grönemeyer***

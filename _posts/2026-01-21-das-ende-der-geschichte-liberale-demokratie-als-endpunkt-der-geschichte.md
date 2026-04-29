@@ -3,6 +3,8 @@ layout: "post"
 title: "The End of History - Liberal Democracy as History's End Point"
 date: "2026-01-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In The End of History (1992), we ask if human history has a clear plan. Or is it just a series of random events? The main idea is this: Liberal democracy and market economy are now common around the world. So, the big ideas for other political systems are gone. No other system cl..."
 ---
 
 *Author: **Francis Fukuyama***

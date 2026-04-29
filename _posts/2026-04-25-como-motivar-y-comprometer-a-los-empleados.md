@@ -3,6 +3,8 @@ layout: "post"
 title: "Cómo motivar y comprometer a los empleados"
 date: "2026-04-25"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Patrick Lencioni | Category: Motivación e inspiración¿QUÉ ME APORTA ESTE TÍTULO? HAZ QUE CUALQUIER TRABAJO SE ADAPTE A TI."
 ---
 
 **Author:** Patrick Lencioni | **Category:** Motivación e inspiración## ¿QUÉ ME APORTA ESTE TÍTULO? HAZ QUE CUALQUIER TRABAJO SE ADAPTE A TI.

@@ -3,6 +3,8 @@ layout: "post"
 title: "The View from Ninety - Reflections on Living a Long, Contented Life"
 date: "2026-01-30"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "The View from Ninety (2025) is a book of final essays. Charles Handy wrote them after he had a stroke and knew he would die soon. He shares thoughts from ninety years of life. It helps you see what truly matters. This means seeing the difference between important things and just..."
 ---
 
 *Author: **Charles Handy***

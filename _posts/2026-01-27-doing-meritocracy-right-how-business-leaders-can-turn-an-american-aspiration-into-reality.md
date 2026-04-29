@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Business
+tags: ["Lãnh đạo", "Xã hội", "Kinh doanh"]
+description: "'Doing Meritocracy Right' (2025) asks you to stop using systems that don't work well. These systems rely too much on degrees and give jobs to family and friends. This has changed a good American idea into a fake upper class. The book says that business leaders, not politicians, c..."
 ---
 
 *Author: **Thomas A. Cole***

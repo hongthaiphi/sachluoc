@@ -3,6 +3,8 @@ layout: "post"
 title: "How to be a Friend (In an Unfriendly World) - Lessons on Connection"
 date: "2026-01-26"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "How to Be a Friend (In an Unfriendly World) (2025) looks at friendship as a way to heal yourself and connect with others truly. It does this in a world that feels more separate. It uses ideas from a university course for experts. The book helps you learn how to be the friend you..."
 ---
 
 *Author: **Barnet Bain***

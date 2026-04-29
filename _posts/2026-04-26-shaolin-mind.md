@@ -5,6 +5,8 @@ date: "2026-04-26"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "Yes, it is true: most of us are very good at just getting by."
 ---
 
 **Author:** Shi Heng Yi | **Category:** Mindfulness & Happiness

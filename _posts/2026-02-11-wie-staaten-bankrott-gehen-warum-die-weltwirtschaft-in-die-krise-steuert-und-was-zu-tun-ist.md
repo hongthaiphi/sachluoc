@@ -3,6 +3,8 @@ layout: "post"
 title: "Wie Staaten bankrott gehen - Warum die Weltwirtschaft in die Krise steuert und was zu tun ist"
 date: "2026-02-11"
 published: true
+tags: ["Kinh tế"]
+description: "How States Go Bankrupt (2025) explains why powerful countries do not just collapse by chance. Dalio clearly shows the patterns of how countries rise, build up debt, and then fall apart. The main idea is the Great Debt Cycle. This cycle connects financial markets, politics, and gl..."
 ---
 
 *Author: **Ray Dalio***

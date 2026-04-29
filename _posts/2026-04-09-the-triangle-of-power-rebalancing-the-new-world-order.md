@@ -3,6 +3,8 @@ layout: "post"
 title: "The Triangle of Power - Rebalancing the New World Order"
 date: "2026-04-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Triangle of Power (2026) asks a big question: who really controls the world today? The old rules do not work anymore. Alexander Stubb looks at wars, trade problems, and new friendships between countries. He shows a world divided into three parts: the Global West, the Global E..."
 ---
 
 *Author: **Alexander Stubb***

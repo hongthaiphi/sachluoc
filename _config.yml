@@ -3,3 +3,9 @@ baseurl: /sachluoc
 url: https://hongthaiphi.github.io
 permalink: /:title/
 future: true
+
+nav_links:
+  - title: "📚 Tất cả sách"
+    url: /sachluoc/
+  - title: "🗂️ Danh mục"
+    url: /sachluoc/danh-muc/

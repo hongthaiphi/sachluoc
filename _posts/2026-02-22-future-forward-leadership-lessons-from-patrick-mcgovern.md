@@ -5,6 +5,8 @@ date: "2026-02-22"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Future Forward (2019) tells the story of Patrick McGovern’s 50-year journey. He built International Data Group. It started as a small research company with one person. Later, it became a huge global tech media company worth $3 billion. The book shares ten important lessons McGove..."
 ---
 
 *Author: **Glenn Rifkin***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Keep Everything in Mind - Easy Brain Training to Memory Championship"
 date: "2025-11-29"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In this book, Joshua Foer shares his journey to becoming a memory champion. Alles im Kopf behalten explains how our brain remembers things. It also tells us why our memory is worse than our ancestors'. The book shows how we can use simple techniques to improve our memory. This ca..."
 ---
 
 *Author: **Joshua Foer***

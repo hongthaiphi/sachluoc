@@ -3,6 +3,8 @@ layout: "post"
 title: "Uncompete - Rejecting Competition to Unlock Success"
 date: "2026-01-02"
 published: true
+tags: ["Kinh doanh"]
+description: "The book Uncompete (2025) shows that the idea that people are naturally made to compete is wrong. It also reveals how being taught to compete harms our health, our friendships, and who we truly are. Using studies and real-life stories, it helps readers find lasting success. This..."
 ---
 
 *Author: **Ruchika T. Malhotra***

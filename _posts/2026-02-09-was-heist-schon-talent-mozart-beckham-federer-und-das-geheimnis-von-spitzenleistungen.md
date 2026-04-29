@@ -3,6 +3,8 @@ layout: "post"
 title: "What Is Talent - Mozart, Beckham, Federer and the Secret of Excellence"
 date: "2026-02-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "What is Talent, Anyway? (2010) looks at what makes people achieve great things. This can be in sports, art, or other areas. The book uses many famous examples. It shows that great success does not come from natural talent. Instead, it comes from lots of practice and the right att..."
 ---
 
 *Author: **Matthew Syed***

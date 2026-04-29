@@ -5,6 +5,8 @@ date: "2026-02-03"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Sam Altman (2025) is the biography of the CEO of OpenAI, the company behind ChatGPT. We tell Altman's life story. It starts from his childhood and early attempts to build companies. It goes up to his role as the head of OpenAI. It is the story of a young outsider. He faced many c..."
 ---
 
 *Author: **Keach Hagey***

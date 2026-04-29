@@ -3,6 +3,8 @@ layout: "post"
 title: "Root Cause Analysis - A Step-By-Step Guide to Using the Right Tool at the Right Time"
 date: "2026-02-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The book Root Cause Analysis (2014) teaches you how to look into quality problems. It shows you how to do this in a careful way. You will use real facts and clear steps, not just guesses or blaming people. The book first explains the main ideas of root cause analysis. Then, it sh..."
 ---
 
 *Author: **Matthew A. Barsalou***

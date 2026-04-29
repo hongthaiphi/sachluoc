@@ -5,6 +5,8 @@ date: "2026-02-17"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Medici (2016) looks at how a simple family became one of the most powerful in Europe. They did this through new banking ideas, clever political moves, and a lot of support for art and culture. This book shows their role in helping the Italian Renaissance. It also explores the..."
 ---
 
 *Author: **Paul Strathern***

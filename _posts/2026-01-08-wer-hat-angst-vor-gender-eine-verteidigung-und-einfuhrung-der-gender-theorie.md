@@ -5,6 +5,8 @@ date: "2026-01-08"
 published: true
 categories:
   - Leadership
+tags: ["Tâm lý", "Xã hội"]
+description: "In Who's Afraid of Gender? (2025), Judith Butler connects queer and gender theory to current cultural events. For decades, Butler has argued that gender is not a simple biological fact with only two parts. Instead, it is a wide and changing range. Butler believes that everyone sh..."
 ---
 
 *Author: **Judith Butler***

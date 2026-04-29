@@ -3,6 +3,8 @@ layout: "post"
 title: "Blank Space - A Cultural History of the Twenty-First Century"
 date: "2026-02-27"
 published: true
+tags: ["Xã hội"]
+description: "Blank Space (2025) says that in the last 25 years, there has not been much new creativity. This has created a culture where old ideas are often used again. Popular online trends are common. Content is often made just for money. Artists almost never take risks. The book looks at m..."
 ---
 
 *Author: **W. David Marx***

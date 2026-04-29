@@ -3,6 +3,8 @@ layout: "post"
 title: "Fatigue Society"
 date: "2026-04-27"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Byung-Chul Han | Category: Gesundheit & ErnährungWAS DRIN IST FÜR DICH: EIN PHILOSOPHISCHES PLÄDOYER FÜR EINE GANZHEITLICHERE DEFINITION VON ERFOLG."
 ---
 
 **Author:** Byung-Chul Han | **Category:** Gesundheit & Ernährung## WAS DRIN IST FÜR DICH: EIN PHILOSOPHISCHES PLÄDOYER FÜR EINE GANZHEITLICHERE DEFINITION VON ERFOLG.

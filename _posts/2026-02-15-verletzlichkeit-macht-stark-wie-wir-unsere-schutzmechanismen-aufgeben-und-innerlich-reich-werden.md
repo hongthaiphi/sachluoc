@@ -5,6 +5,8 @@ date: "2026-02-15"
 published: true
 categories:
   - Finance
+tags: ["Phát triển bản thân"]
+description: "These Blinks for Verletzlichkeit macht stark (2012) explain how shame badly affects our lives. They also show how we can deal with it. If we accept our own vulnerability and open up, we stop ourselves from hiding away due to shame. These Blinks give useful advice. They show how b..."
 ---
 
 *Author: **Brené Brown***

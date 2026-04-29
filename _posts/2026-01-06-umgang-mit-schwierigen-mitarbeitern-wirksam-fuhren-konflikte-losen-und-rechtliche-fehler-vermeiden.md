@@ -5,6 +5,8 @@ date: "2026-01-06"
 published: true
 categories:
   - Leadership
+tags: ["Phát triển bản thân"]
+description: "This book, Umgang mit schwierigen Mitarbeitern (2016), is about what the title says. It explains the main reasons why employees do not perform as their managers want. It also gives advice on how to handle these situations. This includes tips for talking with employees and underst..."
 ---
 
 *Author: **Ivonne Faerber***

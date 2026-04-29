@@ -3,6 +3,8 @@ layout: "post"
 title: "Bad Meetings Happen to Good People - How to Run Meetings That Produce Results"
 date: "2026-01-12"
 published: true
+tags: ["Lãnh đạo"]
+description: "Bad Meetings Happen to Good People (2017) is a helpful book for anyone who wants to plan and lead better meetings. It offers simple ways to avoid wasting time, keep meetings focused, and make sure every gathering is truly useful. Whether you are leading the meeting or just attend..."
 ---
 
 *Author: **Leigh Espy***

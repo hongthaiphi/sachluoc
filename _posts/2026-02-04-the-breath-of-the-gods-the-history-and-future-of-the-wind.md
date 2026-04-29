@@ -3,6 +3,8 @@ layout: "post"
 title: "The Breath of the Gods - The History and Future of the Wind"
 date: "2026-02-04"
 published: true
+tags: ["Xã hội", "Khoa học"]
+description: "The Breath of the Gods (2025) looks at how wind changes the world and our daily lives. It talks about travel and exploration, but also about bad events like hurricanes, big fires, and storms. It also checks how global wind patterns are changing and getting stronger because of cli..."
 ---
 
 *Author: **Simon Winchester***

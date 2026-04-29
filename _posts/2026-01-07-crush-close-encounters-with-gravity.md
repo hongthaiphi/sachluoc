@@ -3,6 +3,8 @@ layout: "post"
 title: "Crush - Close Encounters with Gravity"
 date: "2026-01-07"
 published: true
+tags: ["Khoa học"]
+description: "Crush (2025) takes you into a world. It shows how everyday things – like water swirling in a sink – can lead to big ideas. These ideas are about black holes, how space and time bend, and the strange rules of the universe. The book talks about our fear of heights and the future of..."
 ---
 
 *Author: **James Riordon***

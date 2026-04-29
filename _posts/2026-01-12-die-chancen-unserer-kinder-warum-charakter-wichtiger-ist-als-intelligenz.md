@@ -5,6 +5,8 @@ date: "2026-01-12"
 published: true
 categories:
   - Technology
+tags: ["Tâm lý", "Xã hội"]
+description: "In Die Chancen unserer Kinder (2013), studies explain why some children find school and later life harder. Other children grow and do well without problems. The book looks at why success is not only about intelligence. It is mostly about character traits like determination and op..."
 ---
 
 *Author: **Paul Tough***

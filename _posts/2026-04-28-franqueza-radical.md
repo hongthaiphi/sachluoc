@@ -3,6 +3,8 @@ layout: "post"
 title: "Radical Frankness"
 date: "2026-04-28"
 published: true
+tags: ["Phát triển bản thân"]
+description: "She had just stepped out of the elevator at Juice Software’s headquarters, where she was the general manager."
 ---
 
 **Author:** Kim Scott | **Category:** Communication Skills

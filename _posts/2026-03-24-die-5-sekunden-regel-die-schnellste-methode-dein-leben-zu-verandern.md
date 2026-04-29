@@ -3,6 +3,8 @@ layout: "post"
 title: "The 5-Second Rule - The Fastest Way to Change Your Life"
 date: "2026-03-24"
 published: true
+tags: ["Phát triển bản thân"]
+description: "We all put things off. We also avoid and delay tasks we should do. But we can take back control of our actions. TV host Mel Robbins did this with her 5-Second Rule (2017). Every time she almost gives up, she counts down from five. Then she simply does what she really needs to do...."
 ---
 
 *Author: **Mel Robbins***

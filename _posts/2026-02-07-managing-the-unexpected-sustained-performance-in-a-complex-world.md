@@ -5,6 +5,8 @@ date: "2026-02-07"
 published: true
 categories:
   - Technology
+tags: ["Lãnh đạo"]
+description: "Managing the Unexpected (2015) looks at why some companies deal with surprises, problems, and difficult situations much better than others. It shows how companies can stop small problems from becoming big disasters. It suggests being very aware in daily work. This means paying at..."
 ---
 
 *Author: **Karl E. Weick***

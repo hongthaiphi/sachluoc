@@ -3,6 +3,8 @@ layout: "post"
 title: "The Future Begins with Z - Nine Strategies to Lead Gen Z as They Disrupt the Workplace"
 date: "2026-01-05"
 published: true
+tags: ["Lãnh đạo"]
+description: "The Future Begins with Z (2025) is a book to help leaders. It deals with the problems managers face when working with Gen Z employees at work. It offers ways to lead, motivate, and keep this youngest group of workers well. It covers topics like welcoming new staff, giving feedbac..."
 ---
 
 *Author: **Tim Elmore***

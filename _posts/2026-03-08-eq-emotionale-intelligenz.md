@@ -5,6 +5,8 @@ date: "2026-03-08"
 published: true
 categories:
   - Psychology
+tags: ["Tâm lý"]
+description: "What is emotional intelligence? These Blinks give us interesting insights into this human skill. Daniel Goleman calls it 'the key to success.' By looking closely at how emotional intelligence grows and develops, we can better understand how success and thinking skills are linked."
 ---
 
 *Author: **Daniel Goleman***

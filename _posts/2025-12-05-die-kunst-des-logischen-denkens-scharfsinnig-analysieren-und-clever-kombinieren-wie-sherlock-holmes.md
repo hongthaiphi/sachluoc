@@ -5,6 +5,8 @@ date: "2025-12-05"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "Mastermind: How to Think Like Sherlock Holmes (2013) shows what makes the famous detective Sherlock Holmes so smart. It explains his scientific way of thinking, which uses focus, observation, and logical steps. These Blinks describe what we can learn from Sherlock Holmes and how..."
 ---
 
 *Author: **Maria Konnikova***

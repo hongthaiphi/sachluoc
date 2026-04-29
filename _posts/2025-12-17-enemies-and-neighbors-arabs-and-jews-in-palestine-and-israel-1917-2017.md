@@ -3,6 +3,8 @@ layout: "post"
 title: "Enemies and Neighbors - Arabs and Jews in Palestine and Israel, 1917-2017"
 date: "2025-12-17"
 published: true
+tags: ["Xã hội"]
+description: "Enemies and Neighbors (2017) is about Israel and Palestine. It tells the story of two groups of people who wanted to build their own countries on the same land. This led to a hundred years of wars, protests, and peace talks. The book covers events from the time of the British Man..."
 ---
 
 *Author: **Ian Black***

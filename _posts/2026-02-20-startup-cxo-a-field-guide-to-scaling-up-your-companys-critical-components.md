@@ -5,6 +5,8 @@ date: "2026-02-20"
 published: true
 categories:
   - Business
+tags: ["Kinh doanh"]
+description: "Startup CXO (2021) is a detailed guide for growing the key leadership jobs that manage a company's most important teams. Written with help from other writers, it explains how different leader jobs – like finance, marketing, product, and people management – must change and work to..."
 ---
 
 *Author: **Matt Blumberg***

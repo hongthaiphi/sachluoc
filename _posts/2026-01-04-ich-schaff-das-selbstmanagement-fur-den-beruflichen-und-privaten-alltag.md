@@ -5,6 +5,8 @@ date: "2026-01-04"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "In Ich schaff das!, David Allen talks about how we can reach our big goals. He explains how to do this without getting lost in everyday tasks. We need to organize and manage our tasks well. And we must never forget our personal goals. David Allen shows us how to do all this with..."
 ---
 
 *Author: **David Allen***

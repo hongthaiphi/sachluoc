@@ -3,6 +3,8 @@ layout: "post"
 title: "Faust - Part One of the Tragedy"
 date: "2026-01-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Faust (1808) tells the story of a scholar, Faust, who despite his extensive education, realizes that true knowledge remains out of reach. Feeling dissatisfied, he makes a pact with the devil, Mephisto. The deal is this: if Faust ever experiences a moment where all his desires are..."
 ---
 
 The writer of this piece is Johann Wolfgang von Goethe.

@@ -3,6 +3,8 @@ layout: "post"
 title: "Happy Heart - Why the Heart Is More Than an Organ"
 date: "2025-12-30"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Happy Heart (2025) explores the heart as a complex mix of body, thoughts, and feelings. Here, you will find medical facts, daily tips, and an invitation to notice and strengthen your own heart more."
 ---
 
 *Author: **Nana-Yaw Bimpong-Buta***

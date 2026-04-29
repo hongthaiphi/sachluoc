@@ -5,6 +5,8 @@ date: "2025-12-14"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân", "Triết học"]
+description: "Self-Thinking looks at and criticizes how much we focus on buying things today. This comes from a culture of 'always more, everything now'. The book asks us to work together to imagine a good future. It also tells us to resist this capitalist way of thinking in our own small ways..."
 ---
 
 *Author: **Harald Welzer***

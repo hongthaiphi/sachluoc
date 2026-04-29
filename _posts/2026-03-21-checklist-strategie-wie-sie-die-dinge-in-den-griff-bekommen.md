@@ -3,6 +3,8 @@ layout: "post"
 title: "The Checklist Strategy - Master Your Tasks"
 date: "2026-03-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Atul Gawande is a surgeon. In his book Checklist Strategy, he shares surprising proof. This proof shows how a simple checklist can greatly reduce human mistakes. This is true in very complex jobs. Examples are flying planes, engineering, and medicine."
 ---
 
 *Author: **Atul Gawande***

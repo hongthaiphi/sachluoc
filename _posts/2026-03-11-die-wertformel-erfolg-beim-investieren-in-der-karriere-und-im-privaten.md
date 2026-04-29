@@ -3,6 +3,8 @@ layout: "post"
 title: "Die Wertformel - Erfolg beim Investieren, in der Karriere und im Privaten"
 date: "2026-03-11"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In The Value Formula (2024), you will learn why success is not just luck. It comes from following clear rules. The book shows how your thoughts, choices, and responsibility work together. They help you create real value over time. This value is for your money and your personal li..."
 ---
 
 *Author: **Julian Hosp***

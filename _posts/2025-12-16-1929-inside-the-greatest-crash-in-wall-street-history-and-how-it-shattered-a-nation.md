@@ -3,6 +3,8 @@ layout: "post"
 title: "1929 - Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation"
 date: "2025-12-16"
 published: true
+tags: ["Kinh tế", "Xã hội"]
+description: "1929 (2025) looks at what happened before the worst stock market crash in modern times. It shows how too much risky buying, people feeling too rich, and rules that were not strict enough made the crash possible. The book explains how people wrongly believed growth would never sto..."
 ---
 
 *Author: **Andrew Ross Sorkin***

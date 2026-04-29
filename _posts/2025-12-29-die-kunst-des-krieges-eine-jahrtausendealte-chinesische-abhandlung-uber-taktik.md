@@ -3,6 +3,8 @@ layout: "post"
 title: "The Art of War - An Ancient Chinese Treatise on Tactics"
 date: "2025-12-29"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Chinese book The Art of War is thousands of years old. It is one of the most important books about tactics. Military leaders, business people, and lawyers all over the world still get ideas from it today. It influenced important leaders like Officer Douglas MacArthur and Mao..."
 ---
 
 *Author: **Sun Tsu***

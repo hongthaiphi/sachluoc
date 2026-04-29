@@ -3,6 +3,8 @@ layout: "post"
 title: "Simplicity - The Ten Laws of Simplicity"
 date: "2025-12-08"
 published: true
+tags: ["Kinh doanh"]
+description: "The book Simplicity (2007) talks about how to make things simpler. This includes daily life, business, and especially how we design new products and technology. These summaries (Blinks) explain the main ideas from the ten rules for making things less complicated. They also tell u..."
 ---
 
 *Author: **John Maeda***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Music Makes You Smart - Except Some Music"
 date: "2026-03-23"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Music is a wonderful thing. It feeds our soul and makes us feel good. But it can do even more. Music can make you smart! In Musik macht schlau – außer manche (2025), you will learn about the links between music and brain health. Find out here how playing music can make you smarte..."
 ---
 
 *Author: **Christoph Reuter***

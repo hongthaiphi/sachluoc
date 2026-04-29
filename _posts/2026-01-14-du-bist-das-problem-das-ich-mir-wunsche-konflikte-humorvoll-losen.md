@@ -3,6 +3,8 @@ layout: "post"
 title: "You Are the Problem I Wish For - Resolve Conflicts With Humor"
 date: "2026-01-14"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Du bist das Problem, das ich mir wünsche (2025) asks how conflicts between people start. It also explores why they are sometimes unavoidable but still helpful. We invite you to see arguments as something that helps us grow together. We can handle them with humor, understanding, a..."
 ---
 
 *Author: **Iris Gavric & Matthias Renger***

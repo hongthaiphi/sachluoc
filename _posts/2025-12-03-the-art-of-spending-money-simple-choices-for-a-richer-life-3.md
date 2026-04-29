@@ -5,6 +5,8 @@ date: "2025-12-03"
 published: true
 categories:
   - Finance
+tags: ["Kinh tế"]
+description: "The Art of Spending Money (2025) looks at the difficult, emotional connection between money and happiness. It goes past simple money plans. It checks how our feelings, hopes, and comparing ourselves to others change how we earn, save, and spend. With stories and ideas, it explain..."
 ---
 
 *Author: **Morgan Housel***

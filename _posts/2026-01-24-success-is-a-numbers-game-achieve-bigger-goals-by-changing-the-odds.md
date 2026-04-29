@@ -3,6 +3,8 @@ layout: "post"
 title: "Success Is a Numbers Game - Achieve Bigger Goals by Changing the Odds"
 date: "2026-01-24"
 published: true
+tags: ["Kinh doanh", "Phát triển bản thân"]
+description: "The book Success is a Numbers Game (2025) shares a big secret. For every goal, there are hidden chances of success and failure. But most people never look at these chances. They also don't try to change them. This book gives you a useful plan called “probability hacking.” It help..."
 ---
 
 *Author: **Kyle Austin Young***

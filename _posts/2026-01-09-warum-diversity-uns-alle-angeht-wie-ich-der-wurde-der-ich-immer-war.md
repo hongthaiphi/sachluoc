@@ -3,6 +3,8 @@ layout: "post"
 title: "Why Diversity Matters to Everyone - Becoming Who I Really Am"
 date: "2026-01-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In his book Why Diversity Concerns Us All (2022), you will read about Balian Buschbaum's journey. He was once a top athlete. Now, he speaks up for diversity and how important it is for everyone. After his gender transition, he talks openly about courage, identity, and the real me..."
 ---
 
 *Author: **Balian Buschbaum***

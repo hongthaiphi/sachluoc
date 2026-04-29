@@ -5,6 +5,8 @@ date: "2026-02-14"
 published: true
 categories:
   - Philosophy
+tags: ["Xã hội"]
+description: "A Conflict of Visions (1987) shows why political opponents often talk without understanding each other. It does this by revealing the hidden, deep ideas about human nature that cause our biggest disagreements. You will learn why your opinions on different topics, like defense spe..."
 ---
 
 *Author: **Thomas Sowell***

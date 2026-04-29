@@ -3,6 +3,8 @@ layout: "post"
 title: "Die Macht der Gewohnheit - Warum wir tun, was wir tun"
 date: "2026-03-19"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Power of Habit (2012) shows us the role habits play in our lives. This includes good habits, like brushing your teeth or exercising. It also includes bad habits, like smoking. Research and stories explain how habits start. They also show how you can change them. This is true..."
 ---
 
 *Author: **Charles Duhigg***

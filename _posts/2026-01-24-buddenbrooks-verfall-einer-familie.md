@@ -3,6 +3,8 @@ layout: "post"
 title: "Buddenbrooks - Decline of a Family"
 date: "2026-01-24"
 published: true
+tags: ["Xã hội"]
+description: "Thomas Mann's classic novel Buddenbrooks (1901) tells the story of an important merchant family from Lübeck. Over several generations, the family slowly loses its power and importance. A whole way of life also ends with them."
 ---
 
 *Author: **Thomas Mann***

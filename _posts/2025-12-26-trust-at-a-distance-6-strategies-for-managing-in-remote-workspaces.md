@@ -3,6 +3,8 @@ layout: "post"
 title: "Trust at a Distance - 6 Strategies for Managing in Remote Workspaces"
 date: "2025-12-26"
 published: true
+tags: ["Lãnh đạo"]
+description: "Trust at a Distance (2025) shows leaders how to build and keep trust with teams that work from different places. This includes working from home, a mix of home and office, or in other cities. It uses studies and real examples. The book gives six clear ways to make communication,..."
 ---
 
 *Author: **David Horsager***

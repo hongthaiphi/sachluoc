@@ -3,6 +3,8 @@ layout: "post"
 title: "Lucky by Design - The Hidden Economics of Getting More of What You Want"
 date: "2025-12-12"
 published: true
+tags: ["Kinh tế"]
+description: "Lucky by Design (2025) talks about how we get the most wanted things in life. This includes job offers, school places, or restaurant bookings. These are decided in hidden markets that do not use money. These markets use rules, not prices. To do well, you need to understand and us..."
 ---
 
 *Author: **Judd B. Kessler***

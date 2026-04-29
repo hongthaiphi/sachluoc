@@ -3,6 +3,8 @@ layout: "post"
 title: "Instructions for Dissatisfaction - Why Less Makes Us Unhappy"
 date: "2026-02-14"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Many people think that having lots of choices is a good thing. They believe more options mean there is something for everyone. They also think it makes everyone happy. But in his book Anleitung zur Unzufriedenheit (The Paradox of Choice), psychologist Barry Schwartz shows this is..."
 ---
 
 *Author: **Barry Schwartz***

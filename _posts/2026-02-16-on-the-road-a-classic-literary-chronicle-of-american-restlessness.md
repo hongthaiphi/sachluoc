@@ -3,6 +3,8 @@ layout: "post"
 title: "On the Road - A classic literary chronicle of American restlessness"
 date: "2026-02-16"
 published: true
+tags: ["Phát triển bản thân"]
+description: "On the Road (1957) is a very important book for the Beat generation. It was written by one of their most important thinkers. The story is partly based on the author's own life and travels. It follows a young writer, Sal Paradise, and his wild new friend, Dean Moriarty. They go on..."
 ---
 
 *Author: **Jack Kerouac***

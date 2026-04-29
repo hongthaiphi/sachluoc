@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
+/* ── Base typography ──────────────────────────────── */
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.8;
   color: #333;
 }
@@ -20,14 +21,31 @@ code, pre {
 }
 
 a {
-  color: #0066cc;
+  color: #2563EB;
   text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
+  &:hover { text-decoration: underline; }
 }
 
-p {
-  margin-bottom: 1.2em;
+p { margin-bottom: 1.2em; }
+
+/* ── Sidebar nav links ────────────────────────────── */
+#header_wrap .site-nav a {
+  color: #e8f5d8;
+  display: block;
+  padding: .3rem 0;
+  font-size: .9rem;
+  &:hover { color: #fff; text-decoration: none; }
+}
+
+/* ── Post page improvements ───────────────────────── */
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ── Responsive grid adjustments ─────────────────── */
+@media (max-width: 600px) {
+  body { font-size: 16px; }
 }

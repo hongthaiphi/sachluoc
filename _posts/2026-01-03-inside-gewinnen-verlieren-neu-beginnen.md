@@ -3,6 +3,8 @@ layout: "post"
 title: "Inside - Gewinnen - Verlieren - Neu beginnen"
 date: "2026-01-03"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "From star player to prisoner: In Inside (2025), Boris Becker shares his story about life in prison. He talks about shame, loneliness, and finding unexpected friendships. He speaks honestly about guilt, punishment, and trying to find himself after losing everything."
 ---
 
 *Author: **Boris Becker***

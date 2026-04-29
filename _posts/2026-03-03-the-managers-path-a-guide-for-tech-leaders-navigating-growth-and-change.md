@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Technology
+tags: ["Lãnh đạo"]
+description: "The Manager’s Path (2017) is a useful guide for people in tech. It helps them move from working alone to leading others. This includes jobs like mentor, tech lead, and senior leader. The book talks about the special problems in tech. In tech, managing people is also a technical s..."
 ---
 
 *Author: **Camille Fournier***

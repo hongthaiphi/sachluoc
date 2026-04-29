@@ -3,6 +3,8 @@ layout: "post"
 title: "Oben bleiben. Immer. - Das Rezept von Unternehmen an der Spitze zu bleiben"
 date: "2026-03-29"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The world is an uncertain place. It changes all the time and often feels chaotic. Many companies fail in this chaos. But some not only survive constant change. They even use it to grow.. Oben bleiben. Immer asks why some companies succeed while most others fail."
 ---
 
 *Author: **Jim Collins & Morten T. Hansen***

@@ -5,6 +5,8 @@ date: "2026-01-29"
 published: true
 categories:
   - Technology
+tags: ["Lãnh đạo"]
+description: "Make Work Fair (2025) suggests a new way to make workplaces fair. This way uses facts and information instead of diversity training that doesn't work well. The book shows how to change work systems. It explains that if you look at how things happen, remove obstacles, and make peo..."
 ---
 
 *Author: **Iris Bohnet***

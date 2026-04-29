@@ -3,6 +3,8 @@ layout: "post"
 title: "What Matters Most - Lessons the Dying Teach Us About Living"
 date: "2025-12-15"
 published: true
+tags: ["Tâm lý"]
+description: "What Matters Most (2025) is a book by someone who helps people at the end of their lives. Diane Button works with people who are dying. She has learned what is most important in life. She also shows us how we can have a peaceful death by living a good life now."
 ---
 
 *Author: **Diane Button***

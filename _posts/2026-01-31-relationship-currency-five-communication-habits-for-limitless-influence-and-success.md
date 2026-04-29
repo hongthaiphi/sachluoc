@@ -3,6 +3,8 @@ layout: "post"
 title: "Relationship Currency - Five Communication Habits For Limitless Influence and Success"
 date: "2026-01-31"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "Relationship Currency (2025) shows five ways of talking that help leaders, salespeople, and business owners make good connections. It teaches easy ways to ask smart questions, listen carefully, build real charm, and tell interesting stories. These stories will encourage people to..."
 ---
 
 *Author: **Ravi Rajani***

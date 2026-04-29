@@ -5,6 +5,8 @@ date: "2026-04-03"
 published: true
 categories:
   - Finance
+tags: ["Phát triển bản thân"]
+description: "Showdown (2013) is about the current Euro crisis. This crisis makes weaker countries in the European Union unstable. In these Blinks, you will learn why the common currency is in danger of failing. You will also find out who benefits from its failure. And you will see what econom..."
 ---
 
 *Author: **Dirk Müller***

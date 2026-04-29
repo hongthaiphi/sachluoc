@@ -5,6 +5,8 @@ date: "2025-12-04"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo", "Triết học"]
+description: "Strategie des Managements komplexer Systeme (2015) looks at how to lead companies in a world that is more connected and always changing. We show that companies are not like machines. They are living systems that can keep themselves going. We also give you tips on how to manage th..."
 ---
 
 *Author: **Fredmund Malik***

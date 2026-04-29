@@ -3,6 +3,8 @@ layout: "post"
 title: "De-Positioning - The Secret Brand Strategy for Creating Competitive Advantage"
 date: "2026-01-01"
 published: true
+tags: ["Kinh doanh"]
+description: "De-Positioning (2025) looks at how brands can win by showing what their competitors do badly. It also shows how they can clearly help customers with their biggest problems. The book says that to truly beat others, a business needs one clear plan that guides everything it does. It..."
 ---
 
 *Author: **Todd Irwin***

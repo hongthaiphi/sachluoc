@@ -5,6 +5,8 @@ date: "2026-02-19"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Human Edge in the AI Age (2025) shows you how to do well when artificial intelligence (AI) is quickly changing jobs and what people do. The book uses many years of business work and old Indian ideas. It gives you proven tips to find and improve your human skills. This helps you s..."
 ---
 
 *Author: **Nitin Seth***

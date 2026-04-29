@@ -3,6 +3,8 @@ layout: "post"
 title: "Permission Marketing - Give Customers a Choice"
 date: "2026-03-30"
 published: true
+tags: ["Kinh tế", "Kinh doanh"]
+description: "Permission Marketing looks at the problems marketers face in the digital age. It shows new and practical ways to market. The book shows how old ways of marketing fail in today's crowded world of advertising. But smart marketing doesn't stop customers. Instead, it gets their atten..."
 ---
 
 *Author: **Seth Godin***

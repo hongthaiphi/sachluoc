@@ -3,6 +3,8 @@ layout: "post"
 title: "The Failure - An Investigation Into German Russia Policy"
 date: "2026-02-10"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Failure (2025) shows how German politicians saw warning signs about Russia for decades. But they always pushed these signs aside. We explain why old beliefs stayed, even with wars and clear rule-breaking. In the end, it becomes clear how this way of thinking slowly led to a t..."
 ---
 
 *Author: **Katja Gloger & Georg Mascolo***

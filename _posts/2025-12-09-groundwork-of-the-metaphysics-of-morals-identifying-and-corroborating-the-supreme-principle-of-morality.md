@@ -3,6 +3,8 @@ layout: "post"
 title: "Groundwork of the Metaphysics of Morals - Identifying and corroborating the supreme principle of morality"
 date: "2025-12-09"
 published: true
+tags: ["Triết học"]
+description: "Groundwork of the Metaphysics of Morals (1785) shows how we can understand right and wrong based on thinking, not just on what we feel or see. It looks for rules that work for everyone who can think. It says that good actions come from doing our duty because of what our mind tell..."
 ---
 
 *Author: **Immanuel Kant***

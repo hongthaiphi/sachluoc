@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Pragmatism (1907) is a book about a practical way of thinking. It says that ideas are good if they work well in the real world and are useful. This book shows pragmatism as a bridge between two strong ways of thinking: focusing only on logic (rationalism) and focusing only on fac..."
 ---
 
 *Author: **William James***

@@ -3,6 +3,8 @@ layout: "post"
 title: "The Seven Rules of Trust - A Blueprint for Building Things That Last"
 date: "2026-01-09"
 published: true
+tags: ["Lãnh đạo"]
+description: "The Seven Rules of Trust (2025) looks at how Wikipedia became a very important and trusted source around the world. This happened during 20 years when people trusted almost all other groups and organizations much less. The book looks at seven main ideas that turned an encyclopedi..."
 ---
 
 *Author: **Jimmy Wales & Dan Gardner***

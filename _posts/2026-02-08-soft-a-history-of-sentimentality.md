@@ -3,6 +3,8 @@ layout: "post"
 title: "Soft - A History of Sentimentality"
 date: "2026-02-08"
 published: true
+tags: ["Tâm lý", "Xã hội"]
+description: "Soft (2025) shows how feelings have changed countries in the West for a thousand years. It looks at everything from old poems to new laws about divorce, gay marriage, and abortion. This book looks clearly at history. It shows how strong feelings in art and culture, even if people..."
 ---
 
 *Author: **Ferdinand Mount***

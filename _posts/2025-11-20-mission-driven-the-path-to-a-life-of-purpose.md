@@ -3,6 +3,8 @@ layout: "post"
 title: "Mission Driven - *The Path to a Life of Purpose*"
 date: "2025-11-20"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Do you ever feel like you have a good job and a good salary, but something is missing? It might feel like you are living on autopilot, just reacting to things instead of creating your own path. Many people feel this way. They spend years climbing a ladder, only to find out it was..."
 ---
 
 # Find Your 'Who,' Not Just Your 'What': A Simple Guide to a Mission-Driven Life (Sống Có Mục Đích: Tìm Con Người Thật Của Bạn)

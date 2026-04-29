@@ -3,6 +3,8 @@ layout: "post"
 title: "The New Prosperity - What We Must Do for a Better Future"
 date: "2026-03-04"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The New Prosperity (2025) asks why modern societies are getting worse at doing important things. This is happening even though they have knowledge, money, and technology. These important things include building homes, improving infrastructure, and making the government work bette..."
 ---
 
 *Author: **Ezra Klein***

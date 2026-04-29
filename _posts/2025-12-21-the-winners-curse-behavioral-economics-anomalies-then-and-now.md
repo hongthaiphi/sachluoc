@@ -3,6 +3,8 @@ layout: "post"
 title: "The Winner's Curse - Behavioral Economics Anomalies Then and Now"
 date: "2025-12-21"
 published: true
+tags: ["Kinh tế"]
+description: "The Winner’s Curse (2025) looks again at important articles about how people make money decisions. These articles were first written many years ago. This book checks if those ideas about why people often don't make logical money decisions are still true today. It shows that peopl..."
 ---
 
 *Author: **Richard H. Thaler***

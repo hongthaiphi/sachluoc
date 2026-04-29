@@ -3,6 +3,8 @@ layout: "post"
 title: "Nemesis - 3000 Years Between Female Rage and Solidarity"
 date: "2026-01-13"
 published: true
+tags: ["Phát triển bản thân"]
+description: "When women stop hiding their anger, it does not create danger. Instead, it creates fairness. Nemesis’ Töchter (Nemesis' Daughters) shows how old patterns have kept women down for centuries. It also explains why 'Female Rage' is an important tool right now. It is about women being..."
 ---
 
 *Author: **Tara-Louise Wittwer***

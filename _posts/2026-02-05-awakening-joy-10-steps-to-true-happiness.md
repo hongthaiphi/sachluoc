@@ -3,6 +3,8 @@ layout: "post"
 title: "Awakening Joy - 10 Steps to True Happiness"
 date: "2026-02-05"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "Awakening Joy (2012) is a book about training your mind. It helps you find and grow real happiness. It gives you simple but strong ways to stop doing things without thinking. It helps you feel more alive naturally, a feeling that is already inside you. The book mixes useful tips..."
 ---
 
 *Author: **James Baraz***

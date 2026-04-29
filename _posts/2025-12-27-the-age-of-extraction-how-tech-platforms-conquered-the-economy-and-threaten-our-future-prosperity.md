@@ -5,6 +5,8 @@ date: "2025-12-27"
 published: true
 categories:
   - Technology
+tags: ["Công nghệ"]
+description: "The book The Age of Extraction (2025) says that big online platforms now take value from users and businesses, instead of creating it. It explains how weaker rules against big companies, and the power of data, let a few companies become very strong. This happened in many areas, l..."
 ---
 
 *Author: **Tim Wu***

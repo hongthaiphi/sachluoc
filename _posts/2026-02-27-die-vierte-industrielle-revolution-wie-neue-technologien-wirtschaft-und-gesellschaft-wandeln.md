@@ -5,6 +5,8 @@ date: "2026-02-27"
 published: true
 categories:
   - Technology
+tags: ["Kinh tế"]
+description: "The Fourth Industrial Revolution (2016) talks about the big changes happening in our world. New technologies like machine learning, 3D printing, and gene technology are already changing the world. These changes are much bigger than any before. Many areas are coming together, from..."
 ---
 
 *Author: **Klaus Schwab***

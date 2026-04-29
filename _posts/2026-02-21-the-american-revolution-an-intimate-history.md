@@ -3,6 +3,8 @@ layout: "post"
 title: "The American Revolution - An Intimate History"
 date: "2026-02-21"
 published: true
+tags: ["Xã hội"]
+description: "The American Revolution (2025) tells more about the big story of the American Revolutionary War. This was the war for independence. The book is based on the six-part TV series from PBS. It shows with many details and understanding for people on all sides how many countries were i..."
 ---
 
 *Author: **Geoffrey C. Ward***

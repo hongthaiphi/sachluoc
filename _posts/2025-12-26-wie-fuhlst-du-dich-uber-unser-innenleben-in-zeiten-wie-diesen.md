@@ -3,6 +3,8 @@ layout: "post"
 title: "How Are You Feeling - About Our Inner Lives"
 date: "2025-12-26"
 published: true
+tags: ["Phát triển bản thân"]
+description: "This book, Wie fühlst du dich (2025), looks at the rich inner world of human feelings. You will learn why emotions are very important today. But you will also find out why the fast pace of modern life sometimes makes our feelings quite confused."
 ---
 
 *Author: **Axel Hacke***

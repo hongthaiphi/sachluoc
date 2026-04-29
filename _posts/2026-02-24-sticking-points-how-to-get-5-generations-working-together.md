@@ -5,6 +5,8 @@ date: "2026-02-24"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Sticking Points (2013) looks at what happens when five generations work together. It explains how common goals at work often fail. This happens because people from different generations have different experiences, habits, and expectations. These lead to daily problems. The main i..."
 ---
 
 *Author: **Haydn Shaw***

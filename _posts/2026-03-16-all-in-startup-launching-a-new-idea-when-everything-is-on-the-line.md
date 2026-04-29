@@ -5,6 +5,8 @@ date: "2026-03-16"
 published: true
 categories:
   - Business
+tags: ["Kinh doanh"]
+description: "All In Startup (2014) is a mix of a business guide and a story. It tells about Owen Chase, a founder who has nine days to save his company and his marriage. He does surprisingly well in the World Series of Poker. There, he meets Sam, a mysterious investor who gives him new busine..."
 ---
 
 *Author: **Diana Kander***

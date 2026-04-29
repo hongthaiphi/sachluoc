@@ -5,6 +5,8 @@ date: "2026-01-10"
 published: true
 categories:
   - Technology
+tags: ["AI"]
+description: "The Means of Prediction (2025) says that artificial intelligence (AI) is not a force we cannot control. Instead, it is a tool. The people who control it decide what it does. The book explains simply how AI works. It shows that the real problem is not humans fighting machines. It..."
 ---
 
 *Author: **Maximilian Kasy***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Growth Data Analytics Playbook - How to Turn Gut Instinct into Data-Driven Product Growth"
 date: "2026-01-18"
 published: true
+tags: ["AI"]
+description: "The book Growth Data Analytics Playbook (2025) gives you new ways to use data. This helps you make decisions based on facts, not just feelings, when you want your products to grow. You will learn how to measure if people really want your product by seeing if they keep using it. Y..."
 ---
 
 `*Author: **Mengying Li***

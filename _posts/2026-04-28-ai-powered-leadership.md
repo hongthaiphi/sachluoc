@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Technology
+tags: ["Lãnh đạo"]
+description: "Author: Dave Silberman | Category: Technology & the FutureWHAT’S IN IT FOR ME? DISCOVER HOW TO GAIN SUSTAINABLE ADVANTAGE IN THE NEW AI MARKETPLACE."
 ---
 
 **Author:** Dave Silberman | **Category:** Technology & the Future## WHAT’S IN IT FOR ME? DISCOVER HOW TO GAIN SUSTAINABLE ADVANTAGE IN THE NEW AI MARKETPLACE.

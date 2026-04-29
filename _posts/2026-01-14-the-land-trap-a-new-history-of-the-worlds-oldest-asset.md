@@ -3,6 +3,8 @@ layout: "post"
 title: "The Land Trap - A New History of the World's Oldest Asset"
 date: "2026-01-14"
 published: true
+tags: ["Kinh tế", "Xã hội"]
+description: "The Land Trap (2025) explores how land has become a main driver of modern finance. It influences how much money people can borrow, how affordable homes are, and how wealthy countries become. The book explains that when land is treated mainly as a financial asset, it increases the..."
 ---
 
 *Author: **Mike Bird***

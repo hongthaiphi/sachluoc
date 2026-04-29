@@ -5,6 +5,8 @@ date: "2026-03-30"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "The Five Dysfunctions of a Team (2002) says that teams often don't work well. So, special steps are needed to help teams work great. A good team leader can do a lot to help their team. The book gives useful ways to do this."
 ---
 
 *Author: **Patrick M. Lencioni***

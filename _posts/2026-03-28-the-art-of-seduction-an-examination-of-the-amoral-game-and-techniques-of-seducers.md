@@ -5,6 +5,8 @@ date: "2026-03-28"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Art of Seduction (2001) looks at the game of seduction. This game is not about good or bad. It explains that seduction always starts in the mind. The best seducers know this well. The book teaches ways to make people interested. It shows how to confuse the person you want to..."
 ---
 
 *Author: **Robert Greene***

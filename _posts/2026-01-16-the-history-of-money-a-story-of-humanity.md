@@ -5,6 +5,8 @@ date: "2026-01-16"
 published: true
 categories:
   - Finance
+tags: ["Kinh tế", "Xã hội"]
+description: "The History of Money (2024) shows us how money has changed over time. It goes from the first kinds of money to when Bitcoin started. This book tells a story of busy trade, strong empires, and very bad money problems. It explains how money has helped people make great progress. It..."
 ---
 
 *Author: **David McWilliams***

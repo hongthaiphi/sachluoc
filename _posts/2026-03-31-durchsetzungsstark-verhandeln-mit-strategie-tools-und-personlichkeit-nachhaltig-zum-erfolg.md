@@ -3,6 +3,8 @@ layout: "post"
 title: "Assert Yourself in Negotiations - Strategy, Tools, and Personality"
 date: "2026-03-31"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Negotiations are part of daily life. They happen at home and at work. Sometimes they are small. Sometimes they have big effects. In Durchsetzungsstark verhandeln (2022), you will learn why the person who seems stronger does not always win. You will also learn about the importance..."
 ---
 
 *Author: **Gunhard Keil***

@@ -5,6 +5,8 @@ date: "2026-01-18"
 published: true
 categories:
   - Finance
+tags: ["Phát triển bản thân"]
+description: "In his book The Talent Code, author Daniel Coyle explores the secrets of talent. He finds reasons in the brain for how special skills are developed. He also shows the importance of active learning, staying motivated for a long time, and correct training."
 ---
 
 *Author: **Daniel Coyle***

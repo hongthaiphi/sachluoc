@@ -5,6 +5,8 @@ date: "2026-03-03"
 published: true
 categories:
   - Finance
+tags: ["Phát triển bản thân"]
+description: "The Art of Using Money Wisely (2025) looks at why money is such a hard topic for us. The simple reason: We think too much about how to earn it. We don't often think about how to spend it best. Money is not just a goal itself. It is a tool that should make our lives easier. So, le..."
 ---
 
 *Author: **Morgan Housel***

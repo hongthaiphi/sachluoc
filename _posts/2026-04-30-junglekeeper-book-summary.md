@@ -3,6 +3,8 @@ layout: "post"
 title: "Junglekeeper - A Wild Journey to Save the Amazon"
 date: "2026-04-30"
 published: true
+tags: ["Phát triển bản thân"]
+description: "![Jaguar in rainforest](https://images.unsplash.com/photos/hY1ZhwMhl8M?w=800)"
 ---
 
 # Junglekeeper: A Wild Journey to Save the Amazon

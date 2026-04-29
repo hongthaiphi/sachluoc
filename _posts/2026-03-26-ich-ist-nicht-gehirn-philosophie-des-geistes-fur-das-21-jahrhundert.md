@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Philosophy
+tags: ["Triết học"]
+description: "I Am Not My Brain (2015) asks if our mind, our 'self', and our freedom can be fully explained by science. Can consciousness, human freedom, and dignity be simply brain processes? Or do modern brain scientists miss something important? We will give you answers and explain the main..."
 ---
 
 *Author: **Markus Gabriel***

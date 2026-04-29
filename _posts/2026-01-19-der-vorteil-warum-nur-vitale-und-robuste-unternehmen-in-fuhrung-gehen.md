@@ -5,6 +5,8 @@ date: "2026-01-19"
 published: true
 categories:
   - Leadership
+tags: ["Phát triển bản thân"]
+description: "In Der Vorteil (2013), the author explains how to build a strong company culture. He also shows why this is important. In a healthy company, everyone understands each other and works together. These summaries show the steps you need: a leadership team that works well together, cl..."
 ---
 
 *Author: **Patrick Lencioni***

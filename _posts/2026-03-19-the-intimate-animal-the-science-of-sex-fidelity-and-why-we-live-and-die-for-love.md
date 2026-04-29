@@ -3,6 +3,8 @@ layout: "post"
 title: "The Intimate Animal - The Science of Sex, Fidelity, and Why We Live and Die for Love"
 date: "2026-03-19"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Intimate Animal (2026) mixes ideas from evolution, psychology, and social studies. It explains why people have a strong need for deep connections. It also shows how our desires for love, sex, and intimacy affect our romantic relationships. It says that we are naturally made t..."
 ---
 
 *Author: **Justin R. Garcia***

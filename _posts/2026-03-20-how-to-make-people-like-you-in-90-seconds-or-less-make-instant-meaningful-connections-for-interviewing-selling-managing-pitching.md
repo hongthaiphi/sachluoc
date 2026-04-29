@@ -3,6 +3,8 @@ layout: "post"
 title: "How to Make People Like You in 90 Seconds or Less - Make Instant, Meaningful Connections for Interviewing, Selling, Managing, Pitching"
 date: "2026-03-20"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The book How to Make People Like You in 90 Seconds or Less (2000) helps you connect with others. It teaches you to start talking to strangers and make them like you. You will also learn to understand small body movements."
 ---
 
 *Author: **Nicholas Boothman***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Surrender to Lead"
 date: "2026-04-24"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Jessica Kriegel | Category: Motivation & InspirationWHAT’S IN IT FOR ME? DISCOVER HOW STRATEGIC SURRENDER UNLOCKS HIGH-PERFORMANCE ALIGNMENT AND RESULTS."
 ---
 
 **Author:** Jessica Kriegel | **Category:** Motivation & Inspiration## WHAT’S IN IT FOR ME? DISCOVER HOW STRATEGIC SURRENDER UNLOCKS HIGH-PERFORMANCE ALIGNMENT AND RESULTS.

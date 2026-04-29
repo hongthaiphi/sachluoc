@@ -5,6 +5,8 @@ date: "2025-12-12"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "In his book Kopfarbeit (2022), Professor Peter Vajkoczy takes us into the operating room. He shows us the amazing world of the brain and how exact modern brain surgery is. We go to places where growths, defects, and weak blood vessels can threaten life. Every small measurement is..."
 ---
 
 *Author: **Peter Vajkoczy***

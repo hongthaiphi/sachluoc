@@ -3,6 +3,8 @@ layout: "post"
 title: "Jetzt! - Die Kraft der Gegenwart"
 date: "2026-02-21"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Eckhart Tolle explains in The Power of Now that problems, worries, and suffering come only from not feeling present. He shows how to get rid of worries in your life and find inner peace. You can do this by living fully in the Now."
 ---
 
 *Author: **Eckhart Tolle***

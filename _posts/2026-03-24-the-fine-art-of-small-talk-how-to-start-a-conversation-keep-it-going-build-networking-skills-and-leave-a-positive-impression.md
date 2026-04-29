@@ -6,6 +6,8 @@ published: true
 categories:
   - Technology
   - Learning
+tags: ["Công nghệ"]
+description: "The Fine Art of Small Talk (2005) gives good advice to help you talk better with people. Debra Fine shares her own stories about learning to talk to people easily. These blinks will show you how to start, keep going, and finish conversations well."
 ---
 
 *Author: **Debra Fine***

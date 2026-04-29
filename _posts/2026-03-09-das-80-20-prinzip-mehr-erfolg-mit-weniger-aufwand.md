@@ -3,6 +3,8 @@ layout: "post"
 title: "Das 80/20-Prinzip - Mehr Erfolg mit weniger Aufwand"
 date: "2026-03-09"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The 80/20 Principle says that 80% of results often come from only 20% of the work you do. Richard Koch now applies this idea to many different parts of life. This book, The 80/20 Principle (1998), shows how a bit of thinking, guessing, and looking at ourselves can use this rule t..."
 ---
 
 *Author: **Richard Koch***

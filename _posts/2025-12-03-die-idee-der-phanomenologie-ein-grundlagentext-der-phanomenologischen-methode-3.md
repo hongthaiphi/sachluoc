@@ -3,6 +3,8 @@ layout: "post"
 title: "The Idea of Phenomenology - A Foundational Text of Phenomenological Method"
 date: "2025-12-03"
 published: true
+tags: ["Khoa học", "Triết học"]
+description: "The Idea of Phenomenology (1907) is Husserl's book that explains the method of phenomenology. It is mainly about how we can understand the world. Husserl looks closely at what we really experience, such as sights, feelings, and thoughts. We will explain Husserl's main ideas of ph..."
 ---
 
 *Author: **Edmund Husserl***

@@ -3,6 +3,8 @@ layout: "post"
 title: "52 Weeks of Wellbeing - A No-Nonsense Guide to a Fulfilling Work Life"
 date: "2026-02-06"
 published: true
+tags: ["Tâm lý", "Phát triển bản thân"]
+description: "52 Weeks of Wellbeing (2024) shows how to have a healthier and happier work life. It suggests 52 small, simple changes you can make over a year. The book shares easy ideas, proven by studies. These ideas help with things like setting limits, getting enough rest, moving your body,..."
 ---
 
 *Author: **Ryan Hopkins***

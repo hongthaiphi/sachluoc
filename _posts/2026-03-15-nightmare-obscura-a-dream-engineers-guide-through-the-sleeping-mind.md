@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Health
+tags: ["Phát triển bản thân"]
+description: "Nightmare Obscura (2025) looks at how dreaming works and why bad dreams happen. It is based on studies about how sleep affects memory, feelings, and learning. The book tells you about new ways to control dreams ('dream engineering') and lucid dreaming. It shows how understanding..."
 ---
 
 *Author: **Michelle Carr***

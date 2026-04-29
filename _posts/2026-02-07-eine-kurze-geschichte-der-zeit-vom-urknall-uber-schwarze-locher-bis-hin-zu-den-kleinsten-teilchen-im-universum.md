@@ -3,6 +3,8 @@ layout: "post"
 title: "A Brief History of Time - From the Big Bang to Black Holes"
 date: "2026-02-07"
 published: true
+tags: ["Phát triển bản thân"]
+description: "A Brief History of Time explains how scientific ideas and theories have changed our understanding of the universe. From the Big Bang to black holes and the smallest particles, Hawking gives a clear overview of the universe's history. He also talks about the most important scienti..."
 ---
 
 *Author: **Stephen Hawking***

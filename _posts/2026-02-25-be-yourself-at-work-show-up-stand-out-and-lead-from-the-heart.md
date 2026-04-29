@@ -3,6 +3,8 @@ layout: "post"
 title: "Be Yourself at Work - Show Up, Stand Out, and Lead from the Heart"
 date: "2026-02-25"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Be Yourself at Work (2025) shows how being truly yourself helps you succeed in today's workplaces. It talks about the tiredness that comes from always pretending and trying too hard. It explains how being your true self helps you connect with others, create new ideas, and get goo..."
 ---
 
 *Author: **Claude Silver***

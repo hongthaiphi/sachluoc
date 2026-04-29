@@ -3,6 +3,8 @@ layout: "post"
 title: "Stop Getting in Your Own Way - Set Boundaries Without Guilt"
 date: "2026-03-25"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The book Stop Getting in Your Own Way (2024) talks about how not having boundaries stops us from being happy. It also shows us how to change this. Learn how saying a clear 'no' can give you new freedom. This helps you say 'yes' to yourself from the heart again."
 ---
 
 *Author: **Joseph Nguyen***

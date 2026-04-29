@@ -5,6 +5,8 @@ date: "2026-03-05"
 published: true
 categories:
   - Philosophy
+tags: ["Phát triển bản thân"]
+description: "Why Plato Matters Now (2025) looks at the ideas of the old Greek thinker, Plato. It shows that we can still learn a lot from him, from how we talk to how we have romantic relationships. This can make our own lives better and improve society as a whole."
 ---
 
 *Author: **Angie Hobbs***

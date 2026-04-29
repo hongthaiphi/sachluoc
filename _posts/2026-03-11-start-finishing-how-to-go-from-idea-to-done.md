@@ -3,6 +3,8 @@ layout: "post"
 title: "Start Finishing - How to Go from Idea to Done"
 date: "2026-03-11"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Start Finishing (2019) shows you how to turn your ideas into finished projects. It gives simple steps and advice. You will learn how to choose the right idea, how to make it possible, and how to solve any problems you meet."
 ---
 
 *Author: **Charlie Gilkey***

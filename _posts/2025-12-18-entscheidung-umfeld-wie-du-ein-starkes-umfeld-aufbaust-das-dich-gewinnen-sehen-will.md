@@ -3,6 +3,8 @@ layout: post
 title: Entscheidung: Umfeld – Wie du ein starkes Umfeld aufbaust, das dich gewinnen sehen will
 date: 2025-12-18
 published: true
+tags: ["Phát triển bản thân"]
+description: "Decision: Environment (2025) shows how much our personal and work environment affects how we think, act, and grow. You will learn why success doesn't happen alone. It comes from the people, systems, and digital influences around us. You'll also get tips on how to shape your envir..."
 ---
 
 *Author: **Dirk Kreuter***

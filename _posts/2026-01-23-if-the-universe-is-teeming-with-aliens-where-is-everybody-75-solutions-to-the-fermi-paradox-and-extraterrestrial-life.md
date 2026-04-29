@@ -3,6 +3,8 @@ layout: "post"
 title: "If the Universe Is Teeming with Aliens ... Where Is Everybody? - 75 Solutions to the Fermi Paradox and Extraterrestrial Life"
 date: "2026-01-23"
 published: true
+tags: ["Khoa học"]
+description: "If the Universe Is Teeming with Aliens ... Where Is Everybody? (2002) looks at the famous Fermi paradox. This is the puzzling idea that there should be many alien cultures, but we haven't found any signs of them. It explores 75 possible explanations, from science, technology, and..."
 ---
 
 *Author: **Stephen Webb***

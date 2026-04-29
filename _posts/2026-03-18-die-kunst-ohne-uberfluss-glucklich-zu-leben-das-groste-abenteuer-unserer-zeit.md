@@ -3,6 +3,8 @@ layout: "post"
 title: "The Art of Living Without Excess - The Greatest Adventure of Our Time"
 date: "2026-03-18"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Art of Living Happily Without Excess (1982) is a classic self-help book. What was true more than 40 years ago is even more true today: having too many things does not make us happy. Here, you will learn how to escape the pull of consumerism. You will free yourself from things..."
 ---
 
 *Author: **Josef Kirschner***

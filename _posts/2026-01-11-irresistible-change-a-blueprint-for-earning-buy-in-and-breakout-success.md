@@ -3,6 +3,8 @@ layout: "post"
 title: "Irresistible Change - A Blueprint for Earning Buy-In and Breakout Success"
 date: "2026-01-11"
 published: true
+tags: ["Lãnh đạo"]
+description: "Irresistible Change (2025) explains why big changes in companies often fail because of how people work together. It shows a new way to make changes, like selling a product. It's about making people want to join in, instead of just telling them they have to. This helps changes las..."
 ---
 
 *Author: **Phil Gilbert***

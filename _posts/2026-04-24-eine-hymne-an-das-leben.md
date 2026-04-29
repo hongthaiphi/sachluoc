@@ -3,6 +3,8 @@ layout: "post"
 title: "A Hymn to Life"
 date: "2026-04-24"
 published: true
+tags: ["Phát triển bản thân"]
+description: "When Gisèle Pelicot took her rapists to court in 2024, the eyes of the world watched this gentle, quiet woman. She insisted on a public trial to show how many sexual crimes happen to women. With this brave choice, Gisèle started a worldwide discussion about sexual violence and ho..."
 ---
 
 **Author:** Gisèle Pelicot | **Category:** Mindfulness & Happiness

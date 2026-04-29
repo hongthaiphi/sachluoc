@@ -3,6 +3,8 @@ layout: "post"
 title: "Restart - The End of Economics As We Know It"
 date: "2026-02-28"
 published: true
+tags: ["Kinh tế"]
+description: "Neustart (2013) talks about the harm companies cause when they care more about growth and making money than about their employees' well-being. These Blinks will show you why such companies fail as employers and also put their own financial success at risk. This is because only ha..."
 ---
 
 *Author: **Patrick D. Cowden***

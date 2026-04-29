@@ -3,6 +3,8 @@ layout: "post"
 title: "Trust - The Currency of Tomorrow"
 date: "2026-02-02"
 published: true
+tags: ["Lãnh đạo"]
+description: "The Trust Edge (2013) is about trust. Trust is the money of tomorrow. It is not only important in your personal life. It also greatly helps a company's future success. How does this happen? These summaries explain it. They show what trust is built on. They also show how companies..."
 ---
 
 *Author: **David Horsager***

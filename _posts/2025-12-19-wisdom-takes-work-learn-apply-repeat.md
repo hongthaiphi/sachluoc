@@ -5,6 +5,8 @@ date: "2025-12-19"
 published: true
 categories:
   - Philosophy
+tags: ["Phát triển bản thân"]
+description: "Wisdom Takes Work (2025) looks closely at what wisdom is. It is based on stoic ideas. The book uses lessons from thinkers, artists, and new thinkers from history. It shows real wisdom in action. It also gives easy ways to become wiser ourselves."
 ---
 
 *Author: **Ryan Holiday***

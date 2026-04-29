@@ -5,6 +5,8 @@ date: "2025-12-15"
 published: true
 categories:
   - Psychology
+tags: ["Khoa học"]
+description: "In Der einarmige Pianist, Oliver Sacks writes about how music affects the human brain. He shares interesting stories about patients he met as a neurologist. He shows how music can cause or cure mental problems. He also shows how different people experience music in different ways..."
 ---
 
 *Author: **Oliver Sacks***

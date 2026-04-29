@@ -3,6 +3,8 @@ layout: "post"
 title: "Nicomachean Ethics - Ancient Guide to a Happy Life"
 date: "2026-02-24"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In his Nicomachean Ethics (4th century BC), Aristotle explores what makes a good life. He found a very practical idea: happiness is not luck or fate. Instead, it is more like an activity. It is a good mix of reason and emotion. It means trying every day to find the right balance..."
 ---
 
 *Author: **Aristotle***

@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Psychology
+tags: ["Lãnh đạo", "Tâm lý"]
+description: "In Achtsamkeit und emotionale Intelligenz in Organisationen (2023), you will learn how mindful actions and good emotional management help create a healthy and effective work culture. We will show you, using scientific facts and practical methods, how you can use mindfulness and e..."
 ---
 
 *Author: **Svea von Hehn & Johanna Rauls***

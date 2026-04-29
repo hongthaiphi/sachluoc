@@ -5,6 +5,8 @@ date: "2026-04-02"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Good to Great comes from a five-year study. Jim Collins and his team studied companies that became top companies after many years of average results. They found out what made these companies different from others that did not succeed. They put these findings into key ideas about..."
 ---
 
 *Author: **Jim Collins***

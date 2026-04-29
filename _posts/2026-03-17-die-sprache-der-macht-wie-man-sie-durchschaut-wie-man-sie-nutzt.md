@@ -3,6 +3,8 @@ layout: "post"
 title: "Die Sprache der Macht - Wie man sie durchschaut. Wie man sie nutzt."
 date: "2026-03-17"
 published: true
+tags: ["Phát triển bản thân"]
+description: "In The Language of Power (2010), Matthias Nöllke talks about how to influence people well using spoken words. Learn how to use the power of language to get what you want."
 ---
 
 *Author: **Matthias Nöllke***

@@ -5,6 +5,8 @@ date: "2026-03-17"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "Resolute Japan (2024) shows how Japan's main business leaders are ending many years of no growth. They do this by mixing old ways with new, quick ways of working. You will learn useful leadership ideas for handling difficult times, changing company culture, and helping workers mo..."
 ---
 
 *Author: **Jusuke Jj Ikegami***

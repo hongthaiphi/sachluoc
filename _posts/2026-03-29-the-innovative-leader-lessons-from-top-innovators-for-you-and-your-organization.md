@@ -5,6 +5,8 @@ date: "2026-03-29"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo"]
+description: "The Innovative Leader (2024) looks at how top leaders learn to innovate all the time. They don't just have one good idea. This book is based on talks with 50 innovative leaders. It also uses many years of experience. It gives clear steps to help you innovate. This can be in a bus..."
 ---
 
 *Author: **Stephen Wunker***

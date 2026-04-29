@@ -6,6 +6,8 @@ published: true
 categories:
   - Technology
   - Philosophy
+tags: ["AI"]
+description: "Shared Wisdom (2025) looks at how technology and human nature are connected. It shows how we can use new things like AI to help everyone. The book learns from past big changes in technology and what they did. It explains how, if used well, these tools can make us all smarter toge..."
 ---
 
 *Author: **Alex Pentland***

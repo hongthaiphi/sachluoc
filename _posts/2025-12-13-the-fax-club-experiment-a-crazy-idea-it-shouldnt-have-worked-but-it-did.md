@@ -3,6 +3,8 @@ layout: "post"
 title: "The Fax Club Experiment - A crazy idea. It shouldn't have worked. But it did."
 date: "2025-12-13"
 published: true
+tags: ["Kinh doanh"]
+description: "The Fax Club Experiment (2025) starts with a simple question: What happens when 100 strangers slow down, stay anonymous, and answer one deep question each week for a year? It's a calm protest against too much noise. It's a story about being curious, being brave, and finding real..."
 ---
 
 *Author: **The 32***

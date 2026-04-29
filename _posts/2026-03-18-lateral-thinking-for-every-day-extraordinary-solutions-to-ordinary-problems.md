@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Lateral Thinking for Every Day (2023) teaches you how to solve daily problems. It shows you new and creative ways to think, different from usual methods. The book gives real examples and stories. It shares useful steps and tools. These help you think better and solve problems in..."
 ---
 
 *Author: **Paul Sloane***

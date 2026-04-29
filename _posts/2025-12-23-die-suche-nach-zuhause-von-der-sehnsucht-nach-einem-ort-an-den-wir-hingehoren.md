@@ -3,6 +3,8 @@ layout: "post"
 title: "The Search for Home - The Longing for a Place Where We Belong"
 date: "2025-12-23"
 published: true
+tags: ["Tâm lý"]
+description: "In Die Suche nach Zuhause (2025) by Marie Luise Ritter, the author makes a sudden decision. She wants to live out a lifelong dream. She decides to move to Paris. Here, you can read what happened to her and what she experienced."
 ---
 
 *Author: **Marie Luise Ritter***

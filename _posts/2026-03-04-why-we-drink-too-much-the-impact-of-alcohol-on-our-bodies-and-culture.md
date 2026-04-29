@@ -3,6 +3,8 @@ layout: "post"
 title: "Why We Drink Too Much - The Impact of Alcohol on Our Bodies and Culture"
 date: "2026-03-04"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Why We Drink Too Much (2025) shows why some people can drink with friends, but others start to need alcohol more and more. It looks at how alcohol takes over the old survival systems in our brain. It explains how drinking can go from just a little, to sometimes needing it, to ful..."
 ---
 
 *Author: **Charles Knowles***

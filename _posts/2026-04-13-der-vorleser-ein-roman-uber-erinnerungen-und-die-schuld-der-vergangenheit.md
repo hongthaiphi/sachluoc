@@ -3,6 +3,8 @@ layout: "post"
 title: "The Reader - A Novel About Memory and the Guilt of the Past"
 date: "2026-04-13"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Der Vorleser (1995) tells the story of how 15-year-old Michael Berg starts a relationship with a much older woman, Hanna. Later, he learns that she was a guard at a concentration camp during World War II. How could a woman who was so warm and loving be part of the Holocaust? How..."
 ---
 
 *Author: **Bernhard Schlink***

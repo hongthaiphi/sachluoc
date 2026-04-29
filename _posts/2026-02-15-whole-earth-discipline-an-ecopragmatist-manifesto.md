@@ -3,6 +3,8 @@ layout: "post"
 title: "Whole Earth Discipline - An Ecopragmatist Manifesto"
 date: "2026-02-15"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Whole Earth Discipline (2009) says that environmental groups should be more practical. They should be ready to use strong new tools to fight climate change and stop nature from getting worse. It talks about ideas that many environmentalists usually don't like. These include nucle..."
 ---
 
 *Author: **Stewart Brand***

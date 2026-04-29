@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Watchman’s Rattle (2009) asks a serious question: What happens when our world becomes too difficult for the human brain to control? The book uses examples from history, brain science, and real-life stories. It shows why great societies stop making progress, why clear solution..."
 ---
 
 *Author: **Rebecca D. Costa***

@@ -3,6 +3,8 @@ layout: post
 title: Abend Blinks: Andre Agassi – Open
 date: 2026-03-07
 published: true
+tags: ["Phát triển bản thân"]
+description: "Evening Blinks are a perfect way to relax. We play relaxing music. Then we tell you about inspiring people. This time, we take you into the world of Andre Agassi. He was a man who hated tennis but still became a legend. In his book 'Open' (2009), the champion shares his darkest m..."
 ---
 
 *Author: **Andre Agassi***

@@ -3,6 +3,8 @@ layout: "post"
 title: "El corazón de las enseñanzas de Buda"
 date: "2026-04-24"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Thich Nhat Hanh | Category: Consciencia y felicidad¿QUÉ GANO YO CON ESTO? APRENDE A TRANSFORMAR TU SUFRIMIENTO EN ALEGRÍA PROFUNDA."
 ---
 
 **Author:** Thich Nhat Hanh | **Category:** Consciencia y felicidad## ¿QUÉ GANO YO CON ESTO? APRENDE A TRANSFORMAR TU SUFRIMIENTO EN ALEGRÍA PROFUNDA.

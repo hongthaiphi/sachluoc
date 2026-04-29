@@ -5,6 +5,8 @@ date: "2026-01-30"
 published: true
 categories:
   - Learning
+tags: ["Phát triển bản thân"]
+description: "The Art of Happiness is based on many interviews. Psychiatrist Howard C. Cutler spoke with His Holiness the Dalai Lama for this book. The book brings together Buddhist wisdom and Cutler's knowledge of Western therapy. This makes it an easy guide for a happy life. Do you want more..."
 ---
 
 *Author: **Dalai Lama & Howard C. Cutler***

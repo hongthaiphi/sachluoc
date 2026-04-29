@@ -6,6 +6,8 @@ published: true
 categories:
   - Leadership
   - Learning
+tags: ["Phát triển bản thân"]
+description: "Extreme Ownership (2015) shows how teams can act well even under great pressure. It is about taking full responsibility. Navy officers Jocko Willink and Leif Babin share what they learned from fighting in the Iraq War. They turn their experiences into clear leadership rules. Thes..."
 ---
 
 *Author: **Jocko Willink***

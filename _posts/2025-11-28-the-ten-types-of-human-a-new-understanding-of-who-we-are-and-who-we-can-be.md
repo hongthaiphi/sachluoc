@@ -3,6 +3,8 @@ layout: "post"
 title: "The Ten Types of Human - A New Understanding of Who We Are, and Who We Can Be"
 date: "2025-11-28"
 published: true
+tags: ["Xã hội"]
+description: "The Ten Types of Humans (2025) looks closely at the hidden reasons why people act the way they do in very hard situations, like in court or war zones. The book uses ideas from brain science, psychology, and real stories. It shows everything people are able to do when they have to..."
 ---
 
 *Author: **Dexter Dias***

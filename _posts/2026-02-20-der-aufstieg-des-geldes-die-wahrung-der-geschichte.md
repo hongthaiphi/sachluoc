@@ -5,6 +5,8 @@ date: "2026-02-20"
 published: true
 categories:
   - Finance
+tags: ["Phát triển bản thân"]
+description: "The Blinks for The Ascent of Money (2008) show how different historical events led to today's financial system. They explain how money and the financial system became the engine of world history and human progress, even though they can cause crises and unfairness."
 ---
 
 *Author: **Niall Ferguson***

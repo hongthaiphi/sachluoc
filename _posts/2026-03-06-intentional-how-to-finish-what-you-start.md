@@ -3,6 +3,8 @@ layout: "post"
 title: "Intentional - How to Finish What You Start"
 date: "2026-03-06"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Intentional (2025) shows you how to reach your goals. It teaches you to make your daily actions match what is truly important to you. The book uses ten years of research on how to be productive. It also uses ideas from Buddhist thinking. This guide gives useful ways to plan your..."
 ---
 
 *Author: **Chris Bailey***

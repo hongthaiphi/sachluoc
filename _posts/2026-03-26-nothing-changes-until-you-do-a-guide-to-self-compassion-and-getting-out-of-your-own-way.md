@@ -3,6 +3,8 @@ layout: "post"
 title: "Nothing Changes Until You Do - A Guide to Self-Compassion and Getting Out of Your Own Way"
 date: "2026-03-26"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Nothing Changes Until You Do (2014) shows how connecting how we feel about ourselves to our jobs, looks, and successes always leaves us feeling unhappy. It uses honest personal stories and lessons from many different clients. It teaches that being kind to ourselves is what helps..."
 ---
 
 *Author: **Mike Robbins***

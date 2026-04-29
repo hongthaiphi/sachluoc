@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Phát triển bản thân"]
+description: "Playful (2025) says that free play is a way of thinking and something you do every day. It helps you be creative, feel less stressed, and connect better with people. The book uses ideas from psychology and design. It also shares real-life stories. It gives useful tips and ideas f..."
 ---
 
 *Author: **Cas Holman***

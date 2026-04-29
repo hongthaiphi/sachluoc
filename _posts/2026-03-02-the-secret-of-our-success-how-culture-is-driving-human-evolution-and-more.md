@@ -3,6 +3,8 @@ layout: "post"
 title: "The Secret of Our Success - How Culture Is Driving Human Evolution and More"
 date: "2026-03-02"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Secret of Our Success (2015) explains why humans are so successful on Earth. On our own, we are not as strong or skilled as many other animals. The book says our success comes from culture that builds up over time. This means we learn from others and add to what people have l..."
 ---
 
 *Author: **Joseph Henrich***

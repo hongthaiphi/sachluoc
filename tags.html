@@ -1,0 +1,119 @@
+---
+layout: default
+title: Danh mục sách
+permalink: /danh-muc/
+---
+
+<style>
+.tags-page h1 {
+  margin-bottom: .3rem;
+}
+.tags-summary {
+  color: #888;
+  margin-bottom: 2rem;
+  font-size: .92rem;
+}
+.tag-section {
+  margin-bottom: 2.5rem;
+}
+.tag-heading {
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+  margin-bottom: .8rem;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: .5rem;
+}
+.tag-heading .tag-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .3rem .9rem;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.tag-heading .tag-count {
+  font-size: .85rem;
+  color: #aaa;
+}
+.tag-book-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: .4rem .8rem;
+}
+.tag-book-list li a {
+  font-size: .9rem;
+  color: #333;
+  text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  gap: .4rem;
+  line-height: 1.4;
+}
+.tag-book-list li a:hover { color: #609926; text-decoration: underline; }
+.tag-book-list li a .book-date {
+  font-size: .75rem;
+  color: #bbb;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+</style>
+
+{% comment %} Collect unique tags {% endcomment %}
+{% assign all_tags = "" | split: "" %}
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% unless all_tags contains tag %}
+      {% assign all_tags = all_tags | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign all_tags = all_tags | sort %}
+
+<div class="tags-page">
+  <h1>📚 Danh mục sách</h1>
+  <p class="tags-summary">{{ site.posts.size }} cuốn sách &middot; {{ all_tags.size }} danh mục</p>
+
+  {% for tag in all_tags %}
+    {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains tag" %}
+    <div class="tag-section" id="tag-{{ tag | slugify }}">
+      <div class="tag-heading">
+        <span class="tag-badge" data-tag="{{ tag }}">{{ tag }}</span>
+        <span class="tag-count">{{ tag_posts.size }} cuốn</span>
+      </div>
+      <ul class="tag-book-list">
+        {% for post in tag_posts %}
+        <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <span class="book-date">{{ post.date | date: "%m/%Y" }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+const TAG_COLORS = {
+  "Lãnh đạo":           "#2563EB",
+  "Tâm lý":             "#7C3AED",
+  "Kinh tế":            "#059669",
+  "Công nghệ":          "#0891B2",
+  "AI":                 "#D97706",
+  "Xã hội":             "#DC2626",
+  "Kinh doanh":         "#EA580C",
+  "Phát triển bản thân":"#4F46E5",
+  "Khoa học":           "#0D9488",
+  "Triết học":          "#6B7280",
+};
+document.querySelectorAll('.tag-badge[data-tag]').forEach(el => {
+  el.style.background = TAG_COLORS[el.dataset.tag] || '#6B7280';
+});
+</script>

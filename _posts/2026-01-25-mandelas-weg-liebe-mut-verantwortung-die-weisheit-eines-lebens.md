@@ -3,6 +3,8 @@ layout: "post"
 title: "Mandelas Weg - Liebe, Mut, Verantwortung - Die Weisheit eines Lebens"
 date: "2026-01-25"
 published: true
+tags: ["Lãnh đạo", "Xã hội"]
+description: "Mandelas Way (2010) shows us how Nelson Mandela (1918–2013) became the amazing person we know today. His story teaches us to be strong in our mind and character. It shows us how to overcome problems, stand up for what we believe in, and learn to forgive."
 ---
 
 *Author: **Richard Stengel***

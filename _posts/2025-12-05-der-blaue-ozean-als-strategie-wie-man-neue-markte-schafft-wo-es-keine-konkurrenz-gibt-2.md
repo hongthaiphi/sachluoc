@@ -3,6 +3,8 @@ layout: "post"
 title: "Blue Ocean Strategy - How to Create Uncontested Markets"
 date: "2025-12-05"
 published: true
+tags: ["Kinh doanh"]
+description: "Blue Ocean Strategy (2004) changed how companies think about competition and what makes them special. Most companies try hard to get customers in markets that are already full. But other companies create new markets where there is no tough competition. How do they do it? Kim and..."
 ---
 
 *Author: **W. Chan Kim & Renée Mauborgne***

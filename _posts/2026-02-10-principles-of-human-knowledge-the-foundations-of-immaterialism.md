@@ -5,6 +5,8 @@ date: "2026-02-10"
 published: true
 categories:
   - Learning
+tags: ["Phát triển bản thân"]
+description: "A Treatise Concerning the Principles of Human Knowledge (1710) shares a new and surprising idea: the world is not made of matter. Instead, it says the real world only exists if someone is thinking about it or seeing it. Berkeley believes that what we usually call “matter” is actu..."
 ---
 
 *Author: **George Berkeley***

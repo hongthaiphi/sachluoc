@@ -3,6 +3,8 @@ layout: "post"
 title: "Income for All - The Why and How of Universal Basic Income"
 date: "2026-03-22"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Götz W. Werner supports a Universal Basic Income. He believes it gives everyone a chance to be part of a good society. They can also contribute to it. This is true even after the industrial age. People would not need to rely on money from the government, like unemployment benefit..."
 ---
 
 *Author: **Götz W. Werner***

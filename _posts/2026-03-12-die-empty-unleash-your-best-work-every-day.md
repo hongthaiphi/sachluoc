@@ -3,6 +3,8 @@ layout: "post"
 title: "Die Empty - Unleash Your Best Work Every Day"
 date: "2026-03-12"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Die Empty (2013) is a book for anyone who worries their best ideas are always waiting for 'someday.' It helps you understand why smart people and teams get too comfortable and stop growing. It also gives you simple ways to use your energy, ideas, and focus better every day."
 ---
 
 *Author: **Todd Henry***

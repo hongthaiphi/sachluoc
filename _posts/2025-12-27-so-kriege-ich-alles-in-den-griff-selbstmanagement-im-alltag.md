@@ -5,6 +5,8 @@ date: "2025-12-27"
 published: true
 categories:
   - Leadership
+tags: ["Lãnh đạo", "Phát triển bản thân"]
+description: "In So kriege ich alles in den Griff (How I Get Everything Done), David Allen shares his new way to be more productive. He explains how you can focus on projects that are truly exciting and good. This means you need a tidy desk and a clear mind. You also need to remove all the thi..."
 ---
 
 *Author: **David Allen***

@@ -5,6 +5,8 @@ date: "2025-12-28"
 published: true
 categories:
   - Learning
+tags: ["Phát triển bản thân"]
+description: "Why do some people seem to attract good luck, while others always face problems and feel sad? Pessimists Don't Get Kissed (1991) explains how negative thinking has spread in our society. It shows why this is harmful and how we can learn to think optimistically again."
 ---
 
 *Author: **Martin E.P. Seligman***

@@ -3,6 +3,8 @@ layout: "post"
 title: "Search Inside Yourself - Optimiere dein Leben durch Achtsamkeit"
 date: "2025-12-31"
 published: true
+tags: ["Tâm lý"]
+description: "Search Inside Yourself (2012) explains why emotional intelligence is very important, even at work. Chade-Meng Tan combines ideas from brain science and psychology with ancient meditation techniques. The result is a practical guide with clear ideas and exercises about mindfulness,..."
 ---
 
 *Author: **Chade-Meng Tan***

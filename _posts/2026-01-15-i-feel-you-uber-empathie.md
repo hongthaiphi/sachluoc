@@ -3,6 +3,8 @@ layout: "post"
 title: "I Feel You - About Empathy"
 date: "2026-01-15"
 published: true
+tags: ["Phát triển bản thân"]
+description: "I feel you (2025) is a collection of five essays. They explore what empathy means today. We look at pop culture, the internet, and our own feelings. This helps us find out why real compassion is getting harder. But it also shows why it's still good to try and understand other peo..."
 ---
 
 *Author: **Yasmine M'Barek***

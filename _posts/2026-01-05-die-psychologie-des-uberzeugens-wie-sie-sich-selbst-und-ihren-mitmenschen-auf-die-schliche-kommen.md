@@ -5,6 +5,8 @@ date: "2026-01-05"
 published: true
 categories:
   - Psychology
+tags: ["Phát triển bản thân"]
+description: "The Psychology of Persuasion (1997) gives a deep look at how people convince others. How do people make us say yes? How do salespeople, advertisers, and tricksters manipulate us? Knowing this psychology helps us to become better at convincing people. It also protects us from peop..."
 ---
 
 *Author: **Robert B. Cialdini***

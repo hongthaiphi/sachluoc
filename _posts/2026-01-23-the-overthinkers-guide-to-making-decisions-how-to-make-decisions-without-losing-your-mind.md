@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["Phát triển bản thân"]
+description: "The Overthinker’s Guide to Making Decisions (2025) looks at why many people get stuck when they think too much or are unsure. It shows that overthinking often comes from deeper fears. These fears are about control, being sure, and making mistakes. The book explains how to move fr..."
 ---
 
 *Author: **Joseph Nguyen***

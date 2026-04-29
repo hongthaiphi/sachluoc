@@ -3,6 +3,8 @@ layout: "post"
 title: "A Hymn to Life"
 date: "2026-04-26"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Gisèle Pelicot | Category: Motivación e inspiración¿QUÉ ME APORTA ESTE TÍTULO? UNA HISTORIA DE VALENTÍA Y DIGNIDAD QUE CAMBIÓ EL SILENCIO POR JUSTICIA."
 ---
 
 **Author:** Gisèle Pelicot | **Category:** Motivación e inspiración## ¿QUÉ ME APORTA ESTE TÍTULO? UNA HISTORIA DE VALENTÍA Y DIGNIDAD QUE CAMBIÓ EL SILENCIO POR JUSTICIA.

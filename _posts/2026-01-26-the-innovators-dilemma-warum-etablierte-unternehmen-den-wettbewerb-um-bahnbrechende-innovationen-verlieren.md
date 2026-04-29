@@ -5,6 +5,8 @@ date: "2026-01-26"
 published: true
 categories:
   - Technology
+tags: ["Kinh doanh"]
+description: "In The Innovator’s Dilemma (2011), we learn that many large companies often struggle in new markets. They cannot keep up with new, smaller companies. Why does this happen? And what can they do? These Blinks will give you answers. They will show you, with many examples, the mistak..."
 ---
 
 *Author: **Clayton M. Christensen***

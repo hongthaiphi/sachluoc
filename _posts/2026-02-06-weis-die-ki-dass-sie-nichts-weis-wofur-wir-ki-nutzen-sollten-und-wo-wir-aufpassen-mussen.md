@@ -5,6 +5,8 @@ date: "2026-02-06"
 published: true
 categories:
   - Technology
+tags: ["Phát triển bản thân"]
+description: "In Weiß die KI, dass sie nicht weiß? (2025), you will learn how AI models work today. You will find out how they get their answers, what they can do, and where you can use them safely."
 ---
 
 *Author: **Katharina Zweig***

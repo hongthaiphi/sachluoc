@@ -6,6 +6,8 @@ published: true
 categories:
   - Psychology
   - Technology
+tags: ["AI", "Khoa học"]
+description: "What is Intelligence? (2025) says AI is not like a scary alien mind. Instead, it is a normal part of life's long story. Life has always changed, worked together, and tried to guess what happens next. The book connects bacteria, brains, cities, and computer networks. It shows that..."
 ---
 
 *Author: **Blaise Aguera y Arcas***

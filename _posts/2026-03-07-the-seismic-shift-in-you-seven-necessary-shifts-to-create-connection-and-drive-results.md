@@ -3,6 +3,8 @@ layout: "post"
 title: "The Seismic Shift in You - Seven Necessary Shifts to Create Connection and Drive Results"
 date: "2026-03-07"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Seismic Shift in You (2025) gives new ideas about leadership that start with you. It focuses on growing as a person, knowing yourself, and connecting with others. The book shows you simple ways to change how you see yourself and how you act with others. This helps you feel mo..."
 ---
 
 *Author: **Michelle Johnston***

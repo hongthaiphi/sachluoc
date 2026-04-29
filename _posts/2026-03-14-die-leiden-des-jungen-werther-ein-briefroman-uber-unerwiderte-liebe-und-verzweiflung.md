@@ -3,6 +3,8 @@ layout: "post"
 title: "The Sorrows of Young Werther - An Epistolary Novel"
 date: "2026-03-14"
 published: true
+tags: ["Phát triển bản thân"]
+description: "The Sorrows of Young Werther (1774) tells the story of a young man. He steps away from society and lets his feelings guide him completely. The main part of the story is his love for Lotte. But Lotte is already promised to another man, so Werther cannot be with her. His feelings f..."
 ---
 
 *Author: **Johann Wolfgang von Goethe***

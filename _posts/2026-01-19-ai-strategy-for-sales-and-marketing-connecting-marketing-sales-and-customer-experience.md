@@ -5,6 +5,8 @@ date: "2026-01-19"
 published: true
 categories:
   - Technology
+tags: ["Kinh tế", "AI", "Kinh doanh"]
+description: "AI Strategy for Sales and Marketing (2025) offers a guide for how businesses can change. It explains how to move from simple automation to a new way of working called Industry 5.0, where people and machines work closely together. The book teaches you about AI making sales for peo..."
 ---
 
 *Author: **Katie King***

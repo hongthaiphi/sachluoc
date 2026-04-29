@@ -3,6 +3,8 @@ layout: "post"
 title: "Who Owns the Future - You Are Not the Customer, You Are the Product"
 date: "2025-12-21"
 published: true
+tags: ["Công nghệ"]
+description: "Who Owns the Future? (2014) looks at what is going wrong in today's internet economy. It explains why this economy destroys more jobs than it creates. These Blinks show how big internet companies like Google and Facebook work. They also show how we, as a society, should react to..."
 ---
 
 *Author: **Jaron Lanier***

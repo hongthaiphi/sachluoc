@@ -5,6 +5,8 @@ date: "2026-02-18"
 published: true
 categories:
   - Philosophy
+tags: ["Triết học"]
+description: "With his Tractatus Logico-Philosophicus (1921), Ludwig Wittgenstein wanted to find the limits of what makes sense. His main idea is very simple: Our language shapes our world. We can only talk about things that can be shown logically. Everything else, from big questions about mea..."
 ---
 
 *Author: **Ludwig Wittgenstein***

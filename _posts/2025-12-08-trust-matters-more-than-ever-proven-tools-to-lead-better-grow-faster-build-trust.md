@@ -3,6 +3,8 @@ layout: "post"
 title: "Trust Matters More Than Ever - Proven Tools to Lead Better, Grow Faster &amp; Build Trust"
 date: "2025-12-08"
 published: true
+tags: ["Lãnh đạo"]
+description: "The book Trust Matters More Than Ever (2024) says that during problems between countries, an unstable economy, and when society is divided, trust is now very hard to find. This damages our culture, how much work we do, and how we use resources. It offers a clear way to build trus..."
 ---
 
 *Author: **David Horsager***

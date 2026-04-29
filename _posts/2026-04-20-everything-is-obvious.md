@@ -3,6 +3,8 @@ layout: "post"
 title: "Everything is Obvious"
 date: "2026-04-20"
 published: true
+tags: ["Phát triển bản thân"]
+description: "Author: Duncan J. Watts | Category: PsychologyWHAT’S IN IT FOR ME? LEARN HOW TO AVOID THE PITFALLS OF COMMON SENSE."
 ---
 
 **Author:** Duncan J. Watts | **Category:** Psychology## WHAT’S IN IT FOR ME? LEARN HOW TO AVOID THE PITFALLS OF COMMON SENSE.
