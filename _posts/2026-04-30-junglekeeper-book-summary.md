@@ -14,7 +14,7 @@ published: true
 
 ## What's In It For Me?
 
-![Amazon Rainforest](https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=800)
+![Jaguar in rainforest](https://images.unsplash.com/photos/hY1ZhwMhl8M?w=800)
 
 A gripping true tale of life in the wilderness. What would it take to leave everything behind and dedicate your life to saving the wildest place on Earth – knowing it might actually kill you?
 
@@ -23,6 +23,8 @@ Paul Rosolie's life story will pull you deep into the Peruvian Amazon, where anc
 Beyond the jaw-dropping adventure, this story is ultimately about **purpose** – about what happens when a dream becomes a mission, and a mission becomes a life.
 
 ## A Wild Kid's Journey Into the Wild
+
+![Child exploring nature](https://images.unsplash.com/photos/4spcC1jktTs?w=800)
 
 Have you ever felt like you were born into the wrong place? That was Paul Rosolie's entire childhood.
 
@@ -34,7 +36,7 @@ His mother leaned into this talent. She'd blindfold him in the backyard and chal
 
 ## The Web of Life
 
-![Rainforest Canopy](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
+![Rainforest canopy and nature](https://images.unsplash.com/photos/-sqr42Vmyms?w=800)
 
 Once in the Amazon, Paul's real education began. Spending years exploring the forest with his guide JJ – a man who could read animal tracks the way most people read a newspaper – Paul understood that **nature isn't a place you visit. It's a system you're already inside.**
 
@@ -44,7 +46,7 @@ We talk about visiting nature as though we step in and out of it like a shop, bu
 
 ## When the Road Arrived
 
-![Amazon Deforestation](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
+![Deforestation impact](https://images.unsplash.com/photos/EsHykUuYq1E?w=800)
 
 Paul lived completely cut off from the modern world: no electricity, no phone signal, no nearby neighbors. And for a while, it felt like the wilderness might just last forever.
 
@@ -56,6 +58,8 @@ The lesson Paul draws is that **meaningful protection has to happen before the d
 
 ## A Dead End
 
+![Tiger conservation struggle](https://images.unsplash.com/photos/rh5T6fUq7ic?w=800)
+
 After witnessing the destruction firsthand, Paul decided to take matters into his own hands. He built the conservation organization now known as **Junglekeepers** and worked on landmark scientific studies.
 
 But when a television network offered multimillion dollars to make an anaconda documentary, they wanted spectacle, not science. Network executives sent Paul a list of "danger beats" – staged shark fights, buckets of blood poured into rivers.
@@ -66,6 +70,8 @@ When the show aired, every frame of genuine conservation messaging had been cut.
 
 ## The World Starts Paying Attention
 
+![Elephant and wildlife connection](https://images.unsplash.com/photos/nVHp4zhBlO4?w=800)
+
 After his lowest period, Paul fled to South India where he encountered a semi-wild elephant herd. One elephant named Dharma – tuskless, restless, an outsider by nature – became his companion.
 
 This experience taught Paul what **conservation actually meant at its core** – not press releases or television deals, but the kind of slow, unglamorous attention that allowed you to recognize another creature's inner life.
@@ -75,6 +81,8 @@ Then came 2019, and the fires. Standing inside an inferno with ash in his lungs 
 **One honest, furious, unguarded moment of grief finally let strangers feel the loss the way Paul had felt it for years.** He woke the next morning to 30,000 notifications.
 
 ## How to Save a Forest
+
+![Conservation action and hope](https://images.unsplash.com/photos/Z8Y3MnJbVEw?w=800)
 
 What does it actually take to save a rainforest? According to Paul, the answer isn't money or fame or political connections – though all those eventually helped.
 
@@ -91,7 +99,7 @@ A final key is understanding that destruction isn't driven by evil. **It's drive
 
 ## Final Thoughts
 
-![Wildlife Protection](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800)
+![Rainforest future](https://images.unsplash.com/photos/a-leopard-laying-on-a-tree-branch-in-a-jungle-EsHykUuYq1E?w=800)
 
 The wild world is worth fighting for. And sometimes, one unguarded moment of grief shared with strangers is enough to start a movement.
 
