@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Chào mừng đến với Sách Lược"
 date: 2026-04-29
-categories: blog
-author: Thái
+published: true
 ---
 
 # Chào mừng 👋
